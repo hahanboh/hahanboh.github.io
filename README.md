@@ -94,6 +94,8 @@ flowchart LR
 
 完整的架构图、发布流程图、功能矩阵和运行时边界见 [`PROJECT.md`](PROJECT.md)。
 
+项目 branding 文案见 [`docs/BRANDING.md`](docs/BRANDING.md)，社区介绍帖见 [GitHub Discussions #1](https://github.com/Liyuk/astro-fourfold/discussions/1)。
+
 ## Icon Design System
 
 所有界面图标统一由 `src/components/chrome/Icon.astro` 提供：
