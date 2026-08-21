@@ -65,11 +65,13 @@ The starter contains no real author identity, private data, database, server run
 
 ## Screenshots
 
-The repository includes local preview screenshots under `docs/screenshots/`:
+Use `docs/screenshots/theme-cover.png` as the featured theme image. It is a 16:9, 1600×900 preview under the portal's 1280px minimum width and 5MB combined limit.
 
-- `homepage.png`
-- `article.png`
-- `search.png`
+Additional screenshots:
+
+- `docs/screenshots/homepage.png`
+- `docs/screenshots/article.png`
+- `docs/screenshots/search.png`
 
 ## Submission notes
 
