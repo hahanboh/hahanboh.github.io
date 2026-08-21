@@ -261,6 +261,7 @@ https://你的用户名.github.io/你的仓库名/
 - GitHub Discussions 介绍帖：<https://github.com/Liyuk/astro-fourfold/discussions/1>
 - Astro Showcase 提交评论：<https://github.com/withastro/roadmap/discussions/521#discussioncomment-18099696>
 - Astro Theme Portal：<https://portal.astro.build/>
+- Astro 主题提交文案：[`docs/ASTRO-THEME-SUBMISSION.md`](docs/ASTRO-THEME-SUBMISSION.md)
 
 仓库已经设置为 public，并添加了 `astro`、`astro-theme`、`astro-blog`、`astro-template`、`astro-starter`、`github-pages` 等 Topics。Astro Theme Portal 需要使用 GitHub 登录后完成主题提交；README、截图、Demo、branding 文案和仓库 Topics 已准备好。
 
