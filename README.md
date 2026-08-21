@@ -253,7 +253,16 @@ https://你的用户名.github.io/你的仓库名/
 
 如果使用自定义域名或用户站点，把 `BASE_PATH` 改为 `/`，并按 GitHub Pages 的域名设置配置 `SITE_URL`。
 
-## 视觉原则
+## 公开发布入口
+
+- GitHub 仓库：<https://github.com/Liyuk/astro-fourfold>
+- 在线 Demo：<https://liyuk.com/astro-fourfold/>
+- GitHub Release：<https://github.com/Liyuk/astro-fourfold/releases/tag/v0.1.0>
+- GitHub Discussions 介绍帖：<https://github.com/Liyuk/astro-fourfold/discussions/1>
+- Astro Showcase 提交评论：<https://github.com/withastro/roadmap/discussions/521#discussioncomment-18099696>
+- Astro Theme Portal：<https://portal.astro.build/>
+
+仓库已经设置为 public，并添加了 `astro`、`astro-theme`、`astro-blog`、`astro-template`、`astro-starter`、`github-pages` 等 Topics。Astro Theme Portal 需要使用 GitHub 登录后完成主题提交；README、截图、Demo、branding 文案和仓库 Topics 已准备好。
 
 - 编辑化而非营销化：用标题、摘要、日期和分隔线建立秩序。
 - 单列优先：长文宽度受控，列表可扫描，移动端自然降级。
