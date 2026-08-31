@@ -3,12 +3,12 @@ const basePath = import.meta.env.BASE_URL.replace(/\/$/, '');
 const siteUrl = `${siteOrigin}${basePath}`;
 
 export const site = {
-  name: '个人学习博客',
-  title: '个人学习博客 · 学习笔记、研究成果与象棋学习',
+  name: 'baihan',
+  title: 'baihan · 学习笔记、研究成果与象棋学习',
   description: '记录学习内容、研究成果，并逐步建设在线象棋学习内容的个人网站。',
   url: siteUrl,
   author: {
-    name: 'hahanboh',
+    name: 'baihan',
     bio: '持续整理学习笔记、研究方向、项目成果和象棋学习思考。',
     email: '',
   },
