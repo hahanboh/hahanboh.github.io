@@ -22,4 +22,4 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   clear?.addEventListener('click',()=>{try { localStorage.removeItem(key); } catch {} render()});
   render();
 </script>
-<style>.favorites{padding:5rem 0}.favorites h1{font-size:clamp(3rem,8vw,6rem);line-height:.95;letter-spacing:-.07em;margin:.5rem 0}.empty{border-block:1px solid var(--line);padding:2rem 0;color:var(--muted)}.saved{border-bottom:1px solid var(--line);padding:1rem 0}.saved a{color:var(--accent)}button{border:1px solid var(--line);background:none;padding:.5rem .8rem;cursor:pointer}</style>
+<style>.favorites{padding:5rem 0}.favorites h1{font-size:clamp(3rem,8vw,6rem);line-height:.95;letter-spacing:0;margin:.5rem 0}.empty{border-block:1px solid var(--line);padding:2rem 0;color:var(--muted)}.saved{border-bottom:1px solid var(--line);padding:1rem 0}.saved a{color:var(--accent)}button{border:1px solid var(--line);background:none;padding:.5rem .8rem;cursor:pointer}</style>

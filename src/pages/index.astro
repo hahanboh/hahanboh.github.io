@@ -5,42 +5,558 @@ import { getPublishedWriting, getPublishedCollection, byDate, projectPath, resea
 import { site } from '../data/site';
 import { sitePath } from '../lib/urls';
 import Icon from '../components/chrome/Icon.astro';
+
 const writing = await getPublishedWriting();
-const featured = writing.filter((entry) => entry.data.featured).slice(0, 4);
-const recent = writing.slice(0, 5);
-const projects = byDate(await getPublishedCollection('projects')).slice(0, 2);
-const research = byDate(await getPublishedCollection('research')).slice(0, 2);
+const featured = writing.filter((entry) => entry.data.featured).slice(0, 3);
+const recent = writing.slice(0, 4);
+const allProjects = byDate(await getPublishedCollection('projects'));
+const allResearch = byDate(await getPublishedCollection('research'));
+const projects = allProjects.slice(0, 2);
+const research = allResearch.slice(0, 2);
+
+const focusAreas = [
+  {
+    label: '学习笔记',
+    title: '把输入变成可复习的知识',
+    description: '沉淀课程、阅读、论文和技术实践中的关键概念，保留推导过程，也保留踩坑记录。',
+    href: sitePath('/writing/'),
+    action: '浏览笔记',
+    icon: 'bookmark',
+  },
+  {
+    label: '研究成果',
+    title: '整理可以被引用的成果',
+    description: '集中放置研究问题、阶段版本、数据说明和方法复盘，让成果有清晰来处。',
+    href: sitePath('/research/'),
+    action: '查看成果',
+    icon: 'arrowUpRight',
+  },
+  {
+    label: '象棋学习',
+    title: '逐步搭建在线训练内容',
+    description: '从棋理、残局、开局主题和复盘笔记开始，之后可以扩展成交互式练习。',
+    href: sitePath('/columns/'),
+    action: '进入专题',
+    icon: 'check',
+  },
+];
+
+const signals = [
+  { value: writing.length, label: '篇公开笔记' },
+  { value: allResearch.length, label: '项研究记录' },
+  { value: allProjects.length, label: '个项目条目' },
+];
 ---
 <BaseLayout>
-  <section class="hero container">
-    <p class="eyebrow">Personal publication</p>
-    <h1>{site.name}</h1>
-    <p class="lede">{site.description}</p>
-    <p class="author">{site.author.name} · {site.author.bio}</p>
+  <section class="hero-shell">
+    <div class="hero container">
+      <div class="hero-copy">
+        <p class="eyebrow">Personal Knowledge Site</p>
+        <h1>{site.name}</h1>
+        <p class="lede">{site.description}</p>
+        <div class="hero-actions" aria-label="主要入口">
+          <a class="primary-link" href={sitePath('/start/')}>从阅读地图开始 <Icon name="arrowRight" size="sm" /></a>
+          <a class="secondary-link" href={sitePath('/research/')}>看研究成果</a>
+        </div>
+      </div>
+      <div class="study-panel" aria-label="站点概览">
+        <div class="panel-top">
+          <p class="eyebrow">当前结构</p>
+          <span>持续建设中</span>
+        </div>
+        <div class="signal-grid">
+          {signals.map((item) => (
+            <div>
+              <strong>{item.value}</strong>
+              <span>{item.label}</span>
+            </div>
+          ))}
+        </div>
+        <div class="route-list">
+          <a href={sitePath('/writing/')}>学习笔记 <Icon name="arrowRight" size="sm" /></a>
+          <a href={sitePath('/projects/')}>项目实践 <Icon name="arrowRight" size="sm" /></a>
+          <a href={sitePath('/columns/')}>专题栏目 <Icon name="arrowRight" size="sm" /></a>
+        </div>
+      </div>
+    </div>
   </section>
-  <section class="container">
-    <div class="section-heading"><h2><span>01 /</span> 写作</h2><a href={sitePath('/writing/')}>全部 {writing.length} 篇 <Icon name="arrowRight" size="sm" /></a></div>
-    {featured.length > 0 && <><p class="eyebrow sub">精选</p><div class="list">{featured.map((entry) => <PostCard entry={entry} />)}</div></>}
-    <p class="eyebrow sub">最近更新</p><div class="list">{recent.map((entry) => <PostCard entry={entry} />)}</div>
+
+  <section class="container focus-section">
+    <div class="section-heading">
+      <h2><span>01 /</span> 站点方向</h2>
+      <p>先把内容框架搭稳，之后再逐步加入更深的互动功能。</p>
+    </div>
+    <div class="focus-grid">
+      {focusAreas.map((item) => (
+        <article class="focus-card">
+          <div class="focus-icon"><Icon name={item.icon} /></div>
+          <p class="eyebrow">{item.label}</p>
+          <h3>{item.title}</h3>
+          <p>{item.description}</p>
+          <a href={item.href}>{item.action} <Icon name="arrowRight" size="sm" /></a>
+        </article>
+      ))}
+    </div>
   </section>
-  <section class="container split">
-    <div><div class="section-heading"><h2><span>02 /</span> 项目</h2><a href={sitePath('/projects/')}>查看全部 <Icon name="arrowRight" size="sm" /></a></div>{projects.map((entry) => <article><p class="eyebrow">{entry.data.status}</p><h3><a href={projectPath(entry)}>{entry.data.title}</a></h3><p>{entry.data.description}</p></article>)}</div>
-    <div><div class="section-heading"><h2><span>03 /</span> 研究</h2><a href={sitePath('/research/')}>查看全部 <Icon name="arrowRight" size="sm" /></a></div>{research.map((entry) => <article><p class="eyebrow">{entry.data.kind} · v{entry.data.version}</p><h3><a href={researchPath(entry)}>{entry.data.title}</a></h3><p>{entry.data.description}</p></article>)}</div>
+
+  <section class="container content-grid">
+    <div class="writing-column">
+      <div class="section-heading compact">
+        <h2><span>02 /</span> 最近更新</h2>
+        <a href={sitePath('/writing/')}>全部 {writing.length} 篇 <Icon name="arrowRight" size="sm" /></a>
+      </div>
+      {featured.length > 0 && (
+        <div class="featured-strip">
+          <p class="eyebrow">精选</p>
+          <div class="featured-list">
+            {featured.map((entry) => <PostCard entry={entry} />)}
+          </div>
+        </div>
+      )}
+      <div class="list recent-list">
+        {recent.map((entry) => <PostCard entry={entry} />)}
+      </div>
+    </div>
+
+    <aside class="side-column" aria-label="研究与项目">
+      <div class="mini-section">
+        <div class="section-heading compact">
+          <h2><span>03 /</span> 研究</h2>
+          <a href={sitePath('/research/')}>查看 <Icon name="arrowRight" size="sm" /></a>
+        </div>
+        <div class="stack-list">
+          {research.map((entry) => (
+            <article>
+              <p class="eyebrow">{entry.data.kind} · v{entry.data.version}</p>
+              <h3><a href={researchPath(entry)}>{entry.data.title}</a></h3>
+              <p>{entry.data.description}</p>
+            </article>
+          ))}
+        </div>
+      </div>
+      <div class="mini-section">
+        <div class="section-heading compact">
+          <h2><span>04 /</span> 项目</h2>
+          <a href={sitePath('/projects/')}>查看 <Icon name="arrowRight" size="sm" /></a>
+        </div>
+        <div class="stack-list">
+          {projects.map((entry) => (
+            <article>
+              <p class="eyebrow">{entry.data.status}</p>
+              <h3><a href={projectPath(entry)}>{entry.data.title}</a></h3>
+              <p>{entry.data.description}</p>
+            </article>
+          ))}
+        </div>
+      </div>
+    </aside>
   </section>
-  <section class="start container"><p class="eyebrow">04 / 从这里开始</p><h2>不确定从哪里读起？</h2><p>按问题、主题和阅读顺序找到适合自己的入口。</p><a href={sitePath('/start/')}>打开阅读地图 <Icon name="arrowRight" size="sm" /></a></section>
+
+  <section class="xiangqi-band">
+    <div class="container xiangqi-layout">
+      <div>
+        <p class="eyebrow">05 / Xiangqi Learning</p>
+        <h2>把象棋学习做成可以反复练习的内容。</h2>
+        <p>先从局面判断、典型杀法、残局基本功和复盘模板开始。等内容稳定后，可以继续扩展棋盘演示、题目训练和分步提示。</p>
+        <a class="primary-link" href={sitePath('/columns/')}>查看象棋专题 <Icon name="arrowRight" size="sm" /></a>
+      </div>
+      <div class="xiangqi-board" aria-label="象棋学习模块示意">
+        <div class="board-grid">
+          <span class="piece red">车</span>
+          <span class="piece red">马</span>
+          <span class="piece red">相</span>
+          <span class="piece red king">帅</span>
+          <span class="piece dark">炮</span>
+          <span class="piece dark">卒</span>
+          <span class="piece dark king">将</span>
+          <span class="piece red">兵</span>
+        </div>
+        <div class="board-note">
+          <strong>下一步</strong>
+          <span>残局题库 · 开局主题 · 复盘卡片</span>
+        </div>
+      </div>
+    </div>
+  </section>
 </BaseLayout>
+
 <style>
-  .hero { padding:clamp(4rem,10vw,9rem) 0 5rem; }
-  .hero h1 { font-size:clamp(4rem,15vw,10rem); line-height:.85; margin:.5rem 0 1.5rem; letter-spacing:-.08em; }
-  .lede { font-size:clamp(1.4rem,3vw,2.2rem); max-width:45rem; line-height:1.25; }
-  .author { color:var(--muted); max-width:40rem; }
-  .section-heading span { color:var(--accent); font-size:.8rem; font-family:ui-monospace,monospace; }
-  .sub { margin-top:2rem; }
-  .split { display:grid; grid-template-columns:1fr 1fr; gap:4rem; }
-  .split article { border-bottom:1px solid var(--line); padding:1.3rem 0; }
-  .split h3 { margin:.2rem 0; font-size:1.3rem; }
-  .split p:last-child { color:var(--muted); }
-  .start { margin-top:5rem; padding:3rem 0; border-block:1px solid var(--line); }
-  .start h2 { font-size:clamp(2rem,5vw,4rem); margin:.4rem 0; letter-spacing:-.05em; }
-  @media(max-width:48rem){.split{grid-template-columns:1fr;gap:0}.hero{padding-top:4rem}}
+  .hero-shell {
+    border-bottom: 1px solid var(--line);
+    background:
+      linear-gradient(135deg, color-mix(in srgb, var(--accent) 10%, transparent), transparent 42%),
+      linear-gradient(180deg, var(--paper), var(--paper-2));
+  }
+
+  .hero {
+    display: grid;
+    grid-template-columns: minmax(0, 1.15fr) minmax(20rem, .85fr);
+    gap: clamp(2rem, 5vw, 4.5rem);
+    align-items: center;
+    min-height: calc(100svh - 5rem);
+    padding: clamp(3rem, 6vw, 5rem) 0;
+  }
+
+  .hero h1 {
+    max-width: 11ch;
+    margin: .55rem 0 1rem;
+    font-size: clamp(3.2rem, 9vw, 7.4rem);
+    line-height: .95;
+    letter-spacing: 0;
+  }
+
+  .lede {
+    max-width: 43rem;
+    margin: 0;
+    color: var(--muted);
+    font-size: clamp(1.25rem, 2.4vw, 1.85rem);
+    line-height: 1.45;
+  }
+
+  .hero-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .75rem;
+    margin-top: 1.8rem;
+  }
+
+  .primary-link,
+  .secondary-link,
+  .focus-card a,
+  .section-heading a,
+  .route-list a {
+    display: inline-flex;
+    align-items: center;
+    gap: .35rem;
+    text-decoration: none;
+  }
+
+  .primary-link {
+    min-height: 2.7rem;
+    padding: .55rem .9rem;
+    border: 1px solid var(--ink);
+    border-radius: 8px;
+    background: var(--ink);
+    color: var(--paper);
+    font-weight: 700;
+  }
+
+  .secondary-link {
+    min-height: 2.7rem;
+    padding: .55rem .9rem;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    color: var(--ink);
+    font-weight: 700;
+  }
+
+  .study-panel,
+  .focus-card,
+  .stack-list article,
+  .xiangqi-board {
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    background: var(--surface);
+    box-shadow: 0 18px 50px color-mix(in srgb, var(--ink) 8%, transparent);
+  }
+
+  .study-panel {
+    padding: clamp(1rem, 3vw, 1.4rem);
+  }
+
+  .panel-top,
+  .signal-grid,
+  .board-note {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    align-items: center;
+  }
+
+  .panel-top span,
+  .board-note span {
+    color: var(--muted);
+    font-size: .9rem;
+  }
+
+  .signal-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    margin: 1rem 0;
+    border-block: 1px solid var(--line);
+  }
+
+  .signal-grid div {
+    min-height: 7rem;
+    padding: 1rem .75rem;
+    border-right: 1px solid var(--line);
+  }
+
+  .signal-grid div:last-child {
+    border-right: 0;
+  }
+
+  .signal-grid strong {
+    display: block;
+    font-size: clamp(2rem, 5vw, 3.25rem);
+    line-height: 1;
+  }
+
+  .signal-grid span,
+  .route-list a {
+    color: var(--muted);
+    font-size: .92rem;
+  }
+
+  .route-list {
+    display: grid;
+    gap: .55rem;
+  }
+
+  .route-list a {
+    justify-content: space-between;
+    padding: .55rem 0;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .focus-section {
+    padding: clamp(3rem, 8vw, 5rem) 0 0;
+  }
+
+  .section-heading p {
+    max-width: 30rem;
+    margin: 0;
+    color: var(--muted);
+    font-size: .95rem;
+  }
+
+  .focus-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1rem;
+    margin-top: 1.3rem;
+  }
+
+  .focus-card {
+    display: flex;
+    flex-direction: column;
+    min-height: 19rem;
+    padding: 1.15rem;
+  }
+
+  .focus-icon {
+    display: grid;
+    place-items: center;
+    width: 2.35rem;
+    height: 2.35rem;
+    margin-bottom: 1.2rem;
+    border-radius: 50%;
+    background: var(--soft);
+    color: var(--accent);
+  }
+
+  .focus-card h3 {
+    margin: .45rem 0;
+    font-size: 1.25rem;
+    line-height: 1.25;
+  }
+
+  .focus-card p:not(.eyebrow) {
+    color: var(--muted);
+    margin: 0 0 1rem;
+  }
+
+  .focus-card a {
+    margin-top: auto;
+    color: var(--accent);
+    font-weight: 700;
+  }
+
+  .content-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1.45fr) minmax(18rem, .75fr);
+    gap: clamp(2rem, 5vw, 4rem);
+    padding: clamp(3rem, 8vw, 5rem) 0;
+  }
+
+  .compact {
+    margin-top: 0;
+  }
+
+  .featured-strip {
+    margin: 1.25rem 0 1.75rem;
+    padding: .8rem 1rem .3rem;
+    border-left: 4px solid var(--accent);
+    background: var(--paper-2);
+  }
+
+  .recent-list {
+    border-top: 1px solid var(--line);
+  }
+
+  .side-column,
+  .stack-list {
+    display: grid;
+    gap: 1rem;
+  }
+
+  .mini-section {
+    display: grid;
+    gap: 1rem;
+  }
+
+  .stack-list article {
+    padding: 1rem;
+    box-shadow: none;
+  }
+
+  .stack-list h3 {
+    margin: .3rem 0 .45rem;
+    font-size: 1.08rem;
+    line-height: 1.35;
+  }
+
+  .stack-list h3 a {
+    text-decoration: none;
+  }
+
+  .stack-list h3 a:hover {
+    text-decoration: underline;
+  }
+
+  .stack-list p:last-child {
+    margin: 0;
+    color: var(--muted);
+    font-size: .93rem;
+  }
+
+  .xiangqi-band {
+    padding: clamp(3rem, 8vw, 5.5rem) 0;
+    border-top: 1px solid var(--line);
+    background: var(--ink);
+    color: var(--paper);
+  }
+
+  .xiangqi-band .eyebrow {
+    color: var(--accent-2);
+  }
+
+  .xiangqi-band .primary-link {
+    border-color: var(--paper);
+    background: var(--paper);
+    color: var(--ink);
+  }
+
+  .xiangqi-layout {
+    display: grid;
+    grid-template-columns: minmax(0, .9fr) minmax(20rem, 1fr);
+    gap: clamp(2rem, 6vw, 5rem);
+    align-items: center;
+  }
+
+  .xiangqi-layout h2 {
+    max-width: 13ch;
+    margin: .5rem 0 1rem;
+    font-size: clamp(2.2rem, 5vw, 4.4rem);
+    line-height: 1.05;
+    letter-spacing: 0;
+  }
+
+  .xiangqi-layout p:not(.eyebrow) {
+    max-width: 38rem;
+    color: color-mix(in srgb, var(--paper) 72%, transparent);
+  }
+
+  .xiangqi-board {
+    overflow: hidden;
+    background: var(--board-paper);
+    color: var(--xiangqi-dark);
+  }
+
+  .board-grid {
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: .8rem;
+    min-height: 22rem;
+    padding: 1.15rem;
+    background:
+      linear-gradient(var(--board-line) 1px, transparent 1px),
+      linear-gradient(90deg, var(--board-line) 1px, transparent 1px);
+    background-size: 25% 20%;
+  }
+
+  .piece {
+    display: grid;
+    place-items: center;
+    aspect-ratio: 1;
+    align-self: center;
+    justify-self: center;
+    width: min(100%, 4.5rem);
+    border: 2px solid currentColor;
+    border-radius: 50%;
+    background: color-mix(in srgb, var(--board-paper) 88%, white);
+    font-size: 1.45rem;
+    font-weight: 800;
+    box-shadow: 0 8px 20px color-mix(in srgb, var(--ink) 12%, transparent);
+  }
+
+  .piece.red {
+    color: var(--xiangqi-red);
+  }
+
+  .piece.dark {
+    color: var(--xiangqi-dark);
+  }
+
+  .piece.king {
+    width: min(100%, 5.4rem);
+    font-size: 1.8rem;
+  }
+
+  .board-note {
+    padding: 1rem 1.15rem;
+    border-top: 1px solid var(--board-line);
+  }
+
+  @media (max-width: 58rem) {
+    .hero,
+    .content-grid,
+    .xiangqi-layout {
+      grid-template-columns: 1fr;
+    }
+
+    .hero {
+      min-height: auto;
+    }
+
+    .focus-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  @media (max-width: 40rem) {
+    .signal-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .signal-grid div {
+      min-height: auto;
+      border-right: 0;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .signal-grid div:last-child {
+      border-bottom: 0;
+    }
+
+    .board-grid {
+      min-height: 18rem;
+      gap: .45rem;
+    }
+
+    .piece {
+      font-size: 1.1rem;
+    }
+  }
 </style>
