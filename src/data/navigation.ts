@@ -1,11 +1,9 @@
 export const navigation = [
   { label: '开始', href: '/start/' },
-  { label: '写作', href: '/writing/' },
-  { label: '专栏', href: '/columns/' },
+  { label: '学习笔记', href: '/writing/' },
+  { label: '研究成果', href: '/research/' },
   { label: '项目', href: '/projects/' },
-  { label: '研究', href: '/research/' },
-  { label: '影像', href: '/photos/' },
+  { label: '象棋学习', href: '/columns/' },
   { label: '关于', href: '/about/' },
-  { label: '友链', href: '/links/' },
-  { label: '标签', href: '/tags/' },
+  { label: '搜索', href: '/search/' },
 ] as const;

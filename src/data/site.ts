@@ -3,13 +3,13 @@ const basePath = import.meta.env.BASE_URL.replace(/\/$/, '');
 const siteUrl = `${siteOrigin}${basePath}`;
 
 export const site = {
-  name: 'A Quiet Publication',
-  title: 'A Quiet Publication · 静态个人出版物模板',
-  description: '一个不绑定作者身份的写作、项目、研究与影像出版模板。',
+  name: '个人学习博客',
+  title: '个人学习博客 · 学习笔记、研究成果与象棋学习',
+  description: '记录学习内容、研究成果，并逐步建设在线象棋学习内容的个人网站。',
   url: siteUrl,
   author: {
-    name: 'Site Author',
-    bio: '这里放置作者简介、长期关注的问题和公开写作方向。',
+    name: 'hahanboh',
+    bio: '持续整理学习笔记、研究方向、项目成果和象棋学习思考。',
     email: '',
   },
   locale: 'zh-cn',
@@ -20,7 +20,9 @@ export const site = {
     name: 'CC BY-NC-SA 4.0',
     url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
   },
-  social: [] as Array<{ label: string; href: string }>,
+  social: [
+    { label: 'GitHub', href: 'https://github.com/hahanboh' },
+  ] as Array<{ label: string; href: string }>,
   features: {
     search: true,
     favorites: true,
