@@ -1,8 +1,8 @@
 # 柏涵
 
-这是柏涵的个人网站，用来记录学习笔记、研究成果、项目实践，以及之后可能会继续建设的象棋学习内容。
+这是柏涵的个人网站，用来记录英语学习笔记、学习内容、研究成果和项目实践。
 
-网站基于 Astro 搭建，通过 GitHub Pages 发布。以后可以慢慢添加文章、专题、研究记录，也可以继续扩展成交互式学习工具。
+网站基于 Astro 搭建，通过 GitHub Pages 发布。
 
 网站地址：
 
@@ -10,21 +10,106 @@
 https://hahanboh.github.io/
 ```
 
-## 我可以修改什么
+## 现在先做什么
 
-这个网站不是固定模板，后面可以随时改。
+当前重点是先把英语笔记整理上来。
 
-你可以修改：
+建议流程：
 
-- 首页的介绍文字
-- 首页上的内容区块
-- 网站名称和简介
-- 顶部导航
-- 学习笔记
-- 研究成果
-- 项目展示
-- 象棋学习专题
-- 网站颜色、字体和排版
+1. 从 Obsidian 里挑一篇想公开整理的笔记。
+2. 在网站里为这篇笔记新建一个文件夹。
+3. 把正文放进 `index.md`。
+4. 把这篇笔记用到的图片放在同一个文件夹里。
+5. 检查标题、简介、标签和图片路径。
+6. 用 GitHub Desktop 提交并推送。
+
+## 英语笔记放在哪里
+
+学习笔记放在：
+
+```text
+src/content/writing
+```
+
+推荐一篇笔记一个文件夹，例如：
+
+```text
+src/content/writing/
+└─ english-grammar-tense/
+   ├─ index.md
+   ├─ timeline.png
+   └─ example-sentence.png
+```
+
+这里的意思是：
+
+- `english-grammar-tense` 是这篇笔记的文件夹名
+- `index.md` 是正文
+- `timeline.png` 和 `example-sentence.png` 是这篇笔记用到的图片
+
+文件夹名建议用英文小写，单词之间用 `-` 连接。
+
+## 英语笔记模板
+
+模板文件在：
+
+```text
+docs/templates/english-note-template.md
+```
+
+使用方法：
+
+1. 复制这个模板文件。
+2. 放到新的笔记文件夹里。
+3. 改名为 `index.md`。
+4. 把里面的示例文字替换成你的内容。
+
+## 图片怎么放
+
+图片放在对应笔记文件夹里，和 `index.md` 放在一起。
+
+例如：
+
+```text
+src/content/writing/english-grammar-tense/
+├─ index.md
+└─ tense-table.png
+```
+
+文章里这样引用：
+
+```md
+![时态表格](./tense-table.png)
+```
+
+不要直接使用 Obsidian 的图片写法：
+
+```md
+![[tense-table.png]]
+```
+
+这个网站暂时不识别 Obsidian 的双中括号图片链接。之后如果笔记多了，可以再做批量转换。
+
+## Obsidian 笔记怎么同步
+
+不要一开始把整个 Obsidian 仓库都上传。
+
+推荐做法是：
+
+```text
+Obsidian 负责日常记录
+网站只放整理后准备公开的版本
+```
+
+你可以在 Obsidian 里建一个文件夹，例如：
+
+```text
+准备发布
+```
+
+只有这个文件夹里的笔记才复制到网站。
+
+这样可以避免把草稿、私人内容、没整理完的链接一起发布出去。
 
 ## 常用修改位置
 
@@ -36,11 +121,7 @@ https://hahanboh.github.io/
 src/pages/index.astro
 ```
 
-如果想改首页上的文字、按钮、栏目、象棋学习区块，优先改这个文件。
-
-首页里的 `focusAreas` 控制三个主要入口，比如“学习笔记”“研究成果”“象棋学习”。
-
-如果想添加新的首页区块，也是在这个文件里添加新的 `<section>`。
+如果想改首页文字、按钮或内容区块，优先改这个文件。
 
 ### 修改网站名称和简介
 
@@ -69,16 +150,6 @@ src/data/navigation.ts
 
 如果想增加、删除或改名顶部菜单，就改这个文件。
 
-### 添加学习笔记
-
-学习笔记放在：
-
-```text
-src/content/writing
-```
-
-可以复制里面已有的 Markdown 文件，然后改标题、日期、简介和正文。
-
 ### 添加研究成果
 
 研究内容放在：
@@ -98,47 +169,6 @@ src/content/projects
 ```
 
 适合放自己的项目、代码作品、课程作业、研究工具等内容。
-
-### 添加专题栏目
-
-专题栏目放在：
-
-```text
-src/content/columns
-```
-
-以后象棋学习内容可以先放在这里。比如：
-
-- 残局练习
-- 开局整理
-- 复盘笔记
-- 杀法专题
-- 棋理总结
-
-## Obsidian 笔记能不能放进来
-
-可以。
-
-Obsidian 的笔记本质上也是 Markdown 文件，所以可以放进 `src/content/writing`。
-
-不过建议先从几篇整理好的笔记开始，不要一上来导入整个 Obsidian 仓库。
-
-网站文章一般需要在开头加一段信息，例如：
-
-```md
----
-title: "我的第一篇学习笔记"
-description: "这篇笔记记录了我对某个主题的理解。"
-publishedAt: 2026-08-31
-tags: ["学习", "笔记"]
-featured: false
-draft: false
----
-
-这里开始写正文。
-```
-
-如果 Obsidian 里有 `[[双链]]`，网站可能暂时不能直接识别。之后可以再做一个批量转换功能。
 
 ## 修改网站样式
 
@@ -181,13 +211,3 @@ src/styles/global.css
 ```text
 https://hahanboh.github.io/
 ```
-
-## 模板来源
-
-这个网站最初参考了 Astro Fourfold 模板：
-
-```text
-https://github.com/Liyuk/astro-fourfold
-```
-
-现在已经改成适合个人学习、研究记录和象棋学习方向的个人网站。

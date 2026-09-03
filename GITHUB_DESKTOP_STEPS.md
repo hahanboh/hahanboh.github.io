@@ -55,4 +55,4 @@ https://hahanboh.github.io/personal-site/
 - Markdown/MDX 写作体验好
 - 已内置写作、研究、项目、标签、搜索、RSS
 - GitHub Pages 工作流已准备好
-- 后续加象棋交互页面会比 Hugo 更灵活
+- 后续整理英语笔记、研究内容和项目展示会更灵活

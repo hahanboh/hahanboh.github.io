@@ -9,10 +9,6 @@
   --accent-2: #4b8f83;
   --accent-3: #c2912f;
   --soft: #e8dfd1;
-  --board-paper: #e7bd77;
-  --board-line: #8d6530;
-  --xiangqi-red: #b33f2f;
-  --xiangqi-dark: #20211e;
   --icon-size-sm: 1rem;
   --icon-size-md: 1.2rem;
   --icon-size-lg: 1.5rem;
@@ -28,10 +24,6 @@
   --accent-2: #83c9ba;
   --accent-3: #e1b65b;
   --soft: #2a3029;
-  --board-paper: #d2a15e;
-  --board-line: #6d4d25;
-  --xiangqi-red: #c74b39;
-  --xiangqi-dark: #1c1d1b;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme='light']) {
@@ -45,10 +37,6 @@
     --accent-2: #83c9ba;
     --accent-3: #e1b65b;
     --soft: #2a3029;
-    --board-paper: #d2a15e;
-    --board-line: #6d4d25;
-    --xiangqi-red: #c74b39;
-    --xiangqi-dark: #1c1d1b;
     --icon-size-sm: 1rem;
     --icon-size-md: 1.2rem;
     --icon-size-lg: 1.5rem;

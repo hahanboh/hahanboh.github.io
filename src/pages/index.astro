@@ -16,12 +16,20 @@ const research = allResearch.slice(0, 2);
 
 const focusAreas = [
   {
-    label: '学习笔记',
-    title: '把输入变成可复习的知识',
-    description: '沉淀课程、阅读、论文和技术实践中的关键概念，保留推导过程，也保留踩坑记录。',
+    label: '英语笔记',
+    title: '把英语学习整理成可复习的材料',
+    description: '整理词汇、语法、阅读、听力和表达练习，把零散记录变成之后能继续复习的笔记。',
     href: sitePath('/writing/'),
-    action: '浏览笔记',
+    action: '查看笔记',
     icon: 'bookmark',
+  },
+  {
+    label: '学习记录',
+    title: '把输入变成长期知识',
+    description: '保留课程、阅读、论文和技术实践中的关键概念，也保留自己的理解过程。',
+    href: sitePath('/writing/'),
+    action: '浏览全部',
+    icon: 'check',
   },
   {
     label: '研究成果',
@@ -30,14 +38,6 @@ const focusAreas = [
     href: sitePath('/research/'),
     action: '查看成果',
     icon: 'arrowUpRight',
-  },
-  {
-    label: '象棋学习',
-    title: '逐步搭建在线训练内容',
-    description: '从棋理、残局、开局主题和复盘笔记开始，之后可以扩展成交互式练习。',
-    href: sitePath('/columns/'),
-    action: '进入专题',
-    icon: 'check',
   },
 ];
 
@@ -73,9 +73,9 @@ const signals = [
           ))}
         </div>
         <div class="route-list">
-          <a href={sitePath('/writing/')}>学习笔记 <Icon name="arrowRight" size="sm" /></a>
+          <a href={sitePath('/writing/')}>英语笔记 <Icon name="arrowRight" size="sm" /></a>
+          <a href={sitePath('/research/')}>研究成果 <Icon name="arrowRight" size="sm" /></a>
           <a href={sitePath('/projects/')}>项目实践 <Icon name="arrowRight" size="sm" /></a>
-          <a href={sitePath('/columns/')}>专题栏目 <Icon name="arrowRight" size="sm" /></a>
         </div>
       </div>
     </div>
@@ -84,7 +84,7 @@ const signals = [
   <section class="container focus-section">
     <div class="section-heading">
       <h2><span>01 /</span> 站点方向</h2>
-      <p>先把内容框架搭稳，之后再逐步加入更深的互动功能。</p>
+      <p>先从英语笔记开始，把内容整理成自己愿意反复打开的学习档案。</p>
     </div>
     <div class="focus-grid">
       {focusAreas.map((item) => (
@@ -150,33 +150,6 @@ const signals = [
         </div>
       </div>
     </aside>
-  </section>
-
-  <section class="xiangqi-band">
-    <div class="container xiangqi-layout">
-      <div>
-        <p class="eyebrow">05 / Xiangqi Learning</p>
-        <h2>把象棋学习做成可以反复练习的内容。</h2>
-        <p>先从局面判断、典型杀法、残局基本功和复盘模板开始。等内容稳定后，可以继续扩展棋盘演示、题目训练和分步提示。</p>
-        <a class="primary-link" href={sitePath('/columns/')}>查看象棋专题 <Icon name="arrowRight" size="sm" /></a>
-      </div>
-      <div class="xiangqi-board" aria-label="象棋学习模块示意">
-        <div class="board-grid">
-          <span class="piece red">车</span>
-          <span class="piece red">马</span>
-          <span class="piece red">相</span>
-          <span class="piece red king">帅</span>
-          <span class="piece dark">炮</span>
-          <span class="piece dark">卒</span>
-          <span class="piece dark king">将</span>
-          <span class="piece red">兵</span>
-        </div>
-        <div class="board-note">
-          <strong>下一步</strong>
-          <span>残局题库 · 开局主题 · 复盘卡片</span>
-        </div>
-      </div>
-    </div>
   </section>
 </BaseLayout>
 
@@ -252,8 +225,7 @@ const signals = [
 
   .study-panel,
   .focus-card,
-  .stack-list article,
-  .xiangqi-board {
+  .stack-list article {
     border: 1px solid var(--line);
     border-radius: 8px;
     background: var(--surface);
@@ -265,16 +237,14 @@ const signals = [
   }
 
   .panel-top,
-  .signal-grid,
-  .board-note {
+  .signal-grid {
     display: flex;
     justify-content: space-between;
     gap: 1rem;
     align-items: center;
   }
 
-  .panel-top span,
-  .board-note span {
+  .panel-top span {
     color: var(--muted);
     font-size: .9rem;
   }
@@ -430,99 +400,9 @@ const signals = [
     font-size: .93rem;
   }
 
-  .xiangqi-band {
-    padding: clamp(3rem, 8vw, 5.5rem) 0;
-    border-top: 1px solid var(--line);
-    background: var(--ink);
-    color: var(--paper);
-  }
-
-  .xiangqi-band .eyebrow {
-    color: var(--accent-2);
-  }
-
-  .xiangqi-band .primary-link {
-    border-color: var(--paper);
-    background: var(--paper);
-    color: var(--ink);
-  }
-
-  .xiangqi-layout {
-    display: grid;
-    grid-template-columns: minmax(0, .9fr) minmax(20rem, 1fr);
-    gap: clamp(2rem, 6vw, 5rem);
-    align-items: center;
-  }
-
-  .xiangqi-layout h2 {
-    max-width: 13ch;
-    margin: .5rem 0 1rem;
-    font-size: clamp(2.2rem, 5vw, 4.4rem);
-    line-height: 1.05;
-    letter-spacing: 0;
-  }
-
-  .xiangqi-layout p:not(.eyebrow) {
-    max-width: 38rem;
-    color: color-mix(in srgb, var(--paper) 72%, transparent);
-  }
-
-  .xiangqi-board {
-    overflow: hidden;
-    background: var(--board-paper);
-    color: var(--xiangqi-dark);
-  }
-
-  .board-grid {
-    position: relative;
-    display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: .8rem;
-    min-height: 22rem;
-    padding: 1.15rem;
-    background:
-      linear-gradient(var(--board-line) 1px, transparent 1px),
-      linear-gradient(90deg, var(--board-line) 1px, transparent 1px);
-    background-size: 25% 20%;
-  }
-
-  .piece {
-    display: grid;
-    place-items: center;
-    aspect-ratio: 1;
-    align-self: center;
-    justify-self: center;
-    width: min(100%, 4.5rem);
-    border: 2px solid currentColor;
-    border-radius: 50%;
-    background: color-mix(in srgb, var(--board-paper) 88%, white);
-    font-size: 1.45rem;
-    font-weight: 800;
-    box-shadow: 0 8px 20px color-mix(in srgb, var(--ink) 12%, transparent);
-  }
-
-  .piece.red {
-    color: var(--xiangqi-red);
-  }
-
-  .piece.dark {
-    color: var(--xiangqi-dark);
-  }
-
-  .piece.king {
-    width: min(100%, 5.4rem);
-    font-size: 1.8rem;
-  }
-
-  .board-note {
-    padding: 1rem 1.15rem;
-    border-top: 1px solid var(--board-line);
-  }
-
   @media (max-width: 58rem) {
     .hero,
-    .content-grid,
-    .xiangqi-layout {
+    .content-grid {
       grid-template-columns: 1fr;
     }
 
@@ -548,15 +428,6 @@ const signals = [
 
     .signal-grid div:last-child {
       border-bottom: 0;
-    }
-
-    .board-grid {
-      min-height: 18rem;
-      gap: .45rem;
-    }
-
-    .piece {
-      font-size: 1.1rem;
     }
   }
 </style>

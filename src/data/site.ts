@@ -4,12 +4,12 @@ const siteUrl = `${siteOrigin}${basePath}`;
 
 export const site = {
   name: '柏涵',
-  title: '柏涵 · 学习笔记、研究成果与象棋学习',
-  description: '记录学习内容、研究成果，并逐步建设在线象棋学习内容的个人网站。',
+  title: '柏涵 · 英语笔记、学习记录与研究成果',
+  description: '记录英语学习笔记、学习内容、研究成果和项目实践的个人网站。',
   url: siteUrl,
   author: {
     name: '柏涵',
-    bio: '持续整理学习笔记、研究方向、项目成果和象棋学习思考。',
+    bio: '持续整理英语笔记、学习记录、研究方向和项目成果。',
     email: '',
   },
   locale: 'zh-cn',
