@@ -2,6 +2,7 @@
 .prose h2 { margin-top: 3rem; font-size: 1.8rem; letter-spacing: 0; }
 .prose h3 { margin-top: 2rem; font-size: 1.35rem; }
 .prose h4 { margin: 1.6rem 0 .5rem; font-size: 1.05rem; letter-spacing: 0; }
+.prose h5 { margin: 1.2rem 0 .4rem; font-size: 1rem; letter-spacing: 0; }
 .prose p, .prose ul, .prose ol, .prose blockquote { margin: 1.2rem 0; }
 .prose p { white-space: pre-line; }
 .prose blockquote { margin-left: 0; padding: .25rem 1rem; border-left: 3px solid var(--accent); color: var(--muted); }
@@ -10,3 +11,14 @@
 .prose pre { padding: 1rem; overflow-x: auto; border: 1px solid var(--line); background: var(--soft); }
 .prose code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .88em; }
 .prose :not(pre) > code { padding: .1em .3em; background: var(--soft); }
+.prose .day-note { margin: .9rem 0; border: 1px solid var(--line); background: var(--soft); }
+.prose .day-note summary { display: flex; align-items: center; justify-content: space-between; gap: 1rem; cursor: pointer; padding: .75rem .9rem; font-weight: 700; color: var(--ink); }
+.prose .day-note summary::-webkit-details-marker { display: none; }
+.prose .day-note summary::after { content: "+"; color: var(--accent); font-size: 1.1rem; }
+.prose .day-note[open] summary { border-bottom: 1px solid var(--line); }
+.prose .day-note[open] summary::after { content: "-"; }
+.prose .day-note-body { padding: .1rem .9rem .9rem; }
+.prose .day-note-body > :first-child { margin-top: .75rem; }
+.prose .day-note-body > :last-child { margin-bottom: 0; }
+.prose .day-note pre { border: 0; background: transparent; padding: 0; font-family: inherit; font-size: 1rem; line-height: 1.8; }
+.prose .day-note code { font-family: inherit; }

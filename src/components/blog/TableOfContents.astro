@@ -1,10 +1,13 @@
 ---
 const { headings = [] } = Astro.props;
 ---
-{headings.length > 0 && <details class="toc"><summary>目录</summary><ol>{headings.map((heading: any) => <li><a href={`#${heading.slug}`}>{heading.text}</a></li>)}</ol></details>}
+{headings.length > 0 && <details class="toc"><summary>目录</summary><ol>{headings.map((heading: any) => <li class={`depth-${heading.depth}`}><a href={`#${heading.slug}`}>{heading.text}</a></li>)}</ol></details>}
 <style>
   .toc { margin:2rem 0; border-block:1px solid var(--line); padding:.8rem 0; color:var(--muted); }
   .toc summary { cursor:pointer; color:var(--ink); }
-  .toc ol { margin:.8rem 0 0; padding-left:1.3rem; }
+  .toc ol { margin:.8rem 0 0; padding-left:1.1rem; }
+  .toc li { margin:.35rem 0; }
+  .toc .depth-3 { margin-left:1rem; }
+  .toc .depth-4 { margin-left:2rem; font-size:.95em; }
   .toc a { color:inherit; }
 </style>

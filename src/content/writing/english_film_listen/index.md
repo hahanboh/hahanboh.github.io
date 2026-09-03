@@ -40,32 +40,36 @@ columnOrder: 1
 # true = 不公开发布；false = 发布到网站。
 draft: false
 ---
- ## 听说
- [跟我150天，保证你不看字幕听懂英文剧，第1天](https://www.bilibili.com/video/BV1C1421R7TD/?share_source=copy_web&vd_source=b30ef85f2c6185e6bb77161a24d01bea)
- ## 相关资料
-[下载：150天听力教程进度总表](./150天听力教程进度总表.xlsx)
+课程网站 [跟我150天，保证你不看字幕听懂英文剧，第1天](https://www.bilibili.com/video/BV1C1421R7TD/?share_source=copy_web&vd_source=b30ef85f2c6185e6bb77161a24d01bea)
+相关资料 [下载：150天听力教程进度总表](./150天听力教程进度总表.xlsx)
 ## 学习笔记 
-第一天
+### 第一阶段
+#### 基础积累(1~9)
+##### 第一天
 	going to= gonna   to  不嘟嘴，快速读
 	what are you    懒得张嘴 
 	what do     want to=wanna
 	t d \ k g \ p b结尾 爆破收音
 	think about / jump in/
-第二天 
+
+##### 第二天
 	want to= wanna going to=gonna
 	don't ask/answer
 	wanted to / wanted you
 	want us want me
-	tell us / kill us、
-第三天纯练
-第四天
+	tell us / kill us
+
+##### 第三天纯练
+
+##### 第四天
 	 town
 	 hated invited waited 
 	 that 
 	 when I met your dad
 	 she has =she's got  I've got = I have
 	she's gotta  = she's got to = she has to  I've got to = I've gotta
-第五天 
+
+##### 第五天
 	 s/z为尾音可以省略
 	 wanted you
 	would you /did you /need you
@@ -76,7 +80,8 @@ draft: false
 	  It's/That's very kind of you.  That was very kind of you.
 	 种类  what kind of 
 	 程度降低  It's kind of crazy/fun  kind of busy/hungry
-第七天 weird/ grown /guilty /jealous
+
+##### 第七天 weird/ grown /guilty /jealous
 	今天开始小片段变成大片段，看中文会说英文
 	weird 怪 grown长大成熟
 	in sb‘s 年龄
@@ -84,7 +89,8 @@ draft: false
 	 like 大概
 	 ![[图片/英语听说第7天1.png]]![[图片/英语听说第7天2.png]]![[图片/英语听说第7天3.png]]
 	 guilt guilty愧疚 jealousy jealous嫉妒 
-第八天 put on /glad
+
+##### 第八天 put on /glad
 	![[图片/英语听说第八天1.png]]
 	put on 化妆 /take down化淡一点 take off卸妆
 	acting 行为表现 
@@ -92,56 +98,58 @@ draft: false
 	run-ran  catch-caught   victim   
 	![[图片/英语听说第八天2.png]]
 	glad高兴的
-第九天
+
+##### 第九天
 	前面四天的复听和151局练习，部分掌握
-第十天 带练期 exhausted / envy
+#### 带练期(10~45)
+##### 第十天 带练期 exhausted / envy
 	![[图片/第十天1.png]]
 	exhausted 筋疲力尽
 	![[图片/Pasted image 20251228225343.png]]
 	yell 吼
 	![[图片/Pasted image 20251228225245.png]]
 	![[图片/Pasted image 20251229191113.png]]
-第十一天
+##### 第十一天
 	![[图片/11-1.png]]
 	![[图片/11-2.png]]![[图片/11-3.png]]
 	![[图片/11-4.png]]
 	好
-第十二天 乱序纯练
-第十三天
+##### 第十二天 乱序纯练
+##### 第十三天
 	![[图片/13-1.png]]
 	![[图片/13-2.png]]
 	![[图片/13-3.png]]
-第十四天 
+##### 第十四天
  ![[../Pasted image 20260303154419.png]]
  ![[图片/Pasted image 20260303154424.png]] ![[图片/Pasted image 20260303154430.png]]
-第十五天 纯练
-第十六天
+##### 第十五天 纯练
+##### 第十六天
    ![[图片/Pasted image 20260305213529.png]]
-第十七天
-第十八天纯练
-第十九天 
+##### 第十七天
+##### 第十八天纯练
+##### 第十九天
  
  ![[图片/19-1.png]]
-第二十天
+##### 第二十天
   back  when 追溯过去
   ![[图片/Day20.png]]
-第二十一天纯练
-第二十二天
-第二十三天
-第二十四天纯练
-第二十五天
+##### 第二十一天纯练
+##### 第二十二天
+##### 第二十三天
+##### 第二十四天纯练
+##### 第二十五天
  ![[图片/25.png]]
-第二十六天
+##### 第二十六天
   ![[图片/26.png]]
-第二十七天
-第二十八天
-第二十九天
-第三十天
-五分之一回顾2026.224.20
+##### 第二十七天
+##### 第二十八天
+##### 第二十九天
+##### 第三十天
+##### 五分之一回顾2026.224.20
 	大部分都可以听得懂了，还是有些时候需要看字幕，加油
 	以后可以回来再看看，最近沉迷洛克王国，有点偷懒了，下面要努力了，希望今年可以听懂大部分，积累5k+词汇，口语也要练起来！
 	20集根本没听懂
-第三十一天
+##### 第三十一天
 	veto  n/v 否决，反对      
 		dumb 愚蠢的 retract 收回，撤回  fair 公平 hire 雇佣
 		 name one 例子 
@@ -156,37 +164,37 @@ draft: false
 			eyeliner 眼线   foundation粉底 基础  powder散粉 blush腮红  脸红
 			 lipstick 口红  
 	 ![[../31.png|661]]
-第三十二
-第三十三回顾
-第三十四天
+##### 第三十二天
+##### 第三十三天回顾
+##### 第三十四天
 	allergic 过敏的  crab cake蟹饼  shrimp seafood 海鲜 shellfish
 	 allergy 过敏    pean  server严重的
 	 throat 喉咙，嗓子 cough咳嗽 syrup糖浆  drop滴剂
 	 bark狗吠 
 	 extremely极其 
 	 check on sb 
-第三十五天
+##### 第三十五天
 	 insane精神不正常 out of you mind 
-第三十六天复习
-第三十七天
+##### 第三十六天复习
+##### 第三十七天
 	drawer 抽屉 
 	butter 黄油
 	closet 衣柜
 	knot 结  tie the knot 打结 结婚
 	bride新娘 groom 新郎 maid of honor首席伴娘 best man
 	bouquet一束花 捧花 spur激励 刺激
-第三十八天
+##### 第三十八天
 	awkwaed 尴尬的（氛围）  embarrassed 丢人 窘迫 难为情 tense紧张的   
 	sense感觉 feel
-第三十九天练习
-第四十天 长片段
-第四十一天 长片段
-第四十二天 复习 前面25集的话
-第四十三天
+##### 第三十九天练习
+##### 第四十天 长片段
+##### 第四十一天 长片段
+##### 第四十二天 复习 前面25集的话
+##### 第四十三天
   听片段
    安慰 comfort hold抱 hug拥抱 betray背叛 emotional 情绪 meltdown崩溃
    sensitive 敏感 性感![[图片/43.png]]
-第四十四天
+##### 第四十四天
 	75个例句
 	主线片段![[../Pasted image 20260902204109.png]]
 	supply 提供，供应 供应物  school supplies文具
@@ -195,8 +203,9 @@ draft: false
 	goose bumps鸡皮疙瘩（鹅 凸起，肿块）
 	layer 层  waterproof防水
 	![[../Pasted image 20260902214554.png]]
-第四十五天 复习
-第四十六天  开始阶段复习  熟听前面的重复词
+##### 第四十五天 复习
+#### 带练期复习(46~50)
+##### 第四十六天  开始阶段复习  熟听前面的重复词
 	![[../Pasted image 20260903103115.png]]
 write  relationship  lie closet  embarrass totally exactly mad  hurt alone  
 instead  apartment fire* wish store least gift wonder either sell
@@ -208,5 +217,5 @@ secret pregnant  kick mistake ticket wine able married ahead absolutely
 trouble chicken street choice rule although mouth propose buck plus、
 calm town wake appreciate machine pretend yell middle  huge underwear
 along  club knock marriage future against apparently message past  400-733
-第四十七天
+##### 第四十七天
 decision
