@@ -18,7 +18,7 @@ function filesIn(directory) {
 
 function frontmatter(file) {
   const source = fs.readFileSync(file, 'utf8');
-  const match = source.match(/^---\n([\s\S]*?)\n---/);
+  const match = source.match(/^---\r?\n([\s\S]*?)\r?\n---/);
   if (!match) return { data: {}, frontmatter: '', body: source };
   return { data: parse(match[1]) ?? {}, frontmatter: match[1], body: source.slice(match[0].length) };
 }
@@ -79,7 +79,8 @@ function addPath(entry, url) {
   paths.add(url);
 }
 function entrySlug(entry) {
-  return path.basename(entry.file).replace(/\.(md|mdx)$/, '');
+  const basename = path.basename(entry.file).replace(/\.(md|mdx)$/, '');
+  return basename === 'index' ? path.basename(path.dirname(entry.file)) : basename;
 }
 function datePath(entry, collection) {
   const date = new Date(entry.data.publishedAt);

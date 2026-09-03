@@ -19,6 +19,6 @@
   },
   "devDependencies": {
     "@astrojs/check": "latest",
-    "typescript": "latest"
+    "typescript": "^6.0.0"
   }
 }
