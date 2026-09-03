@@ -38,7 +38,7 @@ columnOrder: 1
 
 # 是否草稿。
 # true = 不公开发布；false = 发布到网站。
-draft: false
+draft: true
 ---
 
 <!--
