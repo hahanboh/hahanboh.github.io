@@ -101,8 +101,7 @@ draft: false
 <img src="./英语听说/08_3.png" alt="第8天笔记截图3" loading="lazy" />
 
 	glad高兴的
-##### 第九天
-	前面四天的复听和151局练习，部分掌握
+##### 第九天 前面四天的复听和151句练习，部分掌握
 #### 带练期(10~45)
 ##### 第十天 带练期 exhausted / envy
 <img src="./英语听说/10_1.png" alt="第10天笔记截图1" loading="lazy" />
@@ -233,8 +232,8 @@ sensitive 敏感 性感
 <img src="./英语听说/44_2.png" alt="第44天笔记截图2" loading="lazy" />
 
 ##### 第四十五天 复习
-#### 带练期复习(46~50)
-##### 第四十六天  开始阶段复习  熟听前面的重复词
+#### 带练期复习(46~49)
+##### 第四十六天  开始阶段复习  熟听前面的重复词 
 <img src="./英语听说/46_1.png" alt="第四十六天复习截图" loading="lazy" />
 
 write  relationship  lie closet  embarrass totally exactly mad  hurt alone
@@ -248,5 +247,49 @@ trouble chicken street choice rule although mouth propose buck plus、
 calm town wake appreciate machine pretend yell middle  huge underwear
 along  club knock marriage future against apparently message past 序号400-733
 
-##### 第四十七天
-decision
+##### 第四十七天   26/09/04
+	decision entire整个 window nervous restaurant obviously control finger
+	scientist age  awkward fake* join imagine emotional forever piece allow
+	congratulation professor conversation history  definitely清楚地 bedroom
+	extra  idiot白痴 football explain universe monkey bath bitch valentine情人
+	massage truth choose thanksgiving treat scary romantic  romantic	bike 
+	smoke prove taste fan experience respect support angry warm	slow
+	honest leg country divorce jealous usually drunk halloween jerk 
+	insane患精神病的 candy focus super hospital flower accept possible tiny
+	tie fat bottle sensitive situation interested shh breakfast flag math during
+	neither hungry upstairs death group forgive dirty robot bunny兔子 simple
+	partner note careful university level excited cancel sweater waste animal
+	ear engage答应 suggest humiliate gorgeous text toast cop neighbor turkey
+	celebrate difference guest experiment letter makeup genius juice  	building 
+	regular lovely cousin hilarious visit adult emergency aunt lesson 
+	uncomfortable coat advice lesbian女同性恋 fear trash  alive normal puppy 
+	online actual american attack model borrow lawyer memory cooky jacket french  序号734-1144
+
+##### 第四十八天  26/09/04
+	apology art potato cheer hero solve million bully
+	quiet exciting blood awful hundred holiday breathe pair horse tall king
+	gun airport  personal assistant lately  america waitress often internet
+	introduce twice suddenly excellent toy meat complain unbelievable large
+	station peanut teeth Facebook kitty interrupt literally friday jack queen
+	famous farm thousand final near rude garage police stranger discuss 
+	nut guilty rich cupcake scare discover billion  breath chef tired example
+	ugly recently nearly desk melt lonely cab market destroy difficult language
+	mile tuesday salad replace spirit member possibly complete handsome
+    drawer spill loser protect swim museum surprised roof disneyland 
+	goodness nurse shopping allergy groom cheat recommend orange
+	accent friendship paris fashion public scared willing driver healthy client
+	grape option prefer allergic stuck comfort mostly brunch sometime 
+	sweaty gold murder total license lipstick soul nightmare childhood
+	coincidence agent spider bride helpful needy popular merry responsible
+	nah yellow whoever shrimp bright feed dangerous pill 序号1155-1888
+
+##### 第四十九天  26/09/04  ​ 	  
+sun superhero	 professional obvious officer backpack chat grown butterfly escape eve embarrassed cheap coffeehouse selfish arrive quickly throat gotcha training peace manager underpants menu library success bark ​ 	  garden truly owner pudding maid homework scarf gossip unfortunately ​ 	  prison witness faster dancer rumor distance glove map suitcase dumpling  ​ 	  humor soda enemy percent sleepover cherry fireman basement engagement ​ 	  supply strawberry depressed breakup journal fiance lemon babysitter  ​ 	  embarrassing cough odd obsess extremely disappointed airplane blonde  ​ 	  europe mexican unhappy playing bridesmaid shiny betray cleaning friendly ​ 	  syrup jealousy teenager punish british intelligent german meemaw fiancee ​ 	  layer harder frisbee crab stole knot eyelash straw photographer bakery ​ 	  ginger  veto  -3587
+
+### 第二阶段
+#### 带练期复习(50~)
+##### 第五十天 方法调整预告 通过片段听熟台词 分享一个练听力最好的方法 
+目标：出现在句子里都能听懂 
+[33台词网]（https://33tc.net/）可以选择喜欢的内容搜索单词精听
+<img src="./英语听说/50_1.png" alt="后续建议流程" loading="lazy" />
+
