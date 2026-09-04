@@ -45,10 +45,17 @@ function outputDirectory(file, data) {
 function linkedAssets(body) {
   const links = new Set();
   const markdownLink = /!?\[[^\]]*?\]\(([^)]+)\)/g;
+  const htmlAsset = /\b(?:src|href)=["']([^"']+)["']/g;
   let match;
 
   while ((match = markdownLink.exec(body))) {
     const href = match[1].trim().replace(/^<|>$/g, '').split(/[?#]/)[0];
+    if (!href || href.startsWith('/') || /^[a-z][a-z0-9+.-]*:/i.test(href)) continue;
+    links.add(href);
+  }
+
+  while ((match = htmlAsset.exec(body))) {
+    const href = match[1].trim().split(/[?#]/)[0];
     if (!href || href.startsWith('/') || /^[a-z][a-z0-9+.-]*:/i.test(href)) continue;
     links.add(href);
   }

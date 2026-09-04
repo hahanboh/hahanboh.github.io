@@ -199,7 +199,7 @@ draft: false
 ##### 第四十五天 复习
 #### 带练期复习(46~50)
 ##### 第四十六天  开始阶段复习  熟听前面的重复词
-	![[../Pasted image 20260903103115.png]]
+<img src="./46_1.png" alt="第四十六天复习截图" loading="lazy" />
 write  relationship  lie closet  embarrass totally exactly mad  hurt alone  
 instead  apartment fire* wish store least gift wonder either sell
 fact smell science moment ring* upset between front space college
