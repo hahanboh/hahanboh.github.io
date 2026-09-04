@@ -290,6 +290,6 @@ sun superhero	 professional obvious officer backpack chat grown butterfly escape
 #### 带练期复习(50~)
 ##### 第五十天 方法调整预告 通过片段听熟台词 分享一个练听力最好的方法 
 目标：出现在句子里都能听懂 
-[33台词网]（https://33tc.net/）可以选择喜欢的内容搜索单词精听
+[33台词网](https://33tc.net/)可以选择喜欢的内容搜索单词精听
 <img src="./英语听说/50_1.png" alt="后续建议流程" loading="lazy" />
 
