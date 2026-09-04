@@ -47,7 +47,7 @@ draft: false
 #### 基础积累(1~9)
 ##### 第一天
 	going to= gonna   to  不嘟嘴，快速读
-	what are you    懒得张嘴 
+	what are you    懒得张嘴
 	what do     want to=wanna
 	t d \ k g \ p b结尾 爆破收音
 	think about / jump in/
@@ -60,8 +60,8 @@ draft: false
 ##### 第三天纯练
 ##### 第四天
 	 town
-	 hated invited waited 
-	 that 
+	 hated invited waited
+	 that
 	 when I met your dad
 	 she has =she's got  I've got = I have
 	she's gotta  = she's got to = she has to  I've got to = I've gotta
@@ -72,9 +72,9 @@ draft: false
 	 buck = dollar
 	 of+辅音 v音会省略  get out of the car
 	 get on get off
-	 形容一个人真好真善良   you‘re very kind. 
+	 形容一个人真好真善良   you‘re very kind.
 	  It's/That's very kind of you.  That was very kind of you.
-	 种类  what kind of 
+	 种类  what kind of
 	 程度降低  It's kind of crazy/fun  kind of busy/hungry
 ##### 第七天 weird/ grown /guilty /jealous
 	今天开始小片段变成大片段，看中文会说英文
@@ -88,15 +88,15 @@ draft: false
 
 <img src="./英语听说/07_3.png" alt="第7天笔记截图3" loading="lazy" />
 
-	 guilt guilty愧疚 jealousy jealous嫉妒 
+	 guilt guilty愧疚 jealousy jealous嫉妒
 ##### 第八天 put on /glad
 <img src="./英语听说/08_1.png" alt="第8天笔记截图1" loading="lazy" />
 
 	put on 化妆 /take down化淡一点 take off卸妆
-	acting 行为表现 
+	acting 行为表现
 <img src="./英语听说/08_2.png" alt="第8天笔记截图2" loading="lazy" />
 
-	run-ran  catch-caught   victim   
+	run-ran  catch-caught   victim
 <img src="./英语听说/08_3.png" alt="第8天笔记截图3" loading="lazy" />
 
 	glad高兴的
@@ -146,7 +146,7 @@ draft: false
 ##### 第十七天
 ##### 第十八天纯练
 ##### 第十九天
- 
+
 <img src="./英语听说/19_1.png" alt="第19天笔记截图1" loading="lazy" />
 
 ##### 第二十天
@@ -172,9 +172,9 @@ draft: false
 	以后可以回来再看看，最近沉迷洛克王国，有点偷懒了，下面要努力了，希望今年可以听懂大部分，积累5k+词汇，口语也要练起来！
 	20集根本没听懂
 ##### 第三十一天
-	veto  n/v 否决，反对      
+	veto  n/v 否决，反对
 		dumb 愚蠢的 retract 收回，撤回  fair 公平 hire 雇佣
-		 name one 例子 
+		 name one 例子
 	 ginger  姜汁汽水
 		 upset 沮丧的
 	 photographer  摄影师
@@ -182,9 +182,9 @@ draft: false
 	 straw 吸管 稻草 签
 		 bartender酒保 gold金子 suggest建议 cherry车厘子 grape 葡萄
 	 eyelash curler 睫毛夹
-		squeeze挤压     mascara睫毛膏 eye shadow  眼影   阴影  
+		squeeze挤压     mascara睫毛膏 eye shadow  眼影   阴影
 			eyeliner 眼线   foundation粉底 基础  powder散粉 blush腮红  脸红
-			 lipstick 口红  
+			 lipstick 口红
 <img src="./英语听说/31_1.png" alt="第31天笔记截图1" loading="lazy" />
 
 ##### 第三十二天
@@ -193,21 +193,21 @@ draft: false
 	allergic 过敏的  crab cake蟹饼  shrimp seafood 海鲜 shellfish
 	 allergy 过敏    pean  server严重的
 	 throat 喉咙，嗓子 cough咳嗽 syrup糖浆  drop滴剂
-	 bark狗吠 
-	 extremely极其 
-	 check on sb 
+	 bark狗吠
+	 extremely极其
+	 check on sb
 ##### 第三十五天
-	 insane精神不正常 out of you mind 
+	 insane精神不正常 out of you mind
 ##### 第三十六天复习
 ##### 第三十七天
-	drawer 抽屉 
+	drawer 抽屉
 	butter 黄油
 	closet 衣柜
 	knot 结  tie the knot 打结 结婚
 	bride新娘 groom 新郎 maid of honor首席伴娘 best man
 	bouquet一束花 捧花 spur激励 刺激
 ##### 第三十八天
-	awkwaed 尴尬的（氛围）  embarrassed 丢人 窘迫 难为情 tense紧张的   
+	awkwaed 尴尬的（氛围）  embarrassed 丢人 窘迫 难为情 tense紧张的
 	sense感觉 feel
 ##### 第三十九天练习
 ##### 第四十天 长片段
@@ -222,7 +222,7 @@ sensitive 敏感 性感
 ##### 第四十四天
 	75个例句
 主线片段
-<img src="./英语听说/44_1.png" alt="第44天笔记截图1" loading="lazy" />
+<img class="note-image-wide" src="./英语听说/44_1.png" alt="第44天笔记截图1" loading="lazy" />
 
 	supply 提供，供应 供应物  school supplies文具
 	manager管理者 prison监狱
@@ -236,12 +236,12 @@ sensitive 敏感 性感
 ##### 第四十六天  开始阶段复习  熟听前面的重复词
 <img src="./英语听说/46_1.png" alt="第四十六天复习截图" loading="lazy" />
 
-write  relationship  lie closet  embarrass totally exactly mad  hurt alone  
+write  relationship  lie closet  embarrass totally exactly mad  hurt alone
 instead  apartment fire* wish store least gift wonder either sell
 fact smell science moment ring* upset between front space college
-catch seriously promise save act touch fall laugh pant paper 
+catch seriously promise save act touch fall laugh pant paper
 comic favorite sense free costume dead though fault terrible key
-afraid shut afraid  push trip* trust serious sick  amazing  offer 
+afraid shut afraid  push trip* trust serious sick  amazing  offer
 secret pregnant  kick mistake ticket wine able married ahead absolutely
 trouble chicken street choice rule although mouth propose buck plus、
 calm town wake appreciate machine pretend yell middle  huge underwear

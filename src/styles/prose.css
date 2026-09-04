@@ -26,5 +26,9 @@
   margin: .95rem auto;
   border: 1px solid var(--line);
 }
+.prose .day-note-body img.note-image-wide {
+  max-width: min(920px, 100%);
+}
+.prose .day-note-body img + p { margin-top: .35rem; }
 .prose .day-note pre { border: 0; background: transparent; padding: 0; font-family: inherit; font-size: 1rem; line-height: 1.8; }
 .prose .day-note code { font-family: inherit; }
