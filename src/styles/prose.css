@@ -20,5 +20,11 @@
 .prose .day-note-body { padding: .1rem .9rem .9rem; }
 .prose .day-note-body > :first-child { margin-top: .75rem; }
 .prose .day-note-body > :last-child { margin-bottom: 0; }
+.prose .day-note-body img {
+  display: block;
+  max-width: min(680px, 92%);
+  margin: .95rem auto;
+  border: 1px solid var(--line);
+}
 .prose .day-note pre { border: 0; background: transparent; padding: 0; font-family: inherit; font-size: 1rem; line-height: 1.8; }
 .prose .day-note code { font-family: inherit; }

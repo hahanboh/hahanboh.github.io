@@ -82,58 +82,87 @@ draft: false
 	in sb‘s 年龄
 	make sb...
 	 like 大概
-	 ![[图片/英语听说第7天1.png]]![[图片/英语听说第7天2.png]]![[图片/英语听说第7天3.png]]
+<img src="./英语听说/07_1.png" alt="第7天笔记截图1" loading="lazy" />
+
+<img src="./英语听说/07_2.png" alt="第7天笔记截图2" loading="lazy" />
+
+<img src="./英语听说/07_3.png" alt="第7天笔记截图3" loading="lazy" />
+
 	 guilt guilty愧疚 jealousy jealous嫉妒 
 ##### 第八天 put on /glad
-	![[图片/英语听说第八天1.png]]
+<img src="./英语听说/08_1.png" alt="第8天笔记截图1" loading="lazy" />
+
 	put on 化妆 /take down化淡一点 take off卸妆
 	acting 行为表现 
-	![[图片/英语听说第八天11.png]]
+<img src="./英语听说/08_2.png" alt="第8天笔记截图2" loading="lazy" />
+
 	run-ran  catch-caught   victim   
-	![[图片/英语听说第八天2.png]]
+<img src="./英语听说/08_3.png" alt="第8天笔记截图3" loading="lazy" />
+
 	glad高兴的
 ##### 第九天
 	前面四天的复听和151局练习，部分掌握
 #### 带练期(10~45)
 ##### 第十天 带练期 exhausted / envy
-	![[图片/第十天1.png]]
+<img src="./英语听说/10_1.png" alt="第10天笔记截图1" loading="lazy" />
+
 	exhausted 筋疲力尽
-	![[图片/Pasted image 20251228225343.png]]
+<img src="./英语听说/10_2.png" alt="第10天笔记截图2" loading="lazy" />
+
 	yell 吼
-	![[图片/Pasted image 20251228225245.png]]
-	![[图片/Pasted image 20251229191113.png]]
+<img src="./英语听说/10_3.png" alt="第10天笔记截图3" loading="lazy" />
+
+<img src="./英语听说/10_4.png" alt="第10天笔记截图4" loading="lazy" />
+
 ##### 第十一天
-	![[图片/11-1.png]]
-	![[图片/11-2.png]]![[图片/11-3.png]]
-	![[图片/11-4.png]]
+<img src="./英语听说/11_1.png" alt="第11天笔记截图1" loading="lazy" />
+
+<img src="./英语听说/11_2.png" alt="第11天笔记截图2" loading="lazy" />
+
+<img src="./英语听说/11_3.png" alt="第11天笔记截图3" loading="lazy" />
+
+<img src="./英语听说/11_4.png" alt="第11天笔记截图4" loading="lazy" />
+
 	好
 ##### 第十二天 乱序纯练
 ##### 第十三天
-	![[图片/13-1.png]]
-	![[图片/13-2.png]]
-	![[图片/13-3.png]]
+<img src="./英语听说/13_1.png" alt="第13天笔记截图1" loading="lazy" />
+
+<img src="./英语听说/13_2.png" alt="第13天笔记截图2" loading="lazy" />
+
+<img src="./英语听说/13_3.png" alt="第13天笔记截图3" loading="lazy" />
+
 ##### 第十四天
- ![[../Pasted image 20260303154419.png]]
- ![[图片/Pasted image 20260303154424.png]] ![[图片/Pasted image 20260303154430.png]]
+<img src="./英语听说/14_1.png" alt="第14天笔记截图1" loading="lazy" />
+
+<img src="./英语听说/14_2.png" alt="第14天笔记截图2" loading="lazy" />
+
+<img src="./英语听说/14_3.png" alt="第14天笔记截图3" loading="lazy" />
+
 ##### 第十五天 纯练
 ##### 第十六天
-   ![[图片/Pasted image 20260305213529.png]]
+<img src="./英语听说/16_1.png" alt="第16天笔记截图1" loading="lazy" />
+
 ##### 第十七天
 ##### 第十八天纯练
 ##### 第十九天
  
- ![[图片/19-1.png]]
+<img src="./英语听说/19_1.png" alt="第19天笔记截图1" loading="lazy" />
+
 ##### 第二十天
   back  when 追溯过去
-  ![[图片/Day20.png]]
+<img src="./英语听说/20_1.png" alt="第20天笔记截图1" loading="lazy" />
+
 ##### 第二十一天纯练
 ##### 第二十二天
 ##### 第二十三天
 ##### 第二十四天纯练
 ##### 第二十五天
- ![[图片/25.png]]
+<img src="./英语听说/25_1.png" alt="第25天笔记截图1" loading="lazy" />
+
 ##### 第二十六天
-  ![[图片/26.png]]
+<img src="./英语听说/26_1.png" alt="第26天笔记截图1" loading="lazy" />
+
 ##### 第二十七天
 ##### 第二十八天
 ##### 第二十九天
@@ -156,7 +185,8 @@ draft: false
 		squeeze挤压     mascara睫毛膏 eye shadow  眼影   阴影  
 			eyeliner 眼线   foundation粉底 基础  powder散粉 blush腮红  脸红
 			 lipstick 口红  
-	 ![[../31.png|661]]
+<img src="./英语听说/31_1.png" alt="第31天笔记截图1" loading="lazy" />
+
 ##### 第三十二天
 ##### 第三十三天回顾
 ##### 第三十四天
@@ -186,20 +216,26 @@ draft: false
 ##### 第四十三天
   听片段
    安慰 comfort hold抱 hug拥抱 betray背叛 emotional 情绪 meltdown崩溃
-   sensitive 敏感 性感![[图片/43.png]]
+sensitive 敏感 性感
+<img src="./英语听说/43_1.png" alt="第43天笔记截图1" loading="lazy" />
+
 ##### 第四十四天
 	75个例句
-	主线片段![[../Pasted image 20260902204109.png]]
+主线片段
+<img src="./英语听说/44_1.png" alt="第44天笔记截图1" loading="lazy" />
+
 	supply 提供，供应 供应物  school supplies文具
 	manager管理者 prison监狱
 	hang up 挂断 pick up接电话
 	goose bumps鸡皮疙瘩（鹅 凸起，肿块）
 	layer 层  waterproof防水
-	![[../Pasted image 20260902214554.png]]
+<img src="./英语听说/44_2.png" alt="第44天笔记截图2" loading="lazy" />
+
 ##### 第四十五天 复习
 #### 带练期复习(46~50)
 ##### 第四十六天  开始阶段复习  熟听前面的重复词
-<img src="./46_1.png" alt="第四十六天复习截图" loading="lazy" />
+<img src="./英语听说/46_1.png" alt="第四十六天复习截图" loading="lazy" />
+
 write  relationship  lie closet  embarrass totally exactly mad  hurt alone  
 instead  apartment fire* wish store least gift wonder either sell
 fact smell science moment ring* upset between front space college
@@ -209,7 +245,7 @@ afraid shut afraid  push trip* trust serious sick  amazing  offer
 secret pregnant  kick mistake ticket wine able married ahead absolutely
 trouble chicken street choice rule although mouth propose buck plus、
 calm town wake appreciate machine pretend yell middle  huge underwear
-along  club knock marriage future against apparently message past  400-733
+along  club knock marriage future against apparently message past 序号400-733
 
 ##### 第四十七天
 decision
