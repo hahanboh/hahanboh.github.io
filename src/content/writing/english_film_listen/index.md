@@ -57,7 +57,7 @@ draft: false
 	wanted to / wanted you
 	want us want me
 	tell us / kill us
-##### 第三天纯练
+##### 第三天 纯练
 ##### 第四天
 	 town
 	 hated invited waited
@@ -76,6 +76,7 @@ draft: false
 	  It's/That's very kind of you.  That was very kind of you.
 	 种类  what kind of
 	 程度降低  It's kind of crazy/fun  kind of busy/hungry
+##### 第六天 纯练
 ##### 第七天 weird/ grown /guilty /jealous
 	今天开始小片段变成大片段，看中文会说英文
 	weird 怪 grown长大成熟
@@ -144,7 +145,7 @@ draft: false
 <img src="./英语听说/16_1.png" alt="第16天笔记截图1" loading="lazy" />
 
 ##### 第十七天
-##### 第十八天纯练
+##### 第十八天 纯练
 ##### 第十九天
 
 <img src="./英语听说/19_1.png" alt="第19天笔记截图1" loading="lazy" />
@@ -153,20 +154,20 @@ draft: false
   back  when 追溯过去
 <img src="./英语听说/20_1.png" alt="第20天笔记截图1" loading="lazy" />
 
-##### 第二十一天纯练
+##### 第二十一天 纯练
 ##### 第二十二天
 ##### 第二十三天
-##### 第二十四天纯练
+##### 第二十四天 纯练
 ##### 第二十五天
 <img src="./英语听说/25_1.png" alt="第25天笔记截图1" loading="lazy" />
 
 ##### 第二十六天
 <img src="./英语听说/26_1.png" alt="第26天笔记截图1" loading="lazy" />
 
-##### 第二十七天
+##### 第二十七天 纯练
 ##### 第二十八天
 ##### 第二十九天
-##### 第三十天
+##### 第三十天 纯练
 ##### 五分之一回顾2026.224.20
 	大部分都可以听得懂了，还是有些时候需要看字幕，加油
 	以后可以回来再看看，最近沉迷洛克王国，有点偷懒了，下面要努力了，希望今年可以听懂大部分，积累5k+词汇，口语也要练起来！
@@ -188,7 +189,7 @@ draft: false
 <img src="./英语听说/31_1.png" alt="第31天笔记截图1" loading="lazy" />
 
 ##### 第三十二天
-##### 第三十三天回顾
+##### 第三十三天 回顾
 ##### 第三十四天
 	allergic 过敏的  crab cake蟹饼  shrimp seafood 海鲜 shellfish
 	 allergy 过敏    pean  server严重的
@@ -198,7 +199,7 @@ draft: false
 	 check on sb
 ##### 第三十五天
 	 insane精神不正常 out of you mind
-##### 第三十六天复习
+##### 第三十六天 复习
 ##### 第三十七天
 	drawer 抽屉
 	butter 黄油
