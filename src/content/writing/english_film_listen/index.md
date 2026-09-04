@@ -42,7 +42,7 @@ draft: false
 ---
 课程网站 [跟我150天，保证你不看字幕听懂英文剧，第1天](https://www.bilibili.com/video/BV1C1421R7TD/?share_source=copy_web&vd_source=b30ef85f2c6185e6bb77161a24d01bea)
 相关资料 [下载：150天听力教程进度总表](./150天听力教程进度总表.xlsx)
-## 学习笔记 
+<!-- ## 学习笔记  -->
 ### 第一阶段
 #### 基础积累(1~9)
 ##### 第一天
@@ -51,16 +51,13 @@ draft: false
 	what do     want to=wanna
 	t d \ k g \ p b结尾 爆破收音
 	think about / jump in/
-
 ##### 第二天
 	want to= wanna going to=gonna
 	don't ask/answer
 	wanted to / wanted you
 	want us want me
 	tell us / kill us
-
 ##### 第三天纯练
-
 ##### 第四天
 	 town
 	 hated invited waited 
@@ -68,7 +65,6 @@ draft: false
 	 when I met your dad
 	 she has =she's got  I've got = I have
 	she's gotta  = she's got to = she has to  I've got to = I've gotta
-
 ##### 第五天
 	 s/z为尾音可以省略
 	 wanted you
@@ -80,7 +76,6 @@ draft: false
 	  It's/That's very kind of you.  That was very kind of you.
 	 种类  what kind of 
 	 程度降低  It's kind of crazy/fun  kind of busy/hungry
-
 ##### 第七天 weird/ grown /guilty /jealous
 	今天开始小片段变成大片段，看中文会说英文
 	weird 怪 grown长大成熟
@@ -89,7 +84,6 @@ draft: false
 	 like 大概
 	 ![[图片/英语听说第7天1.png]]![[图片/英语听说第7天2.png]]![[图片/英语听说第7天3.png]]
 	 guilt guilty愧疚 jealousy jealous嫉妒 
-
 ##### 第八天 put on /glad
 	![[图片/英语听说第八天1.png]]
 	put on 化妆 /take down化淡一点 take off卸妆
@@ -98,7 +92,6 @@ draft: false
 	run-ran  catch-caught   victim   
 	![[图片/英语听说第八天2.png]]
 	glad高兴的
-
 ##### 第九天
 	前面四天的复听和151局练习，部分掌握
 #### 带练期(10~45)
