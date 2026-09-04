@@ -8,7 +8,7 @@
     "start": "astro dev",
     "check": "npm run validate:content && astro check",
     "validate:content": "node scripts/validate-content.mjs",
-    "build": "npm run validate:content && astro check && astro build",
+    "build": "npm run validate:content && astro build",
     "preview": "astro preview"
   },
   "dependencies": {
