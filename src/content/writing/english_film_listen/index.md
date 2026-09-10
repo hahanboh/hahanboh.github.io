@@ -14,7 +14,7 @@ locale: zh-cn
 publishedAt: 2026-09-03
 
 # 更新时间：以后修改这篇笔记时，可以同步改这个日期。
-updatedAt: 2026-09-07
+updatedAt: 2026-09-10
 
 # 作者：可以保留柏涵。
 author: "柏涵"
@@ -436,4 +436,132 @@ draft: false
 <img src="./英语听说/52_17.png" alt="第52天笔记截图17" loading="lazy" />
 
 
-##### 第五十三天 26/09/05
+##### 第五十三天 26/09/08
+<img src="./英语听说/53_1.png" alt="第53天笔记截图1" loading="lazy" />
+
+	light
+<img src="./英语听说/53_2.png" alt="第53天笔记截图2" loading="lazy" />
+
+	side
+<img src="./英语听说/53_3.png" alt="第53天笔记截图3" loading="lazy" />
+
+	mess
+<img src="./英语听说/53_4.png" alt="第53天笔记截图4" loading="lazy" />
+
+	class
+	class可以表达班级,课堂
+	还可以表示同学们的意思
+	Goodmorning,class.早上好，同学们。
+	它还可以表示阶级，等级的意思。
+	中产阶级是middle class.
+	工薪阶级是working class.
+	飞机的头等舱是firstclalss.
+	不过经济舱一般直接说coach.就是跟教练是一个词
+	card
+	card可以表达卡,牌的意思。
+	身份证是IDcard，名片是business card.
+	扑克牌可以说 playing cards.
+	order
+<img src="./英语听说/53_5.png" alt="第53天笔记截图5" loading="lazy" />
+
+<img src="./英语听说/53_6.png" alt="第53天笔记截图6" loading="lazy" />
+
+	drop
+	drop在生活中用的最多的就是drop off
+	dropoff指的是途中把某人或某物放下，然后自己走掉。
+	你正在搭同事的顺风车,说:把我放那个公交站牌那就行。You could drop me off at the bus stop.
+	你回家看到桌上有crabs螃蟹，问舍友哪来的螃蟹，他说:My mom dropped them off this afternoon.用droppff的意思就是妈妈中途来这里把螃蟹放下就走了，不是专程过来做客送螃蟹的那种。
+	填表
+<img src="./英语听说/53_7.png" alt="第53天笔记截图7" loading="lazy" />
+
+<img src="./英语听说/53_8.png" alt="第53天笔记截图8" loading="lazy" />
+
+
+##### 第五十四天 26/09/09
+	搜索关键词
+<img src="./英语听说/54_1.png" alt="第54天笔记截图1" loading="lazy" />
+
+	表中顺序
+<img src="./英语听说/54_2.png" alt="第54天笔记截图2" loading="lazy" />
+
+	drop
+<img src="./英语听说/54_3.png" alt="第54天笔记截图3" loading="lazy" />
+
+<img src="./英语听说/54_4.png" alt="第54天笔记截图4" loading="lazy" />
+
+	ridiculous
+	ridiculousa.荒谬的，可笑的这个包的价格太荒谬了!The price of this bag is ridiculous!"
+	pull
+<img src="./英语听说/54_5.png" alt="第54天笔记截图5" loading="lazy" />
+
+<img src="./英语听说/54_6.png" alt="第54天笔记截图6" loading="lazy" />
+
+<img src="./英语听说/54_7.png" alt="第54天笔记截图7" loading="lazy" />
+
+	present
+<img src="./英语听说/54_8.png" alt="第54天笔记截图8" loading="lazy" />
+
+	bet
+<img src="./英语听说/54_9.png" alt="第54天笔记截图9" loading="lazy" />
+
+	rest
+	rest剩余部分，比如:the rest of mylife我的余生
+	它做动词可以表示休息。我需要休息一下。I need to rest for a while.
+	它还可以表示休息的名词你看起来很累，去休息一会儿吧。You look tired, go take a rest.
+	词汇填空
+<img src="./英语听说/54_10.png" alt="第54天笔记截图10" loading="lazy" />
+
+<img src="./英语听说/54_11.png" alt="第54天笔记截图11" loading="lazy" />
+
+
+##### 第五十五天 26/09/10
+<img src="./英语听说/55_1.png" alt="第55天笔记截图1" loading="lazy" />
+
+	搜索关键词
+<img src="./英语听说/55_2.png" alt="第55天笔记截图2" loading="lazy" />
+
+	speak
+<img src="./英语听说/55_3.png" alt="第55天笔记截图3" loading="lazy" />
+
+	business
+<img src="./英语听说/55_4.png" alt="第55天笔记截图4" loading="lazy" />
+
+	teach
+<img src="./英语听说/55_5.png" alt="第55天笔记截图5" loading="lazy" />
+
+	proud
+<img src="./英语听说/55_6.png" alt="第55天笔记截图6" loading="lazy" />
+
+	foot
+<img src="./英语听说/55_7.png" alt="第55天笔记截图7" loading="lazy" />
+
+	bar
+<img src="./英语听说/55_8.png" alt="第55天笔记截图8" loading="lazy" />
+
+	steal
+<img src="./英语听说/55_9.png" alt="第55天笔记截图9" loading="lazy" />
+
+	suck
+<img src="./英语听说/55_10.png" alt="第55天笔记截图10" loading="lazy" />
+
+	ball
+<img src="./英语听说/55_11.png" alt="第55天笔记截图11" loading="lazy" />
+
+	park
+<img src="./英语听说/55_12.png" alt="第55天笔记截图12" loading="lazy" />
+
+	share
+<img src="./英语听说/55_13.png" alt="第55天笔记截图13" loading="lazy" />
+
+	bear
+<img src="./英语听说/55_14.png" alt="第55天笔记截图14" loading="lazy" />
+
+	填空
+<img src="./英语听说/55_15.png" alt="第55天笔记截图15" loading="lazy" />
+
+<img src="./英语听说/55_16.png" alt="第55天笔记截图16" loading="lazy" />
+
+	答案
+<img src="./英语听说/55_17.png" alt="第55天笔记截图17" loading="lazy" />
+
+<img src="./英语听说/55_18.png" alt="第55天笔记截图18" loading="lazy" />
