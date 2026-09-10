@@ -387,21 +387,21 @@ draft: false
 <img src="./英语听说/52_2.png" alt="第52天笔记截图2" loading="lazy" />
 
 	stick
-<img src="./英语听说/52_3.png" alt="第52天笔记截图3" loading="lazy" />
+<img src="./英语听说/52_3stick1.png" alt="第52天笔记截图3" loading="lazy" />
 
 	freak
-<img src="./英语听说/52_4.png" alt="第52天笔记截图4" loading="lazy" />
+<img src="./英语听说/52_4freak1.png" alt="第52天笔记截图4" loading="lazy" />
 
 	send
-<img src="./英语听说/52_5.png" alt="第52天笔记截图5" loading="lazy" />
+<img src="./英语听说/52_5send1.png" alt="第52天笔记截图5" loading="lazy" />
 
 	需要注意的是:生活中送朋友回家，一般也不用send来表达送，听起来不像亲力亲为，而是安排你回家，所以亲自送朋友通常都是说:I'll drive you home/walk you home.或者直接说I'll take you home.
 	food 食物
 	set
-<img src="./英语听说/52_6.png" alt="第52天笔记截图6" loading="lazy" />
+<img src="./英语听说/52_6set1.png" alt="第52天笔记截图6" loading="lazy" />
 
 	cut
-<img src="./英语听说/52_7.png" alt="第52天笔记截图7" loading="lazy" />
+<img src="./英语听说/52_7cut1.png" alt="第52天笔记截图7" loading="lazy" />
 
 	填片段
 <img src="./英语听说/52_8.png" alt="第52天笔记截图8" loading="lazy" />
@@ -415,18 +415,18 @@ draft: false
 <img src="./英语听说/52_11.png" alt="第52天笔记截图11" loading="lazy" />
 
 	figure
-<img src="./英语听说/52_12.png" alt="第52天笔记截图12" loading="lazy" />
+<img src="./英语听说/52_12figure1.png" alt="第52天笔记截图12" loading="lazy" />
 
 	fight
 	fight v./n吵架打架争斗有个非常常见的搭配fight over sb/sth，为了某人或某物争斗别再为我吵架了!Stop fighting over me!
 	line
-<img src="./英语听说/52_13.png" alt="第52天笔记截图13" loading="lazy" />
+<img src="./英语听说/52_13line1.png" alt="第52天笔记截图13" loading="lazy" />
 
 	build
-<img src="./英语听说/52_14.png" alt="第52天笔记截图14" loading="lazy" />
+<img src="./英语听说/52_14build1.png" alt="第52天笔记截图14" loading="lazy" />
 
 	sign
-<img src="./英语听说/52_15.png" alt="第52天笔记截图15" loading="lazy" />
+<img src="./英语听说/52_15sign1.png" alt="第52天笔记截图15" loading="lazy" />
 
 	light
 	light可以表示光,灯的意思打turn on the light她就像一道温暖的光She's like a warm light.它做形容词可以表示轻的，淡的,浅的light beer淡啤酒light cream淡奶油light blue浅蓝色，行李箱很轻 the suitcase is very light.
@@ -440,13 +440,13 @@ draft: false
 <img src="./英语听说/53_1.png" alt="第53天笔记截图1" loading="lazy" />
 
 	light
-<img src="./英语听说/53_2.png" alt="第53天笔记截图2" loading="lazy" />
+<img src="./英语听说/53_2light1.png" alt="第53天笔记截图2" loading="lazy" />
 
 	side
-<img src="./英语听说/53_3.png" alt="第53天笔记截图3" loading="lazy" />
+<img src="./英语听说/53_3side1.png" alt="第53天笔记截图3" loading="lazy" />
 
 	mess
-<img src="./英语听说/53_4.png" alt="第53天笔记截图4" loading="lazy" />
+<img src="./英语听说/53_4mess1.png" alt="第53天笔记截图4" loading="lazy" />
 
 	class
 	class可以表达班级,课堂
@@ -462,9 +462,9 @@ draft: false
 	身份证是IDcard，名片是business card.
 	扑克牌可以说 playing cards.
 	order
-<img src="./英语听说/53_5.png" alt="第53天笔记截图5" loading="lazy" />
+<img src="./英语听说/53_5order1.png" alt="第53天笔记截图5" loading="lazy" />
 
-<img src="./英语听说/53_6.png" alt="第53天笔记截图6" loading="lazy" />
+<img src="./英语听说/53_6order2.png" alt="第53天笔记截图6" loading="lazy" />
 
 	drop
 	drop在生活中用的最多的就是drop off
@@ -485,24 +485,24 @@ draft: false
 <img src="./英语听说/54_2.png" alt="第54天笔记截图2" loading="lazy" />
 
 	drop
-<img src="./英语听说/54_3.png" alt="第54天笔记截图3" loading="lazy" />
+<img src="./英语听说/54_3drop1.png" alt="第54天笔记截图3" loading="lazy" />
 
-<img src="./英语听说/54_4.png" alt="第54天笔记截图4" loading="lazy" />
+<img src="./英语听说/54_4drop2.png" alt="第54天笔记截图4" loading="lazy" />
 
 	ridiculous
 	ridiculousa.荒谬的，可笑的这个包的价格太荒谬了!The price of this bag is ridiculous!"
 	pull
-<img src="./英语听说/54_5.png" alt="第54天笔记截图5" loading="lazy" />
+<img src="./英语听说/54_5pull1.png" alt="第54天笔记截图5" loading="lazy" />
 
-<img src="./英语听说/54_6.png" alt="第54天笔记截图6" loading="lazy" />
+<img src="./英语听说/54_6step1.png" alt="第54天笔记截图6" loading="lazy" />
 
-<img src="./英语听说/54_7.png" alt="第54天笔记截图7" loading="lazy" />
+<img src="./英语听说/54_7step2.png" alt="第54天笔记截图7" loading="lazy" />
 
 	present
-<img src="./英语听说/54_8.png" alt="第54天笔记截图8" loading="lazy" />
+<img src="./英语听说/54_8present1.png" alt="第54天笔记截图8" loading="lazy" />
 
 	bet
-<img src="./英语听说/54_9.png" alt="第54天笔记截图9" loading="lazy" />
+<img src="./英语听说/54_9bet1.png" alt="第54天笔记截图9" loading="lazy" />
 
 	rest
 	rest剩余部分，比如:the rest of mylife我的余生
@@ -521,40 +521,40 @@ draft: false
 <img src="./英语听说/55_2.png" alt="第55天笔记截图2" loading="lazy" />
 
 	speak
-<img src="./英语听说/55_3.png" alt="第55天笔记截图3" loading="lazy" />
+<img src="./英语听说/55_3speak1.png" alt="第55天笔记截图3" loading="lazy" />
 
 	business
-<img src="./英语听说/55_4.png" alt="第55天笔记截图4" loading="lazy" />
+<img src="./英语听说/55_4business1.png" alt="第55天笔记截图4" loading="lazy" />
 
 	teach
-<img src="./英语听说/55_5.png" alt="第55天笔记截图5" loading="lazy" />
+<img src="./英语听说/55_5teach1.png" alt="第55天笔记截图5" loading="lazy" />
 
 	proud
-<img src="./英语听说/55_6.png" alt="第55天笔记截图6" loading="lazy" />
+<img src="./英语听说/55_6proud1.png" alt="第55天笔记截图6" loading="lazy" />
 
 	foot
-<img src="./英语听说/55_7.png" alt="第55天笔记截图7" loading="lazy" />
+<img src="./英语听说/55_7foot1.png" alt="第55天笔记截图7" loading="lazy" />
 
 	bar
-<img src="./英语听说/55_8.png" alt="第55天笔记截图8" loading="lazy" />
+<img src="./英语听说/55_8bar1.png" alt="第55天笔记截图8" loading="lazy" />
 
 	steal
-<img src="./英语听说/55_9.png" alt="第55天笔记截图9" loading="lazy" />
+<img src="./英语听说/55_9steal1.png" alt="第55天笔记截图9" loading="lazy" />
 
 	suck
-<img src="./英语听说/55_10.png" alt="第55天笔记截图10" loading="lazy" />
+<img src="./英语听说/55_10suck1.png" alt="第55天笔记截图10" loading="lazy" />
 
 	ball
-<img src="./英语听说/55_11.png" alt="第55天笔记截图11" loading="lazy" />
+<img src="./英语听说/55_11ball1.png" alt="第55天笔记截图11" loading="lazy" />
 
 	park
-<img src="./英语听说/55_12.png" alt="第55天笔记截图12" loading="lazy" />
+<img src="./英语听说/55_12park1.png" alt="第55天笔记截图12" loading="lazy" />
 
 	share
-<img src="./英语听说/55_13.png" alt="第55天笔记截图13" loading="lazy" />
+<img src="./英语听说/55_13share1.png" alt="第55天笔记截图13" loading="lazy" />
 
 	bear
-<img src="./英语听说/55_14.png" alt="第55天笔记截图14" loading="lazy" />
+<img src="./英语听说/55_14bear1.png" alt="第55天笔记截图14" loading="lazy" />
 
 	填空
 <img src="./英语听说/55_15.png" alt="第55天笔记截图15" loading="lazy" />
