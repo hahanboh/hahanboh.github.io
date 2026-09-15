@@ -566,7 +566,6 @@ draft: false
 
 <img src="./英语听说/55_18.png" alt="第55天笔记截图18" loading="lazy" />
 
-
 ##### 第五十六天 26/09/11
 <img src="./英语听说/56_1.png" alt="第56天笔记截图1" loading="lazy" />
 
@@ -650,6 +649,7 @@ draft: false
 
 	raise
 <img src="./英语听说/58_4raise1.png" alt="第58天笔记截图4" loading="lazy" />
+
 	wrap
 <img src="./英语听说/58_5wrap1.png" alt="第58天笔记截图5" loading="lazy" />
 
