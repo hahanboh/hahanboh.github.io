@@ -565,3 +565,108 @@ draft: false
 <img src="./英语听说/55_17.png" alt="第55天笔记截图17" loading="lazy" />
 
 <img src="./英语听说/55_18.png" alt="第55天笔记截图18" loading="lazy" />
+
+
+##### 第五十六天 26/09/11
+<img src="./英语听说/56_1.png" alt="第56天笔记截图1" loading="lazy" />
+
+<img src="./英语听说/56_2.png" alt="第56天笔记截图2" loading="lazy" />
+
+	ride
+<img src="./英语听说/56_3ride1.png" alt="第56天笔记截图3" loading="lazy" />
+
+	bang
+<img src="./英语听说/56_4bang1.png" alt="第56天笔记截图4" loading="lazy" />
+
+	full
+<img src="./英语听说/56_5full1.png" alt="第56天笔记截图5" loading="lazy" />
+
+	fly
+<img src="./英语听说/56_6fly1.png" alt="第56天笔记截图6" loading="lazy" />
+
+	scar
+<img src="./英语听说/56_7scar1.png" alt="第56天笔记截图7" loading="lazy" />
+
+	shot shoot
+<img src="./英语听说/56_8shot1.png" alt="第56天笔记截图8" loading="lazy" />
+
+	rock
+<img src="./英语听说/56_9rock1.png" alt="第56天笔记截图9" loading="lazy" />
+
+	填表
+<img src="./英语听说/56_10.png" alt="第56天笔记截图10" loading="lazy" />
+
+	答案
+<img src="./英语听说/56_11.png" alt="第56天笔记截图11" loading="lazy" />
+
+
+##### 第五十七天 26/09/12
+<img src="./英语听说/57_1.png" alt="第57天笔记截图1" loading="lazy" />
+
+	搜索关键词
+<img src="./英语听说/57_2.png" alt="第57天笔记截图2" loading="lazy" />
+
+	sort
+<img src="./英语听说/57_3sort1.png" alt="第57天笔记截图3" loading="lazy" />
+
+	blow
+<img src="./英语听说/57_4blow1.png" alt="第57天笔记截图4" loading="lazy" />
+
+<img src="./英语听说/57_5blow2.png" alt="第57天笔记截图5" loading="lazy" />
+
+	fair
+<img src="./英语听说/57_6fair1.png" alt="第57天笔记截图6" loading="lazy" />
+
+	pass
+<img src="./英语听说/57_7pass1.png" alt="第57天笔记截图7" loading="lazy" />
+
+	company
+<img src="./英语听说/57_8company1.png" alt="第57天笔记截图8" loading="lazy" />
+
+	but
+<img src="./英语听说/57_9but1.png" alt="第57天笔记截图9" loading="lazy" />
+
+	trick
+<img src="./英语听说/57_10trick1.png" alt="第57天笔记截图10" loading="lazy" />
+
+	填空
+<img src="./英语听说/57_11.png" alt="第57天笔记截图11" loading="lazy" />
+
+<img src="./英语听说/57_12.png" alt="第57天笔记截图12" loading="lazy" />
+
+	答案
+<img src="./英语听说/57_13.png" alt="第57天笔记截图13" loading="lazy" />
+
+<img src="./英语听说/57_14.png" alt="第57天笔记截图14" loading="lazy" />
+
+
+##### 第五十八天 26/09/14
+<img src="./英语听说/58_1.png" alt="第58天笔记截图1" loading="lazy" />
+
+<img src="./英语听说/58_2.png" alt="第58天笔记截图2" loading="lazy" />
+
+	straight
+<img src="./英语听说/58_3straight1.png" alt="第58天笔记截图3" loading="lazy" />
+
+	raise
+<img src="./英语听说/58_4raise1.png" alt="第58天笔记截图4" loading="lazy" />
+	wrap
+<img src="./英语听说/58_5wrap1.png" alt="第58天笔记截图5" loading="lazy" />
+
+	list
+<img src="./英语听说/58_6list1.png" alt="第58天笔记截图6" loading="lazy" />
+
+	handle  brain
+<img src="./英语听说/58_7handle1.png" alt="第58天笔记截图7" loading="lazy" />
+
+	hide test
+<img src="./英语听说/58_8hide1.png" alt="第58天笔记截图8" loading="lazy" />
+
+	roll
+<img src="./英语听说/58_9roll1.png" alt="第58天笔记截图9" loading="lazy" />
+
+	填空
+<img src="./英语听说/58_10.png" alt="第58天笔记截图10" loading="lazy" />
+
+	答案
+<img src="./英语听说/58_11.png" alt="第58天笔记截图11" loading="lazy" />
