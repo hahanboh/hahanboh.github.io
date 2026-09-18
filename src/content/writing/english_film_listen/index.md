@@ -14,7 +14,7 @@ locale: zh-cn
 publishedAt: 2026-09-03
 
 # 更新时间：以后修改这篇笔记时，可以同步改这个日期。
-updatedAt: 2026-09-10
+updatedAt: 2026-09-18
 
 # 作者：可以保留柏涵。
 author: "柏涵"
@@ -670,3 +670,92 @@ draft: false
 
 	答案
 <img src="./英语听说/58_11.png" alt="第58天笔记截图11" loading="lazy" />
+
+##### 第五十九天 26/09/15
+	训练单词
+<img src="./英语听说/59_1.png" alt="第59天笔记截图1" loading="lazy" />
+
+	查找关键词
+<img src="./英语听说/59_2.png" alt="第59天笔记截图2" loading="lazy" />
+
+	naked&clear
+<img src="./英语听说/59_3naked1.png" alt="第59天笔记截图3" loading="lazy" />
+
+	clear和sunny不同,sunny指的是阳光很好的晴天，可以有云，clear指的是没有云没有雾霾，天上很“清晰”空无一物
+	cover&state
+<img src="./英语听说/59_4cover1.png" alt="第59天笔记截图4" loading="lazy" />
+
+<img src="./英语听说/59_5cover2.png" alt="第59天笔记截图5" loading="lazy" />
+
+	expect
+<img src="./英语听说/59_6expect1.png" alt="第59天笔记截图6" loading="lazy" />
+
+	这个expecting you和waiting for you的区别是，wait强调的是实际的等待，expect强调的是精神上的等待,期待
+	这里的expect还是对事情的预测，加上否定词就可以表示，没有预测到，没想到
+	clown&beat
+<img src="./英语听说/59_7clown1.png" alt="第59天笔记截图7" loading="lazy" />
+
+	theory
+<img src="./英语听说/59_8theory1.png" alt="第59天笔记截图8" loading="lazy" />
+
+	填空
+<img src="./英语听说/59_9.png" alt="第59天笔记截图9" loading="lazy" />
+
+	答案
+<img src="./英语听说/59_10.png" alt="第59天笔记截图10" loading="lazy" />
+
+##### 第六十天 26/09/16
+<img src="./英语听说/60_1.png" alt="第60天笔记截图1" loading="lazy" />
+
+	查找方式
+<img src="./英语听说/60_2.png" alt="第60天笔记截图2" loading="lazy" />
+
+	state
+<img src="./英语听说/60_3state1.png" alt="第60天笔记截图3" loading="lazy" />
+
+	audition
+<img src="./英语听说/60_4audition1.png" alt="第60天笔记截图4" loading="lazy" />
+
+	tough&white
+<img src="./英语听说/60_5tough1.png" alt="第60天笔记截图5" loading="lazy" />
+
+	spot
+	这里的spot是发现的意思，它跟find表示的发现区别在于spot强调的是视觉上的发现，注意到，有突然性find指的是普通的找到，发现
+<img src="./英语听说/60_6spot1.png" alt="第60天笔记截图6" loading="lazy" />
+
+	except&sock&magic
+<img src="./英语听说/60_7except1.png" alt="第60天笔记截图7" loading="lazy" />
+
+	screw
+<img src="./英语听说/60_8screw1.png" alt="第60天笔记截图8" loading="lazy" />
+
+	填空
+<img src="./英语听说/60_9.png" alt="第60天笔记截图9" loading="lazy" />
+
+	答案
+<img src="./英语听说/60_10.png" alt="第60天笔记截图10" loading="lazy" />
+
+##### 第六十一天 26/09/18
+<img src="./英语听说/61_1.png" alt="第61天笔记截图1" loading="lazy" />
+
+	搜索方式
+<img src="./英语听说/61_2.png" alt="第61天笔记截图2" loading="lazy" />
+
+	count
+<img src="./英语听说/61_3count1.png" alt="第61天笔记截图3" loading="lazy" />
+
+	system
+<img src="./英语听说/61_4system1.png" alt="第61天笔记截图4" loading="lazy" />
+
+	注意don't和admit，连起来听起来经常是donadmit,doesn't admit -> doesnadmit
+	lead
+<img src="./英语听说/61_5lead1.png" alt="第61天笔记截图5" loading="lazy" />
+
+	pee
+<img src="./英语听说/61_6pee1.png" alt="第61天笔记截图6" loading="lazy" />
+
+	填空
+<img src="./英语听说/61_7.png" alt="第61天笔记截图7" loading="lazy" />
+
+	答案
+<img src="./英语听说/61_8.png" alt="第61天笔记截图8" loading="lazy" />
