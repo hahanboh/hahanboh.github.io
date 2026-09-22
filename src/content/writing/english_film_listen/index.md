@@ -14,7 +14,7 @@ locale: zh-cn
 publishedAt: 2026-09-03
 
 # 更新时间：以后修改这篇笔记时，可以同步改这个日期。
-updatedAt: 2026-09-18
+updatedAt: 2026-09-22
 
 # 作者：可以保留柏涵。
 author: "柏涵"
@@ -759,3 +759,63 @@ draft: false
 
 	答案
 <img src="./英语听说/61_8.png" alt="第61天笔记截图8" loading="lazy" />
+
+##### 第六十二天 26/09/19
+<img src="./英语听说/62_1.png" alt="第62天笔记截图1" loading="lazy" />
+
+	查找方式
+<img src="./英语听说/62_2.png" alt="第62天笔记截图2" loading="lazy" />
+
+	quite till earth
+<img src="./英语听说/62_3quite1.png" alt="第62天笔记截图3" loading="lazy" />
+
+	quite在肯定句里是加深程度的，在否定句里是减轻程度的，就像中文的太，“太好了”比“好”程度深，但是“不太好”比“不好”程度浅
+	arm floor crap
+<img src="./英语听说/62_4arm1.png" alt="第62天笔记截图4" loading="lazy" />
+
+	laundry consider
+<img src="./英语听说/62_5laundry1.png" alt="第62天笔记截图5" loading="lazy" />
+
+	shake mention terrific
+<img src="./英语听说/62_6shake1.png" alt="第62天笔记截图6" loading="lazy" />
+
+	填空
+<img src="./英语听说/62_7.png" alt="第62天笔记截图7" loading="lazy" />
+
+	答案
+<img src="./英语听说/62_8.png" alt="第62天笔记截图8" loading="lazy" />
+
+##### 第六十三天 26/09/21
+	单词
+<img src="./英语听说/63_1.png" alt="第63天笔记截图1" loading="lazy" />
+
+	搜索方式
+<img src="./英语听说/63_2.png" alt="第63天笔记截图2" loading="lazy" />
+
+	record
+<img src="./英语听说/63_3record1.png" alt="第63天笔记截图3" loading="lazy" />
+
+<img src="./英语听说/63_4record2.png" alt="第63天笔记截图4" loading="lazy" />
+
+	rid burn
+<img src="./英语听说/63_5rid1.png" alt="第63天笔记截图5" loading="lazy" />
+
+<img src="./英语听说/63_6rid2.png" alt="第63天笔记截图6" loading="lazy" />
+
+	air
+	air sth/sb out本质上的意思是把这个东西或者人周围本来的空气弄出去，新空气就会进来嘛，所以它可以指通风，透气，散味儿的意思
+<img src="./英语听说/63_7air1.png" alt="第63天笔记截图7" loading="lazy" />
+
+	creepy
+<img src="./英语听说/63_8creepy1.png" alt="第63天笔记截图8" loading="lazy" />
+
+	across
+<img src="./英语听说/63_9across1.png" alt="第63天笔记截图9" loading="lazy" />
+
+<img src="./英语听说/63_10across2.png" alt="第63天笔记截图10" loading="lazy" />
+
+	填空
+<img src="./英语听说/63_11.png" alt="第63天笔记截图11" loading="lazy" />
+
+	答案
+<img src="./英语听说/63_12.png" alt="第63天笔记截图12" loading="lazy" />
