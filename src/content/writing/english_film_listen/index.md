@@ -14,7 +14,7 @@ locale: zh-cn
 publishedAt: 2026-09-03
 
 # 更新时间：以后修改这篇笔记时，可以同步改这个日期。
-updatedAt: 2026-09-22
+updatedAt: 2026-09-29
 
 # 作者：可以保留柏涵。
 author: "柏涵"
@@ -819,3 +819,34 @@ draft: false
 
 	答案
 <img src="./英语听说/63_12.png" alt="第63天笔记截图12" loading="lazy" />
+
+##### 第六十四天 26/09/29
+	训练单词
+<img src="./英语听说/64_1.png" alt="第64天笔记截图1" loading="lazy" />
+
+	搜索方式
+<img src="./英语听说/64_2.png" alt="第64天笔记截图2" loading="lazy" />
+
+	suit
+<img src="./英语听说/64_3suit1.png" alt="第64天笔记截图3" loading="lazy" />
+
+	remind pack
+<img src="./英语听说/64_4remind1.png" alt="第64天笔记截图4" loading="lazy" />
+
+	project
+<img src="./英语听说/64_5project1.png" alt="第64天笔记截图5" loading="lazy" />
+
+	crush
+<img src="./英语听说/64_6crush1.png" alt="第64天笔记截图6" loading="lazy" />
+
+	dump
+<img src="./英语听说/64_7dump1.png" alt="第64天笔记截图7" loading="lazy" />
+
+	mark
+<img src="./英语听说/64_8mark1.png" alt="第64天笔记截图8" loading="lazy" />
+
+	填空
+<img src="./英语听说/64_9.png" alt="第64天笔记截图9" loading="lazy" />
+
+	答案
+<img src="./英语听说/64_10.png" alt="第64天笔记截图10" loading="lazy" />
