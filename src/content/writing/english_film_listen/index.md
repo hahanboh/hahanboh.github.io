@@ -14,7 +14,7 @@ locale: zh-cn
 publishedAt: 2026-09-03
 
 # 更新时间：以后修改这篇笔记时，可以同步改这个日期。
-updatedAt: 2026-09-29
+updatedAt: 2026-10-13
 
 # 作者：可以保留柏涵。
 author: "柏涵"
@@ -850,3 +850,32 @@ draft: false
 
 	答案
 <img src="./英语听说/64_10.png" alt="第64天笔记截图10" loading="lazy" />
+
+##### 第六十五天 26/10/13
+	单词
+<img src="./英语听说/65_1.png" alt="第65天笔记截图1" loading="lazy" />
+
+	搜索方式
+<img src="./英语听说/65_2.png" alt="第65天笔记截图2" loading="lazy" />
+
+	return
+<img src="./英语听说/65_3return1.png" alt="第65天笔记截图3" loading="lazy" />
+
+	asleep
+<img src="./英语听说/65_4asleep1.png" alt="第65天笔记截图4" loading="lazy" />
+
+	这个fall是掉落的意思，fall asleep字面意思就是掉落进睡着的状态里，实际上就是指睡着的动词，Are you asleep?是问你现在是不是睡着的状态。Don't fall asleep.别睡着了。You fell asleep.你刚才睡着了
+	punch
+<img src="./英语听说/65_5punch1.png" alt="第65天笔记截图5" loading="lazy" />
+
+	silly
+<img src="./英语听说/65_6silly1.png" alt="第65天笔记截图6" loading="lazy" />
+
+	sneak
+<img src="./英语听说/65_7sneak1.png" alt="第65天笔记截图7" loading="lazy" />
+
+	填空
+<img src="./英语听说/65_8.png" alt="第65天笔记截图8" loading="lazy" />
+
+	答案
+<img src="./英语听说/65_9.png" alt="第65天笔记截图9" loading="lazy" />
