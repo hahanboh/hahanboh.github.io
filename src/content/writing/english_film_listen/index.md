@@ -14,7 +14,7 @@ locale: zh-cn
 publishedAt: 2026-09-03
 
 # 更新时间：以后修改这篇笔记时，可以同步改这个日期。
-updatedAt: 2026-10-13
+updatedAt: 2026-10-19
 
 # 作者：可以保留柏涵。
 author: "柏涵"
@@ -879,3 +879,56 @@ draft: false
 
 	答案
 <img src="./英语听说/65_9.png" alt="第65天笔记截图9" loading="lazy" />
+
+##### 第六十六天 26/10/16
+	训练单词
+<img src="./英语听说/66_1.png" alt="第66天笔记截图1" loading="lazy" />
+
+	搜索顺序
+<img src="./英语听说/66_2.png" alt="第66天笔记截图2" loading="lazy" />
+
+	dumb
+<img src="./英语听说/66_3dumb1.png" alt="第66天笔记截图3" loading="lazy" />
+
+	charge
+<img src="./英语听说/66_4charge1.png" alt="第66天笔记截图4" loading="lazy" />
+
+<img src="./英语听说/66_5charge2.png" alt="第66天笔记截图5" loading="lazy" />
+
+	clearly
+<img src="./英语听说/66_6clearly1.png" alt="第66天笔记截图6" loading="lazy" />
+
+	switch
+<img src="./英语听说/66_7switch1.png" alt="第66天笔记截图7" loading="lazy" />
+
+	填空训练
+<img src="./英语听说/66_8.png" alt="第66天笔记截图8" loading="lazy" />
+
+	答案
+<img src="./英语听说/66_9.png" alt="第66天笔记截图9" loading="lazy" />
+
+##### 第六十七天 26/10/17
+	单词
+<img src="./英语听说/67_1.png" alt="第67天笔记截图1" loading="lazy" />
+
+	搜索顺序
+<img src="./英语听说/67_2.png" alt="第67天笔记截图2" loading="lazy" />
+
+	adorable
+<img src="./英语听说/67_3adorable1.png" alt="第67天笔记截图3" loading="lazy" />
+
+	fella可以用来称呼男生，因为它有小伙子，哥们的意思，它也可以用来表示男朋友，
+	人家问你 Do you have afella?字面意思是你有小伙子吗?实际上就是问你有没有男朋友。
+	adorable和cute都是可爱的意思但是adorable更加强调让人非常喜欢、想去亲近、充满爱意的可爱，语气更强烈。带有一种发自内心的喜爱和心都要融化了的感觉Cute是更常用、基础的词，语气比"adorable"弱一些。
+	giant
+<img src="./英语听说/67_4giant1.png" alt="第67天笔记截图4" loading="lazy" />
+
+	swear
+<img src="./英语听说/67_5swear1.png" alt="第67天笔记截图5" loading="lazy" />
+
+	bill是账单的意思，Can we have the bill, please?这种结账的说法在英式英语里比较常见美式英语里更喜欢说，Check, please./Can we get the check, please?
+	填空
+<img src="./英语听说/67_6.png" alt="第67天笔记截图6" loading="lazy" />
+
+	答案
+<img src="./英语听说/67_7.png" alt="第67天笔记截图7" loading="lazy" />
