@@ -932,3 +932,34 @@ draft: false
 
 	答案
 <img src="./英语听说/67_7.png" alt="第67天笔记截图7" loading="lazy" />
+
+##### 第六十八天 26/10/19
+	单词
+<img src="./英语听说/68_1.png" alt="第68天笔记截图1" loading="lazy" />
+
+	搜索方式
+<img src="./英语听说/68_2.png" alt="第68天笔记截图2" loading="lazy" />
+
+	favor
+<img src="./英语听说/68_3favor1.png" alt="第68天笔记截图3" loading="lazy" />
+
+	bowl之所以可以用来表示一些比赛的名称是因为早期的比赛在“碗形”体育场中举行因此就用bowl作为比赛的名称。0Super Bowl超级碗 physics bowl物理碗超级碗是很出名的橄榄球比赛
+	fit
+<img src="./英语听说/68_4fit1.png" alt="第68天笔记截图4" loading="lazy" />
+
+	scene
+<img src="./英语听说/68_5scene1.png" alt="第68天笔记截图5" loading="lazy" />
+
+	pressure
+<img src="./英语听说/68_6pressure1.png" alt="第68天笔记截图6" loading="lazy" />
+
+	fit刚说过它本质上的意思就是能大小合适地放入，所以它也可以表示融入一个集体，融入一份工作之类的。比如:我希望能融入他们，跟他们成为好朋友。I hope I can fit in with them and become goodfriends with them.
+<img src="./英语听说/68_7tear1.png" alt="第68天笔记截图7" loading="lazy" />
+
+<img src="./英语听说/68_8scene2.png" alt="第68天笔记截图8" loading="lazy" />
+
+	填空
+<img src="./英语听说/68_9.png" alt="第68天笔记截图9" loading="lazy" />
+
+	答案
+<img src="./英语听说/68_10.png" alt="第68天笔记截图10" loading="lazy" />
