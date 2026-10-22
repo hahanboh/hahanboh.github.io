@@ -14,7 +14,7 @@ locale: zh-cn
 publishedAt: 2026-09-03
 
 # 更新时间：以后修改这篇笔记时，可以同步改这个日期。
-updatedAt: 2026-10-19
+updatedAt: 2026-10-22
 
 # 作者：可以保留柏涵。
 author: "柏涵"
@@ -963,3 +963,72 @@ draft: false
 
 	答案
 <img src="./英语听说/68_10.png" alt="第68天笔记截图10" loading="lazy" />
+
+##### 第六十九天 26/10/21
+	单词
+<img src="./英语听说/69_1.png" alt="第69天笔记截图1" loading="lazy" />
+
+	搜索方式
+<img src="./英语听说/69_2.png" alt="第69天笔记截图2" loading="lazy" />
+
+	settle
+<img src="./英语听说/69_3settle1.png" alt="第69天笔记截图3" loading="lazy" />
+
+	paint有v.涂,画，刷漆的意思 repaint就有重新涂，画，刷漆的意思
+	base
+<img src="./英语听说/69_4base1.png" alt="第69天笔记截图4" loading="lazy" />
+
+	虽然字典上说base作为动词可以表示把(总部等)设在...的意思但是实际的应用中都是用based所以你可以把based理解为一个形容词We're based in Beijing.我们总部在北京We're based in Shanghai.我们总部在上海。
+	rub
+<img src="./英语听说/69_5rub1.png" alt="第69天笔记截图5" loading="lazy" />
+
+	force
+<img src="./英语听说/69_6force1.png" alt="第69天笔记截图6" loading="lazy" />
+
+	force可以指那种军队,武装力量的意思通常intheforce指在军队里部队里ontheforce指在执法机关，也就是做警察。比如:I'm on the froce for 10 years.我做警察十年了。I'm in the froce for 10 years.我在部队十年了。
+	based on就是很常用的一个搭配表示基于....,比如我们的感情是基于爱的。Our relationship is based on love.
+	刚才幼琳抹爽肤水也用的rubrub就是揉，抹，擦，摩擦都可以用这个词
+	填空
+<img src="./英语听说/69_7.png" alt="第69天笔记截图7" loading="lazy" />
+
+	答案
+<img src="./英语听说/69_8.png" alt="第69天笔记截图8" loading="lazy" />
+
+##### 第七十天 26/10/21
+	单词
+<img src="./英语听说/70_1.png" alt="第70天笔记截图1" loading="lazy" />
+
+	搜索方式
+<img src="./英语听说/70_2.png" alt="第70天笔记截图2" loading="lazy" />
+
+	field
+<img src="./英语听说/70_3field1.png" alt="第70天笔记截图3" loading="lazy" />
+
+	flat a.平的,瘪了的thetireisflat.胎瘪了,爆胎了。日常生活中大家更习惯直接说We haveaflattire或者直接说flattire.来表示爆胎了.直接说flattire是最常见的
+	duck
+<img src="./英语听说/70_4duck1.png" alt="第70天笔记截图4" loading="lazy" />
+
+	settle down是让大家冷静，别闹，它和be quiet的区别是:be quiet是让大家别说话,安静比如老师到班里发现大家都在打打闹闹上窜下跳，那就说settle down比较合适要是发现大家在窃窃私语，那就说be quiet比较合适。
+	settle down还有安顿下来的意思比如父母希望你赶紧结婚安顿下来也可以用这个词we hope you get married and settle down.
+	settle for sth 勉强接受,将就接受sth.比如:我想要一百万，但你如果只给我十万，我也能勉强接受。I want one million, but if you only give me one hundred thousand, I'll settle for that.
+	settle它本质上的意思就是使事物达到稳定、固定或解决的状态那如果你能勉强接受一个事了是不是代表着即使不是特别满意可你内心是比较平静，稳定了
+	issue
+<img src="./英语听说/70_5issue1.png" alt="第70天笔记截图5" loading="lazy" />
+
+	如果是刚才走着走着不小心撞到门上了。你可以说l just bumped into the door.因为bumpinto它指的是比较笼统的整个人撞到某个东西，具体撞到哪个部位其实是不确定的，也许最后只有头受伤了，但是表达的意思就是很笼统的我这个人撞上去了。但是我的头刚撞到车顶了。这句话已经明确到头了，用这个比较笼统的bumpinto就不太合适了，还是说ljust bumped my head ontheroof.比较合适。
+	bump它做动词有撞的意思，撞一下很容易有小包所以它做名词还有肿起，凸起的意思我们之前有听过goose bump鸡皮疙瘩这里面的bump就是小凸起的意思g00se是鹅的意思，合在一起就是鹅皮疙瘩鸡皮疙瘩。
+	have issues with their fathers.直接说成havefatherissues也可以意思是一样的
+<img src="./英语听说/70_6issue2.png" alt="第70天笔记截图6" loading="lazy" />
+
+	bump
+<img src="./英语听说/70_7bump1.png" alt="第70天笔记截图7" loading="lazy" />
+
+<img src="./英语听说/70_8bump2.png" alt="第70天笔记截图8" loading="lazy" />
+
+<img src="./英语听说/70_9bump3.png" alt="第70天笔记截图9" loading="lazy" />
+
+	填空
+<img src="./英语听说/70_10.png" alt="第70天笔记截图10" loading="lazy" />
+
+	答案
+<img src="./英语听说/70_11.png" alt="第70天笔记截图11" loading="lazy" />
