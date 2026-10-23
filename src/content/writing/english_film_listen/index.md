@@ -14,7 +14,7 @@ locale: zh-cn
 publishedAt: 2026-09-03
 
 # 更新时间：以后修改这篇笔记时，可以同步改这个日期。
-updatedAt: 2026-10-22
+updatedAt: 2026-10-23
 
 # 作者：可以保留柏涵。
 author: "柏涵"
@@ -340,7 +340,7 @@ draft: false
 	 ginger  veto  -3587
 
 ### 第二阶段
-#### 带练期复习(50~)
+#### 带练期复习(50~70)
 
 ##### 第五十天 26/09/04
 	目标：出现在句子里都能听懂
@@ -1032,3 +1032,15 @@ draft: false
 
 	答案
 <img src="./英语听说/70_11.png" alt="第70天笔记截图11" loading="lazy" />
+
+	联系到表第972，频次168career
+### 第三阶段
+	老友记练习
+<img src="./英语听说/stage3_1.png" alt="第三阶段每集练习形式" loading="lazy" />
+
+	训练流程
+<img src="./英语听说/stage3_2.png" alt="第三阶段训练流程" loading="lazy" />
+
+##### 第七十一天 26/10/23
+	新单词
+<img src="./英语听说/71_1.png" alt="第71天新单词" loading="lazy" />
