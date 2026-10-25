@@ -32,21 +32,22 @@ const structuredData = {
   <article class="article narrow">
     <header><p class="eyebrow">Writing</p><h1>{entry.data.title}</h1><p class="dek">{entry.data.description}</p><div class="meta"><time datetime={entry.data.publishedAt.toISOString()}>发布于 {entry.data.publishedAt.toLocaleDateString('zh-CN')}</time>{entry.data.updatedAt && <> · 更新于 {entry.data.updatedAt.toLocaleDateString('zh-CN')}</>}{entry.data.minutes && <> · {entry.data.minutes} 分钟阅读</>}</div><TagList tags={entry.data.tags}/><div class="actions"><FavoriteButton id={Astro.url.pathname}/><CopyLink url={new URL(Astro.url.pathname, Astro.site).toString()}/></div></header>
     <TableOfContents headings={headings.filter((h)=>h.depth<=4)}/>
-    <div class="prose"><Content /></div>
+    <div class="prose" data-collapsible-sections={entry.data.collapsibleSections ? "true" : undefined}><Content /></div>
   </article>
   {related.length>0 && <section class="narrow"><div class="section-heading"><h2>相关文章</h2></div><div class="list">{related.map((item)=><PostCard entry={item}/>)}</div></section>}
   <nav class="post-nav narrow" aria-label="文章导航"><div>{previous && <><span>上一篇</span><a href={writingPath(previous)}>{previous.data.title}</a></>}</div><div>{next && <><span>下一篇</span><a href={writingPath(next)}>{next.data.title}</a></>}</div></nav>
 </BaseLayout>
 <style>.article{padding:5rem 0}.article h1{font-size:clamp(2.8rem,7vw,5.4rem);line-height:1;letter-spacing:0;margin:.6rem 0 1.2rem}.dek{font-size:1.25rem;color:var(--muted)}.actions{display:flex;gap:.6rem;margin-top:1.5rem}.post-nav{display:grid;grid-template-columns:1fr 1fr;gap:2rem;border-top:1px solid var(--line);padding-top:2rem;margin-top:4rem}.post-nav div:last-child{text-align:right}.post-nav span{display:block;color:var(--muted);font-size:.8rem}.post-nav a{font-weight:700}@media(max-width:40rem){.post-nav{grid-template-columns:1fr}.post-nav div:last-child{text-align:left}}</style>
 <script>
-  const prose = document.querySelector('.prose');
-  const dayHeadings = prose ? [...prose.querySelectorAll('h5')] : [];
+  const prose = document.querySelector<HTMLElement>('.prose');
+  const selector = prose?.dataset.collapsibleSections === 'true' ? 'h3' : 'h5';
+  const dayHeadings = prose ? [...prose.querySelectorAll<HTMLHeadingElement>(selector)] : [];
   for (const heading of dayHeadings) {
+    const level = Number(heading.tagName.slice(1));
     const details = document.createElement('details');
     details.className = 'day-note';
 
     const summary = document.createElement('summary');
-    summary.textContent = heading.textContent ?? '';
     details.append(summary);
 
     const body = document.createElement('div');
@@ -55,12 +56,34 @@ const structuredData = {
     let current = heading.nextSibling;
     while (current) {
       const next = current.nextSibling;
-      if (current.nodeType === Node.ELEMENT_NODE && /^H[2-5]$/.test(current.tagName)) break;
+      if (current instanceof HTMLElement && /^H[1-6]$/.test(current.tagName)
+        && Number(current.tagName.slice(1)) <= level) break;
       body.append(current);
       current = next;
     }
 
     details.append(body);
     heading.replaceWith(details);
+    summary.append(heading);
   }
+
+  // Open folded sections when following a directory or shared heading link.
+  function revealSection(hash: string) {
+    if (!hash) return;
+    let id: string;
+    try { id = decodeURIComponent(hash.slice(1)); } catch { return; }
+    const target = document.getElementById(id);
+    if (!target || !prose?.contains(target)) return;
+    let parent = target.parentElement;
+    while (parent && parent !== prose) {
+      if (parent instanceof HTMLDetailsElement) parent.open = true;
+      parent = parent.parentElement;
+    }
+    target.scrollIntoView({ block: 'start' });
+  }
+  revealSection(window.location.hash);
+  window.addEventListener('hashchange', () => revealSection(window.location.hash));
+  document.querySelectorAll<HTMLAnchorElement>('.toc a[href^="#"]').forEach((link) => {
+    link.addEventListener('click', () => revealSection(link.hash));
+  });
 </script>

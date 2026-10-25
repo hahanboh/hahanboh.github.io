@@ -10,6 +10,7 @@ column: "英语学习"
 columnOrder: 2
 featured: false
 draft: false
+collapsibleSections: true
 ---
 
 ## 词汇
