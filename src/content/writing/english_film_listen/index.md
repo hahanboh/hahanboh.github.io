@@ -14,7 +14,7 @@ locale: zh-cn
 publishedAt: 2026-09-03
 
 # 更新时间：以后修改这篇笔记时，可以同步改这个日期。
-updatedAt: 2026-10-23
+updatedAt: 2026-10-25
 
 # 作者：可以保留柏涵。
 author: "柏涵"
@@ -1044,3 +1044,7 @@ draft: false
 ##### 第七十一天 26/10/23
 	新单词
 <img src="./英语听说/71_1.png" alt="第71天新单词" loading="lazy" />
+
+##### 第七十二天 26/10/24
+	新单词
+<img src="./英语听说/72_1.png" alt="第72天新单词" loading="lazy" />
