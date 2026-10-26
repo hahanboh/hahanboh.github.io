@@ -14,7 +14,7 @@ locale: zh-cn
 publishedAt: 2026-09-03
 
 # 更新时间：以后修改这篇笔记时，可以同步改这个日期。
-updatedAt: 2026-10-25
+updatedAt: 2026-10-26
 
 # 作者：可以保留柏涵。
 author: "柏涵"
@@ -1044,6 +1044,101 @@ draft: false
 ##### 第七十一天 26/10/23
 	新单词
 <img src="./英语听说/71_1.png" alt="第71天新单词" loading="lazy" />
+
+**词汇补充**
+
+1. **hump / hunchback**
+   - 含义与用法：hump是“隆起、驼峰”；hunched back表示“驼着的背”。hunchback可指驼背的人或角色，但直接称呼现实中的人可能不够礼貌。
+   - 例句：The camel has two humps. 这头骆驼有两个驼峰。He walked with a hunched back. 他弓着背走路。
+   - 记忆：把hump想成背上鼓起的一座小山。
+2. **hairpiece / wig**
+   - 含义与用法：hairpiece通常只覆盖部分头发，常用于遮住秃发处；wig是假发，通常覆盖整个头部。hairpiece一般写成一个词。
+   - 例句：He wears a hairpiece to cover a bald spot. 他戴局部假发遮住秃发处。She wore a red wig. 她戴了一顶红色假发。
+   - 记忆：piece表示“一部分”，所以hairpiece只是部分假发。
+3. **chalk**
+   - 含义与用法：chalk表示“粉笔、白垩”，作为材料通常不可数；一支粉笔说a piece of chalk。
+   - 例句：The teacher wrote the answer on the board with a piece of chalk. 老师用一支粉笔把答案写在黑板上。
+   - 记忆：把chalk和chalkboard“黑板”一起记。
+4. **cafeteria**
+   - 含义与用法：表示学校、公司等场所里的“自助食堂、餐厅”，通常需要自己取餐。
+   - 例句：Let's have lunch in the cafeteria. 我们去食堂吃午饭吧。
+   - 记忆：想象拿着托盘在学校食堂排队取餐。
+5. **all of a sudden**
+   - 含义与用法：表示“突然”，相当于suddenly。固定搭配中是a sudden，不要写成the sudden。
+   - 例句：All of a sudden, the lights went out. 突然，灯全灭了。
+   - 记忆：事情在没有预告的情况下“一下子”发生。
+6. **turn out**
+   - 含义与用法：表示“结果是、原来是”。常用结构有It turns out that...和turn out to be...。
+   - 例句：It turned out that we had met before. 原来我们以前见过。The job turned out to be harder than I expected. 这份工作结果比我预想的更难。
+   - 记忆：事情转到最后，真正的结果才显现出来。
+7. **cleanse**
+   - 含义与用法：表示“彻底清洁、净化”，比clean更正式，常用于皮肤、身体或心灵；clean是日常的一般清洁。
+   - 例句：This cleanser gently cleanses the skin. 这款洁面产品能温和地清洁皮肤。
+   - 记忆：cleanse看起来像clean，可以把它记成“更深入的clean”。
+8. **aura**
+   - 含义与用法：表示一个人或地方散发出的“气场、氛围”，也可以表示绘画中的光环。
+   - 例句：She has an aura of confidence. 她身上有一种自信的气场。
+   - 记忆：想象一个人周围有一圈看不见的光。
+9. **to hell with...**
+   - 含义与用法：表示“去他的、管它呢”，情绪很强，也不太礼貌，只适合非常随意或生气的语境。
+   - 例句：To hell with the old plan. Let's start over. 去他的旧计划，我们重新开始吧。
+   - 记忆：出现hell说明说话人的不满已经很强烈。
+10. **fixate on sth**
+    - 含义与用法：表示“过度关注、执着于某事”，通常带有负面含义。
+    - 例句：Don't fixate on one small mistake. 不要一直纠结一个小错误。
+    - 记忆：fix表示“固定”，注意力被固定在一点上就是fixate on。
+11. **say sth out loud**
+    - 含义与用法：表示“把某事大声说出来、说出声”，与在心里默念相对；out loud可以换成aloud。
+    - 例句：Try saying the sentence out loud. 试着把这个句子大声说出来。
+    - 记忆：声音从嘴里出来out，而且能被听见loud。
+12. **pain**
+    - 含义与用法：可以表示身体或精神上的“疼痛、痛苦”。泛指疼痛时常不可数，a pain可表示一阵具体的疼痛，也可口语表示麻烦的人或事。
+    - 例句：I felt a sharp pain in my back. 我感到背部一阵剧痛。This paperwork is a pain. 这些文书工作真麻烦。
+    - 记忆：hurt常作动词或形容感受，pain最常作为名词使用。
+13. **strip club**
+    - 含义与用法：表示“脱衣舞俱乐部”，属于成人娱乐场所。strip本身有“脱去衣物、剥去外层”的意思。
+    - 例句：The scene takes place outside a strip club. 这一幕发生在一家脱衣舞俱乐部外面。
+    - 记忆：strip“脱去衣物”加club“俱乐部”。
+14. **hormone**
+    - 含义与用法：表示“激素、荷尔蒙”，复数是hormones；形容词是hormonal。
+    - 例句：Stress can affect your hormones. 压力会影响你的激素水平。
+    - 记忆：把hormone理解成身体内部传递信息的“化学信使”。
+15. **hammer**
+    - 含义与用法：作名词表示“锤子”，作动词表示“用锤子敲”。hammer home还可表示“反复强调，使人牢记”。
+    - 例句：He hammered the nail into the wall. 他把钉子锤进了墙里。The teacher hammered home the key point. 老师反复强调了重点。
+    - 记忆：想象锤子反复敲击的动作和声音。
+16. **survivor**
+    - 含义与用法：表示从事故、疾病或困境中活下来的人，即“幸存者、生还者”。
+    - 例句：She is a cancer survivor. 她是一位癌症康复者。
+    - 记忆：survive“幸存”加表示人的后缀-or。
+17. **wet**
+    - 含义与用法：表示“湿的”，反义词是dry。常用搭配有get wet“弄湿”和wet through“浑身湿透”。
+    - 例句：Take an umbrella, or you'll get wet. 带把伞，不然你会淋湿的。
+    - 记忆：和dry成对记忆。
+18. **bridesmaid**
+    - 含义与用法：表示婚礼中陪伴新娘的“伴娘”；主要伴娘常称maid of honor。
+    - 例句：She was a bridesmaid at her sister's wedding. 她在姐姐的婚礼上担任伴娘。
+    - 记忆：bride“新娘”加maid“女伴、侍女”。
+19. **gorgeous**
+    - 含义与用法：表示“非常漂亮的、极好的”，语气通常比beautiful更强，可形容人、衣服、景色或天气。
+    - 例句：You look gorgeous in that dress. 你穿那条裙子真漂亮。The view is gorgeous. 景色美极了。
+    - 记忆：把它当成语气加强版的beautiful。
+20. **sb be turned on by...**
+    - 含义与用法：表示“某人被……激起性趣、对……产生性吸引”，带有明显的性意味。turn sb on表示使某人兴奋，反义表达是turn sb off。
+    - 例句：Some people are turned on by confidence. 有些人会被自信所吸引。
+    - 记忆：像打开开关turn on一样，某种特质启动了吸引力。普通的“对……感兴趣”不要随便用这个表达。
+21. **when it hit me**
+    - 含义与用法：表示“当我突然意识到时”。常见完整结构是It hit me that...，这里的hit不是身体被打，而是想法突然击中大脑。
+    - 例句：It suddenly hit me that I had left my phone at home. 我突然意识到手机落在家里了。
+    - 记忆：把突然出现的想法想成一下子“击中”了你。
+22. **familiar**
+    - 含义与用法：be familiar with sth表示“熟悉某事”；sth be familiar to sb表示“某事对某人来说很熟悉”。
+    - 例句：I'm familiar with this song. 我熟悉这首歌。This voice sounds familiar to me. 这个声音我听起来很熟悉。
+    - 记忆：人作主语常用with，事物作主语并指向某人时常用to。
+23. **drift apart**
+    - 含义与用法：表示两个人“逐渐疏远、渐行渐远”，强调慢慢发生，而不是突然绝交。
+    - 例句：We drifted apart after graduation. 毕业后我们渐渐疏远了。
+    - 记忆：想象两只小船随水流慢慢漂向不同方向。
 
 ##### 第七十二天 26/10/24
 	新单词
