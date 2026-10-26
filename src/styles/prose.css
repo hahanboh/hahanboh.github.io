@@ -1,4 +1,4 @@
-.prose { font-size: 1.08rem; line-height: 1.85; }
+.prose { font-size: 1.08rem; line-height: 1.85; --color-red: var(--accent); --color-yellow: var(--accent-3); }
 .prose h2 { margin-top: 3rem; font-size: 1.8rem; letter-spacing: 0; }
 .prose h3 { margin-top: 2rem; font-size: 1.35rem; }
 .prose h4 { margin: 1.6rem 0 .5rem; font-size: 1.05rem; letter-spacing: 0; }

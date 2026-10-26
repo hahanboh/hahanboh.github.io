@@ -83,7 +83,7 @@ const structuredData = {
   }
   revealSection(window.location.hash);
   window.addEventListener('hashchange', () => revealSection(window.location.hash));
-  document.querySelectorAll<HTMLAnchorElement>('.toc a[href^="#"]').forEach((link) => {
+  document.querySelectorAll<HTMLAnchorElement>('.toc a[href^="#"], .prose a[href^="#"]').forEach((link) => {
     link.addEventListener('click', () => revealSection(link.hash));
   });
 </script>
