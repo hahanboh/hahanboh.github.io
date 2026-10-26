@@ -1143,3 +1143,175 @@ draft: false
 ##### 第七十二天 26/10/24
 	新单词
 <img src="./英语听说/72_1.png" alt="第72天新单词" loading="lazy" />
+
+**词汇补充**
+
+1. **purse**
+    - 含义与用法：美式英语中通常指女士手提包；英式英语中也常指钱包或零钱包。泛指钱包时美式英语更常用wallet。
+    - 例句：She reached into her purse for her keys. 她把手伸进手提包里拿钥匙。
+    - 记忆：把purse和随身携带的小包联系起来，并顺便记住wallet。
+2. **metaphor**
+    - 含义与用法：表示“隐喻、暗喻”，直接说A是B；simile“明喻”通常使用like或as。
+    - 例句：Time is a thief is a metaphor. “时间是小偷”是一个隐喻。
+    - 记忆：metaphor直接“换身份”，simile只是说两者“像”。
+3. **establish**
+    - 含义与用法：可表示“建立、创立”，也可表示经过调查后“确认、查明”。常见搭配有establish a company和establish that...。
+    - 例句：The police established that he was not at the scene. 警方确认他当时不在现场。
+    - 记忆：先把事实稳稳地立住，才能算establish。
+4. **independence**
+    - 含义与用法：名词，表示“独立、自主”；形容词是independent，常用搭配是gain independence和financial independence。
+    - 例句：She values her independence. 她很看重自己的独立自主。
+    - 记忆：depend是“依赖”，前面加in-表示“不依赖”。
+5. **away**
+    - 含义与用法：常作副词，表示“离开、不在、在远处”。常见搭配有be away、go away和away from。
+    - 例句：He is away on business this week. 他这周出差，不在这里。
+    - 记忆：a + way，可以联想成已经走到另一条路上，所以“不在这里”。
+6. **hit on sb**
+    - 含义与用法：表示“向某人搭讪、调情”，通常带有暧昧或追求意味。hit on an idea则是“偶然想到一个主意”，意思不同。
+    - 例句：Was that guy hitting on you? 刚才那个人是在跟你搭讪吗？
+    - 记忆：注意力“击中”某个人，开始主动接近对方。
+7. **buzz**
+    - 含义与用法：可表示蜂鸣声，也可指按门禁让人进入。buzz sb in表示“按门禁让某人进来”。
+    - 例句：Buzz me in when I get downstairs. 我到楼下时，你按门禁让我进去。
+    - 记忆：门禁器发出buzz的一声，门就开了。
+8. **wine**
+    - 含义与用法：表示葡萄酒，常见搭配有red wine、white wine、a glass of wine和a bottle of wine。
+    - 例句：Would you like a glass of red wine? 你想来一杯红葡萄酒吗？
+    - 记忆：wine和vine“葡萄藤”形近，可以一起联想。
+9. **diary**
+    - 含义与用法：表示记录私人生活的“日记”，常说keep a diary。journal也可指日记，但还常表示学习日志、工作记录或期刊。
+    - 例句：I wrote about the trip in my diary. 我在日记里记录了这次旅行。
+    - 记忆：diary偏私人日记，journal偏持续记录和整理。
+10. **catch**
+    - 含义与用法：除“抓住”外，口语中还可表示“听清、听懂”。没听清时常说I didn't catch that。
+    - 例句：Sorry, I didn't catch your name. 抱歉，我没听清你的名字。
+    - 记忆：声音从耳边经过，你要用耳朵把它“抓住”。
+11. **honeymoon**
+    - 含义与用法：表示“蜜月”；go on a honeymoon是“去度蜜月”。也可引申为一段关系或工作的初期甜蜜阶段。
+    - 例句：They went to Italy for their honeymoon. 他们去意大利度蜜月了。
+    - 记忆：honey“甜蜜”加moon“月亮”，联想新婚后的甜蜜时光。
+12. **lizard**
+    - 含义与用法：表示“蜥蜴”，是有鳞片、通常有四条腿的爬行动物。
+    - 例句：A lizard was lying in the sun on the wall. 一只蜥蜴正趴在墙上晒太阳。
+    - 记忆：想象一只蜥蜴在石头上晒太阳的画面。
+13. **attach**
+    - 含义与用法：表示“把……固定或附在……上”，常用结构是attach A to B；邮件附件是attachment。
+    - 例句：I've attached the file to the email. 我已经把文件附在邮件里了。
+    - 记忆：attach像是用一个小夹子把A接到B上。
+14. **worm**
+    - 含义与用法：表示“蠕虫、虫子”。常见谚语The early bird catches the worm表示“早起的鸟儿有虫吃”。
+    - 例句：The bird pulled a worm out of the ground. 鸟从地里叼出了一条虫子。
+    - 记忆：联想一条身体弯曲、慢慢蠕动的小虫。
+15. **whatsoever**
+    - 含义与用法：用于否定词、no、none等后面加强语气，表示“任何、丝毫”，相当于at all，通常不能随意单独使用。
+    - 例句：I have no doubt whatsoever. 我毫无疑问。There was no evidence whatsoever. 完全没有任何证据。
+    - 记忆：把它放在否定内容后面，给“没有”再加一层强调。
+16. **bookcase**
+    - 含义与用法：表示“书架、书柜”；bookshelf通常指一层搁板，也可泛指较简单的书架。
+    - 例句：The dictionaries are on the top shelf of the bookcase. 词典放在书架的最上层。
+    - 记忆：book加case，就是装书的柜子。
+17. **drink out of sth**
+    - 含义与用法：表示“用某个容器喝东西”，强调饮用的容器；也可以说drink from sth。
+    - 例句：Don't drink directly out of the bottle. 不要直接对着瓶子喝。
+    - 记忆：饮料从容器里面out出来，被你喝掉。
+18. **stereo**
+    - 含义与用法：可表示“立体声音响设备”，也可指stereo sound“立体声”。
+    - 例句：He turned up the stereo and started dancing. 他把音响声音调大，然后跳起舞来。
+    - 记忆：想象左右两个声道从不同方向传来声音。
+19. **get screwed / got screwed**
+    - 含义与用法：口语中可表示“被坑、吃亏、陷入糟糕处境”，语气较粗俗，不适合正式场合。screw在其他语境也可能带有性含义。
+    - 例句：We got screwed because we signed the contract without reading it. 我们没看合同就签了，结果被坑了。
+    - 记忆：像螺丝被越拧越紧，自己落入了不利处境。
+
+##### 第七十三天 26/10/26
+
+新单词
+
+<img src="./英语听说/73_1.png" alt="第73天新单词" loading="lazy" />
+
+**词汇补充**
+
+1. **catch on**
+    - 含义与用法：可表示“理解、明白”，也可表示某事“开始流行”。catch on to sth表示逐渐理解某事。
+    - 例句：It took me a while to catch on. 我过了一会儿才明白。The new style quickly caught on. 这种新风格很快流行起来。
+    - 记忆：想法被大脑catch住了，就是明白了；被很多人catch住了，就是流行了。
+2. **dentist**
+    - 含义与用法：表示“牙医”；dentist's可指牙医诊所。与牙齿相关的形容词是dental。
+    - 例句：I have an appointment with the dentist tomorrow. 我明天约了牙医。
+    - 记忆：dent表示“牙”，加-ist表示从事相关工作的人。
+3. **accidentally**
+    - 含义与用法：副词，表示“意外地、无意中”。形容词是accidental，也可用by accident表示“偶然、不小心”。
+    - 例句：I accidentally deleted the wrong file. 我不小心删错了文件。
+    - 记忆：accident“意外”加-ally变成描述动作的副词。
+4. **valuable**
+    - 含义与用法：可表示“值钱的”，也可表示“有用的、宝贵的”。invaluable不是“不值钱”，而是“极其宝贵的”。
+    - 例句：Her advice was extremely valuable. 她的建议非常宝贵。
+    - 记忆：value“价值”加-able，表示“具有价值的”。
+5. **scariest**
+    - 含义与用法：是scary“吓人的”的最高级，变化为scary、scarier、scariest。
+    - 例句：That was the scariest movie I've ever seen. 那是我看过最吓人的电影。
+    - 记忆：辅音字母加y结尾，变比较级和最高级时把y改成i。
+6. **in my case**
+    - 含义与用法：表示“就我的情况而言、以我为例”，用来说明自己的情况可能与别人不同。
+    - 例句：In my case, studying in the morning works best. 就我而言，早上学习效果最好。
+    - 记忆：case是“情况”，my case就是“我的这种情况”。
+7. **flavor**
+    - 含义与用法：表示食物或饮料的“味道、风味”；英式拼写是flavour。taste更强调舌头尝到的味觉，flavor还包含香气和整体风味。
+    - 例句：This soup has a rich tomato flavor. 这汤有浓郁的番茄风味。
+    - 记忆：把flavor记成味觉和香气共同形成的整体感受。
+8. **spoon**
+    - 含义与用法：名词表示“勺子”，也可作动词表示“用勺舀”。常见组合有teaspoon和tablespoon。
+    - 例句：She stirred her coffee with a spoon. 她用勺子搅拌咖啡。
+    - 记忆：想象勺子的圆头形状。
+9. **honestly**
+    - 含义与用法：表示“诚实地、坦率地”。放在句首时常用来引出真实看法，相当于“说实话”。
+    - 例句：Honestly, I don't think this plan will work. 说实话，我觉得这个计划行不通。
+    - 记忆：honest“诚实的”加-ly变成副词。
+10. **horny**
+    - 含义与用法：口语中表示“性欲强的、性兴奋的”，含义直接且不正式，不要用来表达普通的兴奋或开心。
+    - 例句：The character admits that he feels horny. 这个角色承认自己产生了性冲动。
+    - 记忆：这是明显带性意味的口语词，看到时要先判断场合。
+11. **freezer**
+    - 含义与用法：表示“冷冻室、冰柜”；fridge或refrigerator是冷藏食物的“冰箱、冷藏室”。
+    - 例句：Put the ice cream in the freezer. 把冰淇淋放进冷冻室。
+    - 记忆：freeze“冷冻”加-er，表示执行冷冻功能的设备。
+12. **walk out on sb**
+    - 含义与用法：表示突然离开并抛弃伴侣、家人或需要自己负责的人。walk out也可表示为抗议而离场，但加on sb后强调“抛弃某人”。
+    - 例句：He walked out on his family years ago. 多年前他抛弃了家人。
+    - 记忆：从某人的生活中直接walk out，就是把对方留下不管。
+13. **spell**
+    - 含义与用法：作动词表示“拼写”；How do you spell...?用于询问单词怎么拼。spell还可作名词表示一段时间或咒语。
+    - 例句：Could you spell your last name for me? 你能为我拼一下你的姓吗？
+    - 记忆：拼写就是按顺序说出一个词的每个字母。
+14. **noodle**
+    - 含义与用法：单数指一根面条；表示一道面食时通常用复数noodles。
+    - 例句：We had beef noodles for dinner. 我们晚餐吃了牛肉面。
+    - 记忆：碗里通常不只有一根，所以食物名称常见复数noodles。
+15. **more of...**
+    - 含义与用法：表示“更像是、更偏向于”。常见结构是more of a + 名词和more A than B。
+    - 例句：It's more of a hobby than a job. 与其说这是工作，不如说更像一种爱好。
+    - 记忆：某种特征占得more，所以整体更偏向那一类。
+16. **perform**
+    - 含义与用法：可表示“表演、演出”，也可表示“执行任务”或“表现得……”。名词是performance。
+    - 例句：The band will perform tonight. 乐队今晚会演出。She performed well in the interview. 她在面试中表现很好。
+    - 记忆：把准备好的动作完整做出来，就是perform。
+17. **sexually**
+    - 含义与用法：副词，表示“在性方面、带有性意味地”。常见搭配有sexually attracted和sexually transmitted。
+    - 例句：He is not sexually attracted to her. 他对她没有性吸引力。
+    - 记忆：sexual“性的”加-ly，说明动作或关系发生在性方面。
+18. **spit**
+    - 含义与用法：表示“吐口水、把嘴里的东西吐出”，常用spit out；vomit则表示胃里的东西呕吐出来。
+    - 例句：He tasted the spoiled milk and immediately spat it out. 他尝到变质的牛奶后立刻吐了出来。
+    - 记忆：spit只经过嘴，vomit来自胃。
+19. **smash**
+    - 含义与用法：表示“猛击、打碎、撞毁”。smash into sth表示猛撞上某物，a smash hit则表示非常成功的作品。
+    - 例句：The ball smashed the window. 球把窗户砸碎了。
+    - 记忆：想象物体被猛击后发出巨响并碎开。
+20. **lawful**
+    - 含义与用法：表示“合法的、依法的”，强调符合现行法律。legal含义更广，也可表示与法律工作或制度有关。
+    - 例句：The police gave him a lawful order. 警察向他下达了合法命令。
+    - 记忆：law“法律”加-ful，表示“充满法律依据的”。
+21. **get it together**
+    - 含义与用法：表示“振作起来、冷静下来、把事情安排好”，常用于一个人混乱、慌张或状态不佳时。
+    - 例句：You need to get it together before the interview. 面试前你得振作起来，把状态调整好。
+    - 记忆：把散乱的情绪和事情重新收集到together，就是恢复状态。
