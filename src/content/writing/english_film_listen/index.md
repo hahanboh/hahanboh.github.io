@@ -1035,11 +1035,19 @@ draft: false
 
 	联系到表第972，频次168career
 ### 第三阶段
-	老友记练习
+
+<details class="day-note">
+<summary>老友记第一季练习</summary>
+<div class="day-note-body">
+
 <img src="./英语听说/stage3_1.png" alt="第三阶段每集练习形式" loading="lazy" />
 
-	训练流程
+训练流程
+
 <img src="./英语听说/stage3_2.png" alt="第三阶段训练流程" loading="lazy" />
+
+</div>
+</details>
 
 ##### 第七十一天 26/10/23
 	新单词
@@ -1315,3 +1323,5 @@ draft: false
     - 含义与用法：表示“振作起来、冷静下来、把事情安排好”，常用于一个人混乱、慌张或状态不佳时。
     - 例句：You need to get it together before the interview. 面试前你得振作起来，把状态调整好。
     - 记忆：把散乱的情绪和事情重新收集到together，就是恢复状态。
+
+##### 第七十四天 26/10/26
