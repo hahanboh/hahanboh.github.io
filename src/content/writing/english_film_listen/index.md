@@ -14,7 +14,7 @@ locale: zh-cn
 publishedAt: 2026-09-03
 
 # 更新时间：以后修改这篇笔记时，可以同步改这个日期。
-updatedAt: 2026-10-26
+updatedAt: 2026-10-27
 
 # 作者：可以保留柏涵。
 author: "柏涵"
@@ -1324,4 +1324,67 @@ draft: false
     - 例句：You need to get it together before the interview. 面试前你得振作起来，把状态调整好。
     - 记忆：把散乱的情绪和事情重新收集到together，就是恢复状态。
 
-##### 第七十四天 26/10/26
+##### 第七十四天 26/10/27
+
+新词
+
+<img src="./英语听说/74_1.png" alt="第74天新词" loading="lazy" />
+
+Wee one 小孩，production of ...
+
+**词汇补充**
+
+1. **on a roll**
+    - 含义与用法：表示“接连成功、状态正佳、做得很顺”。常用be on a roll，强调好结果一个接一个地出现。
+    - 例句：Our team has won five games in a row. We're really on a roll. 我们队已经连赢五场，状态真的很好。
+    - 记忆：想象球一直向前roll，没有停下来，成功也连续不断。
+2. **input**
+    - 含义与用法：作名词可表示“意见、建议、投入的信息”，也可表示计算机中的“输入”；作动词表示输入数据。常见表达有input from sb和input data into a system。
+    - 例句：Thanks for your input. It helped us improve the plan. 谢谢你的意见，它帮助我们改进了计划。
+    - 记忆：把信息放in系统或讨论中，就是input。
+3. **doubt**
+    - 含义与用法：可作动词或名词，表示“怀疑、不确定”。字母b不发音。常见结构有doubt whether...、have doubts about...和no doubt。
+    - 例句：I doubt whether he will arrive on time. 我怀疑他能否准时到达。
+    - 记忆：看到doubt时记住“心里打问号”，并把不发音的b藏起来。
+4. **catch**
+    - 含义与用法：除“抓住”外，还可表示“赶上交通工具、听清、看一场演出”。catch a show表示“去看或赶上一场演出”，catch up则表示“赶上进度”或“叙旧”。
+    - 例句：Let's catch a movie after dinner. 晚饭后我们去看场电影吧。Sorry, I didn't catch that. 抱歉，我没听清。
+    - 记忆：不论是车、声音还是演出，都可以想成及时把它catch住。
+5. **production**
+    - 含义与用法：可表示“生产、制作”，也可指一部戏剧、电影等“制作出来的作品”。a production of Hamlet表示“一部《哈姆雷特》的演出”。
+    - 例句：We watched a school production of Hamlet. 我们观看了学校演出的《哈姆雷特》。
+    - 记忆：produce是“生产、制作”，production就是制作过程或制作出的作品。
+6. **live**
+    - 含义与用法：作形容词表示“现场直播的、活的”时读/laɪv/，如a live show；作动词表示“生活、居住”时读/lɪv/。两种读音不要混淆。
+    - 例句：We watched the concert live. 我们观看了演唱会直播。I live near the station. 我住在车站附近。
+    - 记忆：/laɪv/强调眼前正在发生，/lɪv/表示日常生活和居住。
+7. **abuse**
+    - 含义与用法：作名词时读/əˈbjuːs/，表示“虐待、滥用”；作动词时读/əˈbjuːz/。常见搭配有child abuse、abuse of power和abuse sb。
+    - 例句：The law protects children from abuse. 法律保护儿童免受虐待。He abused his power. 他滥用了权力。
+    - 记忆：名词结尾读/s/，动词结尾读/z/，和use的读音变化相似。
+8. **wooden**
+    - 含义与用法：表示“木制的”，由wood加-en构成。也可引申形容表情或表演“僵硬、不自然”。
+    - 例句：She hung her coat on a wooden hanger. 她把外套挂在一个木制衣架上。
+    - 记忆：wood是木材，wooden就是由木材制成的。
+9. **hanger**
+    - 含义与用法：表示“衣架”，来自hang“悬挂”。注意hangar拼写不同，表示停放飞机的“机库”。
+    - 例句：There are several empty hangers in the closet. 衣柜里有几个空衣架。
+    - 记忆：hanger中有hang，因为衣服要挂起来；hangar中的a可以联想aircraft。
+10. **or else**
+    - 含义与用法：表示“否则、要不然”，用于说明不照做会发生的结果；单独说Or else!时可能带有警告或威胁语气。
+    - 例句：Hurry up, or else we'll miss the train. 快点，否则我们会错过火车。
+    - 记忆：现在不做这件事，就会出现else“另一种结果”。
+11. **take credit for sth**
+    - 含义与用法：表示“把某事的功劳归于自己、因某事领功”。如果功劳并不属于自己，常带有负面意味；give sb credit表示“肯定某人的功劳”。
+    - 例句：He took credit for an idea that wasn't his. 他把一个并非自己提出的主意据为己功。
+    - 记忆：把credit“功劳”take到自己手里，就是领功。
+12. **turtle**
+    - 含义与用法：表示“龟”。美式英语中可泛指水龟和陆龟；更严格地区分时，tortoise通常指生活在陆地上的陆龟。
+    - 例句：The turtle pulled its head into its shell. 乌龟把头缩进了壳里。
+    - 记忆：看到turtle就联想它慢慢爬行并把头缩进壳中的样子。
+13. **wee one**
+    - 含义与用法：非正式表达，表示“小孩、小宝宝”。wee意为“小的”，主要见于苏格兰和爱尔兰英语，也常带有亲切语气。
+    - 例句：The wee one is already asleep. 小宝宝已经睡着了。
+    - 记忆：wee听起来短小轻快，可以联想成“小小的”。
+
+##### 第七十五天 26/10/27
