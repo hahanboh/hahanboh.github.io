@@ -1388,3 +1388,66 @@ Wee one 小孩，production of ...
     - 记忆：wee听起来短小轻快，可以联想成“小小的”。
 
 ##### 第七十五天 26/10/27
+
+新词
+
+<img src="./英语听说/75_1.png" alt="第75天新词" loading="lazy" />
+
+**词汇补充**
+
+1. **be laughed out of...**
+    - 含义与用法：表示“因遭到嘲笑而被迫离开某处或放弃某事”。laugh sb out of the room是主动结构，be laughed out of the room是被动结构。
+    - 例句：His proposal was laughed out of the meeting. 他的提案在会上遭到嘲笑而被否决。
+    - 记忆：把嘲笑想成一种把人推出去的力量，out of表示离开。
+2. **on sale**
+    - 含义与用法：美式英语中常指“打折出售”，也可以表示“已开售”；英式英语中尤其常指有售，打折常用in the sale。for sale表示待售，不一定打折。
+    - 例句：These shoes are on sale this week. 这双鞋本周打折。Tickets go on sale tomorrow. 门票明天开售。
+    - 记忆：区分三个意思：有售、开售、特价，结合商品和上下文判断。
+3. **live off**
+    - 含义与用法：表示“靠……生活、以……为食”，后接收入来源、某个人或食物。依赖别人供养时可能带有负面语气。
+    - 例句：He lives off his savings while looking for work. 他找工作期间靠积蓄生活。
+    - 记忆：把off想成从某个来源不断取得生活所需。
+4. **give sb a break**
+    - 含义与用法：表示“让某人歇一歇、别太苛刻、给一次机会”。Give me a break!也可以表示“饶了我吧、少来了”，具体含义取决于语气。
+    - 例句：Give her a break. She's only just started. 别对她太苛刻，她才刚开始。
+    - 记忆：break是暂停，让压力暂时停下来。
+5. **end up**
+    - 含义与用法：是短语动词，表示“最后处于某种状态、最终做了某事”。常用end up doing、end up + 形容词、end up in/at...。
+    - 例句：We ended up staying at home. 我们最后还是待在家里。
+    - 记忆：故事走到结尾end，结果落在哪里，就用end up；后面的动作用-ing。
+6. **crash**
+    - 含义与用法：除“碰撞、电脑崩溃”外，非正式口语中也表示“临时借宿、倒头就睡”。crash at someone's place表示在某人住处借宿。
+    - 例句：Can I crash at your place tonight? 我今晚能在你那里借宿吗？
+    - 记忆：累得像突然关机一样倒下，联想到睡觉；这是随意的口语表达。
+7. **split**
+    - 含义与用法：表示“分开、分摊”，过去式和过去分词仍是split。常见搭配有split the bill、split into groups和split up。
+    - 例句：Let's split the bill. 我们平摊账单吧。
+    - 记忆：一张账单分成几份，就是split；三个时态都不改拼写。
+8. **major**
+    - 含义与用法：作形容词表示“重大的、主要的”，如a major problem，口语中可加强语气，但不能任意替代副词very。major in表示大学主修。
+    - 例句：Moving abroad was a major decision for her. 出国生活对她是一个重大决定。
+    - 记忆：major强调分量或重要性很大，minor则表示较小或次要。
+9. **intense**
+    - 含义与用法：表示“强烈的、紧张的、集中的”，可以形容情绪、疼痛、热度和竞争。intensive更常强调短时间内高强度投入，如intensive training。
+    - 例句：The competition was intense. 竞争非常激烈。
+    - 记忆：把能量挤在一起，感受就会很intense。
+10. **factor**
+    - 含义与用法：名词，表示影响结果的“因素”。常用a factor in sth；take sth into account表示把某事考虑在内，factor sth in也有类似意思。
+    - 例句：Cost is an important factor in our decision. 费用是我们作决定时的重要因素。
+    - 记忆：把决定想成一道题，每个factor都是影响答案的一项。
+11. **serve**
+    - 含义与用法：表示“提供食物、端上、服务”。serve sb sth和serve sth to sb都表示给某人上某种食物；serve as表示担任或充当。
+    - 例句：They serve breakfast until ten. 他们供应早餐到十点。
+    - 记忆：把服务员端上餐盘的动作和serve联系起来，再扩展到提供服务。
+12. **severe**
+    - 含义与用法：表示“严重的、严厉的、恶劣的”，常修饰疼痛、伤害、天气和处罚。与major相比，更强调程度严重或后果糟糕。
+    - 例句：The storm caused severe damage. 暴风雨造成了严重破坏。
+    - 记忆：major强调重大，severe强调严重；记severe pain和severe damage。
+13. **surprisingly**
+    - 含义与用法：副词，表示“出乎意料地”，可修饰形容词或整句话。surprising表示事情令人惊讶，surprised表示人感到惊讶。
+    - 例句：The exam was surprisingly easy. 考试出乎意料地简单。
+    - 记忆：surprise加-ing和-ly，让“令人惊讶”变成描述程度或整件事的副词。
+14. **upbeat**
+    - 含义与用法：表示“乐观的、欢快的”，可形容人、态度和音乐。常说remain upbeat或be upbeat about sth。
+    - 例句：She remained upbeat about the future. 她依然对未来持乐观态度。
+    - 记忆：把up联想成情绪向上，beat联想成轻快的节拍。
