@@ -3,7 +3,7 @@ title: "TOEFL 词汇笔记：词根、前缀与后缀"
 description: "整理词汇记忆方法、音变现象，以及常见前缀和后缀的含义与例词。"
 locale: zh-cn
 publishedAt: 2026-10-25
-updatedAt: 2026-10-26
+updatedAt: 2026-10-27
 author: "柏涵"
 tags: ["英语", "学习笔记", "TOEFL", "词根词缀"]
 column: "英语学习"
@@ -96,15 +96,15 @@ redeem（赎回；兑换；弥补） redemption（赎回；兑换；救赎） em
 <span style="color: var(--color-yellow)">次一级：</span><span style="background-color: rgba(0, 230, 118, 0.25);">sub</span>committee n. 小组委员会 ｜ <span style="color: var(--color-yellow)">略低于：</span><span style="background-color: rgba(0, 230, 118, 0.25);">sub</span>standard adj. 低于标准的  
 <span style="color: var(--color-yellow)">在下面：</span><span style="background-color: rgba(0, 230, 118, 0.25);">sub</span>way n.（地铁） ｜ <span style="background-color: rgba(0, 230, 118, 0.25);">sub</span>urb n.郊区 ｜ <span style="color: var(--color-yellow)">在下面：</span><span style="background-color: rgba(0, 230, 118, 0.25);">sub</span>marine n.潜水艇  
 <span style="color: var(--color-yellow)">接近、略低于：</span><span style="background-color: rgba(0, 230, 118, 0.25);">sub</span>trop<span style="background-color: rgba(0, 176, 255, 0.25);">ical</span> adj.亚热带  
-##### sub- → suc-/suf-
-<span style="color: var(--color-red)">sub-</span><span style="color: var(--color-red)">suc-/suf- </span>（sub-的同化变体，具体含义结合整词理解）  
-<span style="background-color: rgba(0, 230, 118, 0.25);">suc</span>ceed v.继续，继承，成功 ｜ <span style="background-color: rgba(0, 230, 118, 0.25);">suc</span>cess<span style="background-color: rgba(0, 176, 255, 0.25);">ive</span>  adj.（连续的；接连的） ｜ <span style="background-color: rgba(0, 230, 118, 0.25);">suc</span>cess<span style="background-color: rgba(0, 176, 255, 0.25);">or</span> n.（继任者；接替者）  
-<span style="background-color: rgba(0, 230, 118, 0.25);">suf</span>fer v.遭受，变差  
-词源联想：以下词的含义已经引申，不把suc-/suf-逐字译成“下面”。  
-##### sub- → sus-
-<span style="color: var(--color-red)">sub-</span><span style="color: var(--color-red)">sus-</span>（sub-在部分词中的变体，可联系“从下方支撑”理解）  
-<span style="background-color: rgba(0, 230, 118, 0.25);">sus</span>tain v.维持，使...持续，支撑 ｜ <span style="background-color: rgba(0, 230, 118, 0.25);">sus</span>tain<span style="background-color: rgba(0, 176, 255, 0.25);">able</span> adj.可持续的  
-支撑联想：sustain可联系“从下方托住”理解，sustainable是其派生词。  
+**sub- → suc-/suf-**
+<span style="color: var(--color-red)">sub-</span><span style="color: var(--color-red)">suc-/suf- </span>（sub-的同化形式：c前变suc-，f前变suf-；基本义为“在下面、从下方”，部分词中表示“随后”）  
+<span style="color: var(--color-yellow)">随后、接着：</span><span style="background-color: rgba(0, 230, 118, 0.25);">suc</span>ceed v.继续，继承，成功 ｜ <span style="background-color: rgba(0, 230, 118, 0.25);">suc</span>cess<span style="background-color: rgba(0, 176, 255, 0.25);">ive</span>  adj.（连续的；接连的） ｜ <span style="background-color: rgba(0, 230, 118, 0.25);">suc</span>cess<span style="background-color: rgba(0, 176, 255, 0.25);">or</span> n.（继任者；接替者）  
+<span style="color: var(--color-yellow)">在下面：</span><span style="background-color: rgba(0, 230, 118, 0.25);">suf</span>fer v.遭受，变差  
+构成：[succeed](https://www.etymonline.com/word/succeed)：suc-（随后）+ ceed（走）→ 接着走 → 继承；[suffer](https://www.etymonline.com/word/suffer)：suf-（在下）+ fer（承担）→ 承受 → 遭受。  
+**sub- → sus-**
+<span style="color: var(--color-red)">sub-</span><span style="color: var(--color-red)">sus-</span>（sub-的变体，表示“在下面、从下方向上”）  
+<span style="color: var(--color-yellow)">从下方支撑：</span><span style="background-color: rgba(0, 230, 118, 0.25);">sus</span>tain v.维持，使...持续，支撑 ｜ <span style="background-color: rgba(0, 230, 118, 0.25);">sus</span>tain<span style="background-color: rgba(0, 176, 255, 0.25);">able</span> adj.可持续的  
+构成：[sustain](https://www.etymonline.com/word/sustain)：sus-（从下方）+ tain（握住、保持）→ 托住 → 支撑、维持。  
 ##### under-
 <span style="color: var(--color-red)">under- </span>（在……下面；不足；低于）  
 <span style="color: var(--color-yellow)">不足：</span><span style="background-color: rgba(0, 230, 118, 0.25);">under</span>estim<span style="background-color: rgba(0, 176, 255, 0.25);">ate</span> v. 低估 ｜ <span style="color: var(--color-yellow)">低于：</span><span style="background-color: rgba(0, 230, 118, 0.25);">under</span>age adj. 未到法定年龄的  
@@ -147,7 +147,7 @@ redeem（赎回；兑换；弥补） redemption（赎回；兑换；救赎） em
 ##### pro- <span id="note-prefix-pro"></span>
 <span style="color: var(--color-red)">pro-</span>（向前；支持、赞成；某些词中表示代替）  
 <span style="color: var(--color-yellow)">支持、赞成：</span><span style="background-color: rgba(0, 230, 118, 0.25);">pro-</span>democracy adj. 支持民主的 ｜ <span style="color: var(--color-yellow)">代替：</span><span style="background-color: rgba(0, 230, 118, 0.25);">pro</span>consul n. （古罗马）代行执政官职权的行省总督  
-<span style="color: var(--color-yellow)">向前：</span><span style="background-color: rgba(0, 230, 118, 0.25);">pro</span>long v. 延长，拉长 ｜ <span style="color: var(--color-yellow)">向前：</span><span style="background-color: rgba(0, 230, 118, 0.25);">pro</span>mote v.促进，促销，晋升 ｜ <span style="background-color: rgba(0, 230, 118, 0.25);">pro</span>lifer<span style="background-color: rgba(0, 176, 255, 0.25);">ate</span> v.激增，扩散  
+<span style="color: var(--color-yellow)">向前：</span><span style="background-color: rgba(0, 230, 118, 0.25);">pro</span>long v. 延长，拉长 ｜ <span style="color: var(--color-yellow)">向前：</span><span style="background-color: rgba(0, 230, 118, 0.25);">pro</span>mote v.促进，促销，晋升 ｜ <span style="background-color: rgba(0, 230, 118, 0.25);">pro</span>lifer<span style="background-color: rgba(0, 176, 255, 0.25);">ate</span> v.激增，扩散 
 <span style="color: var(--color-yellow)">向前：</span><span style="background-color: rgba(0, 230, 118, 0.25);">pro</span>min<span style="background-color: rgba(0, 176, 255, 0.25);">ent</span> min=突起 突出的，显著的，著名的 ｜ <span style="background-color: rgba(0, 230, 118, 0.25);">e</span>min<span style="background-color: rgba(0, 176, 255, 0.25);">ent</span> adj.（杰出的；著名的） being  
 fam<span style="background-color: rgba(0, 176, 255, 0.25);">ous</span>（著名的）,important, and <span style="background-color: rgba(0, 230, 118, 0.25);">re</span>spect<span style="background-color: rgba(0, 176, 255, 0.25);">ed</span>  
 ##### fore-
@@ -188,25 +188,22 @@ immediate<span style="background-color: rgba(0, 176, 255, 0.25);">ly</span> adv.
 <span style="color: var(--color-red)">un-</span>（不、非；也可表示取消或逆转某动作，如untie（解开））  
 <span style="color: var(--color-yellow)">取消、逆转动作：</span><span style="background-color: rgba(0, 230, 118, 0.25);">un</span>tie v. 解开  
 <span style="color: var(--color-yellow)">不、非：</span><span style="background-color: rgba(0, 230, 118, 0.25);">un</span>fair（不公平的） ｜ <span style="color: var(--color-yellow)">不、非：</span><span style="background-color: rgba(0, 230, 118, 0.25);">un</span>comfort<span style="background-color: rgba(0, 176, 255, 0.25);">able</span>（不舒服的；不自在的）  
-##### dis- <span id="note-prefix-dis"></span>
-<span style="color: var(--color-red)">dis-</span>（不、相反；分开；去除、取消）  
-<span style="color: var(--color-yellow)">分开：</span><span style="background-color: rgba(0, 230, 118, 0.25);">dis</span>perse v. 分散 ｜ <span style="color: var(--color-yellow)">取消：</span><span style="background-color: rgba(0, 230, 118, 0.25);">dis</span>connect v. 断开连接  
-<span style="color: var(--color-yellow)">不、非：</span><span style="background-color: rgba(0, 230, 118, 0.25);">dis</span>appear（消失） ｜ <span style="color: var(--color-yellow)">去除：</span><span style="background-color: rgba(0, 230, 118, 0.25);">dis</span>close（披露；揭露） ｜ <span style="color: var(--color-yellow)">不、非：</span><span style="background-color: rgba(0, 230, 118, 0.25);">dis</span>advant<span style="background-color: rgba(0, 176, 255, 0.25);">age</span>（不利条件；劣势）  
-##### non-
-<span style="color: var(--color-red)">non-</span>（非、不；表示不属于某类）  
-<span style="color: var(--color-yellow)">不、非：</span><span style="background-color: rgba(0, 230, 118, 0.25);">non</span>verb<span style="background-color: rgba(0, 176, 255, 0.25);">al</span> adj. 非言语的  
 ##### in-/im-/il-/ir-
 <span style="color: var(--color-red)">in-/im-/il-/ir-</span>（不、非；同一个否定前缀的不同形式，与表示“向内”的in-区分）  
 <span style="color: var(--color-yellow)">不、非：</span><span style="background-color: rgba(0, 230, 118, 0.25);">in</span>accurate adj. 不准确的； ｜ <span style="color: var(--color-yellow)">不、非：</span><span style="background-color: rgba(0, 230, 118, 0.25);">im</span>poss<span style="background-color: rgba(0, 176, 255, 0.25);">ible</span> adj. 不可能的； ｜ <span style="color: var(--color-yellow)">不、非：</span><span style="background-color: rgba(0, 230, 118, 0.25);">il</span>leg<span style="background-color: rgba(0, 176, 255, 0.25);">al</span> adj. 非法的；  
 <span style="color: var(--color-yellow)">不、非：</span><span style="background-color: rgba(0, 230, 118, 0.25);">ir</span>regular adj. 不规则的  
 同化提示：否定前缀in-在l前常变为il-，在r前常变为ir-，在b、p、m前常变为im-。  
+##### non-
+<span style="color: var(--color-red)">non-</span>（非、不；表示不属于某类）  
+<span style="color: var(--color-yellow)">不、非：</span><span style="background-color: rgba(0, 230, 118, 0.25);">non</span>verb<span style="background-color: rgba(0, 176, 255, 0.25);">al</span> adj. 非言语的  
+##### dis- <span id="note-prefix-dis"></span>
+<span style="color: var(--color-red)">dis-</span>（不、相反；分开；去除、取消）  
+<span style="color: var(--color-yellow)">分开：</span><span style="background-color: rgba(0, 230, 118, 0.25);">dis</span>perse v. 分散 ｜ <span style="color: var(--color-yellow)">取消：</span><span style="background-color: rgba(0, 230, 118, 0.25);">dis</span>connect v. 断开连接  
+<span style="color: var(--color-yellow)">不、非：</span><span style="background-color: rgba(0, 230, 118, 0.25);">dis</span>appear（消失） ｜ <span style="color: var(--color-yellow)">去除：</span><span style="background-color: rgba(0, 230, 118, 0.25);">dis</span>close（披露；揭露） ｜ <span style="color: var(--color-yellow)">不、非：</span><span style="background-color: rgba(0, 230, 118, 0.25);">dis</span>advant<span style="background-color: rgba(0, 176, 255, 0.25);">age</span>（不利条件；劣势）  
 ##### mis-
 <span style="color: var(--color-red)">mis-</span>（错误地、不当地）  
 <span style="color: var(--color-yellow)">错误、不当：</span><span style="background-color: rgba(0, 230, 118, 0.25);">mis</span>understand v. 误解； ｜ <span style="color: var(--color-yellow)">错误、不当：</span><span style="background-color: rgba(0, 230, 118, 0.25);">mis</span>lead<span style="background-color: rgba(0, 176, 255, 0.25);">ing</span> adj. 误导的  
 #### 共同系列
-##### co- <span id="note-prefix-co"></span>
-<span style="color: var(--color-red)">co-</span>（共同、一起）  
-<span style="color: var(--color-yellow)">共同、一起：</span><span style="background-color: rgba(0, 230, 118, 0.25);">co</span>exist v. 共存； ｜ <span style="color: var(--color-yellow)">共同、一起：</span><span style="background-color: rgba(0, 230, 118, 0.25);">co</span>author n. 合著者  
 ##### con- <span id="note-prefix-con"></span>
 <span style="color: var(--color-red)">con-</span>（共同、一起；部分词中起加强作用）  
 <span style="color: var(--color-yellow)">加强：</span><span style="background-color: rgba(0, 230, 118, 0.25);">con</span>firm v. 确认；证实（词源可联系“使牢固”理解）  
@@ -222,6 +219,9 @@ immediate<span style="background-color: rgba(0, 176, 255, 0.25);">ly</span> adv.
 <span style="color: var(--color-red)">cor-</span>（con-在r前的同化变体，常表示共同、一起）  
 <span style="color: var(--color-yellow)">加强：</span><span style="background-color: rgba(0, 230, 118, 0.25);">cor</span>robor<span style="background-color: rgba(0, 176, 255, 0.25);">ate</span> v.证实  
 说明：corroborate中的cor-主要起加强作用，不宜硬译为“共同”。  
+##### co- <span id="note-prefix-co"></span>
+<span style="color: var(--color-red)">co-</span>（共同、一起）  
+<span style="color: var(--color-yellow)">共同、一起：</span><span style="background-color: rgba(0, 230, 118, 0.25);">co</span>exist v. 共存； ｜ <span style="color: var(--color-yellow)">共同、一起：</span><span style="background-color: rgba(0, 230, 118, 0.25);">co</span>author n. 合著者  
 #### 反对与对抗系列
 ##### anti-
 <span style="color: var(--color-red)">anti-</span>（反对；抵抗）  
@@ -262,23 +262,23 @@ immediate<span style="background-color: rgba(0, 176, 255, 0.25);">ly</span> adv.
 表人与物 
 <span style="color: var(--color-red)">-er/-or/-ar</span>（<span style="color: var(--color-yellow)">名词后缀：常表示从事某活动的人或具有某作用的物；并非所有以这些字母结尾的词都能这样拆分</span>） sing<span style="background-color: rgba(0, 176, 255, 0.25);">er</span>（歌手） ｜ cook<span style="background-color: rgba(0, 176, 255, 0.25);">er</span>（炊具；炉灶） ｜ act<span style="background-color: rgba(0, 176, 255, 0.25);">or</span>（演员） ｜ rul<span style="background-color: rgba(0, 176, 255, 0.25);">er</span>（尺子；统治者） ｜ schol<span style="background-color: rgba(0, 176, 255, 0.25);">ar</span>（学者） ｜ <span style="background-color: rgba(0, 230, 118, 0.25);">con</span>sum<span style="background-color: rgba(0, 176, 255, 0.25);">er</span>（消费者） ｜ radar（雷达） ｜ <span style="background-color: rgba(0, 230, 118, 0.25);">e</span>levat<span style="background-color: rgba(0, 176, 255, 0.25);">or</span>  
 元音音变 ride（骑；乘坐）-road（道路）-raid（突袭；搜查）  
+<span style="color: var(--color-red)">-ee</span>（<span style="color: var(--color-yellow)">常表示动作的承受者，也可表示处于某种状态的人</span>） <span style="background-color: rgba(0, 230, 118, 0.25);">em</span>ploy<span style="background-color: rgba(0, 176, 255, 0.25);">ee</span> n. 雇员； ｜ train<span style="background-color: rgba(0, 176, 255, 0.25);">ee</span> n. 受训者  
 <span style="color: var(--color-red)">-an/-ian</span>（<span style="color: var(--color-yellow)">名词或形容词后缀：表示某地的人、某领域的人，或“与……有关的”</span>） americ<span style="background-color: rgba(0, 176, 255, 0.25);">an</span>（美国人；美国的）  
 <span style="color: var(--color-red)">-ist</span>（<span style="color: var(--color-yellow)">名词后缀：表示从业者、专家、某种活动的参与者或某种主张的支持者</span>） dent<span style="background-color: rgba(0, 176, 255, 0.25);">ist</span>（牙医） ｜ tour<span style="background-color: rgba(0, 176, 255, 0.25);">ist</span>（游客）  
 <span style="color: var(--color-red)">-ant</span>（<span style="color: var(--color-yellow)">名词后缀：表示执行某动作的人或事物</span>） <span style="background-color: rgba(0, 230, 118, 0.25);">as</span>sist<span style="background-color: rgba(0, 176, 255, 0.25);">ant</span>（助手；助理） ｜ serv<span style="background-color: rgba(0, 176, 255, 0.25);">ant</span>（仆人） ｜ <span style="background-color: rgba(0, 230, 118, 0.25);">ap</span>plic<span style="background-color: rgba(0, 176, 255, 0.25);">ant</span>  
 表性质状态与行为  
 <span style="color: var(--color-red)">-ance/-ancy/-ency/-ence/-cy</span>（<span style="color: var(--color-yellow)">名词后缀：常表示行为、性质、状态或程度</span>） <span style="background-color: rgba(0, 230, 118, 0.25);">ap</span>pear<span style="background-color: rgba(0, 176, 255, 0.25);">ance</span>（外貌；出现） ｜ <span style="background-color: rgba(0, 230, 118, 0.25);">e</span>merg<span style="background-color: rgba(0, 176, 255, 0.25);">ency</span>（紧急情况） ｜ <span style="background-color: rgba(0, 230, 118, 0.25);">e</span>merg<span style="background-color: rgba(0, 176, 255, 0.25);">ence</span>（出现；兴起） ｜ priv<span style="background-color: rgba(0, 176, 255, 0.25);">acy</span>（隐私）  
 <span style="color: var(--color-red)">-ity/-ty</span>（<span style="color: var(--color-yellow)">名词后缀：表示性质、状态</span>） abil<span style="background-color: rgba(0, 176, 255, 0.25);">ity</span>（能力） ｜ safe<span style="background-color: rgba(0, 176, 255, 0.25);">ty</span>（安全） ｜ secur<span style="background-color: rgba(0, 176, 255, 0.25);">ity</span>（安全；保障） ｜ certain<span style="background-color: rgba(0, 176, 255, 0.25);">ty</span> n. 确定性  
+<span style="color: var(--color-red)">-ness</span>（<span style="color: var(--color-yellow)">表示性质、状态</span>） aware<span style="background-color: rgba(0, 176, 255, 0.25);">ness</span> n. 意识； ｜ weak<span style="background-color: rgba(0, 176, 255, 0.25);">ness</span> n. 弱点  
 <span style="color: var(--color-red)">-ment</span>（<span style="color: var(--color-yellow)">名词后缀：表示行为、过程、结果或状态</span>） <span style="background-color: rgba(0, 230, 118, 0.25);">de</span>velop<span style="background-color: rgba(0, 176, 255, 0.25);">ment</span>（发展；开发）  
 <span style="color: var(--color-red)">-ion</span>（<span style="color: var(--color-yellow)">名词后缀：表示行为、过程、状态或结果，常见形式包括-tion、-sion</span>） act<span style="background-color: rgba(0, 176, 255, 0.25);">ion</span>（行动；行为） ｜ <span style="background-color: rgba(0, 230, 118, 0.25);">com</span>munic<span style="background-color: rgba(0, 176, 255, 0.25);">ation</span>（交流；沟通） ｜ <span style="background-color: rgba(0, 230, 118, 0.25);">de</span>script<span style="background-color: rgba(0, 176, 255, 0.25);">ion</span>（描述；说明）  
 <span style="color: var(--color-red)">-ure</span>（<span style="color: var(--color-yellow)">名词后缀：表示行为、结果或状态</span>） capt<span style="background-color: rgba(0, 176, 255, 0.25);">ure</span> n. 捕获 ｜ fail<span style="background-color: rgba(0, 176, 255, 0.25);">ure</span> n. 失败  
 <span style="color: var(--color-red)">-age</span>（<span style="color: var(--color-yellow)">名词后缀：可表示行为、状态、集合或费用，具体含义随单词变化</span>） marri<span style="background-color: rgba(0, 176, 255, 0.25);">age</span>（婚姻） ｜ short<span style="background-color: rgba(0, 176, 255, 0.25);">age</span>（短缺） ｜ pack<span style="background-color: rgba(0, 176, 255, 0.25);">age</span>（包裹；包装）  
 <span style="color: var(--color-red)">-ship</span>（<span style="color: var(--color-yellow)">名词后缀：表示身份、地位、关系、性质或技能</span>） friend<span style="background-color: rgba(0, 176, 255, 0.25);">ship</span>（友谊） ｜ relation<span style="background-color: rgba(0, 176, 255, 0.25);">ship</span>（关系）  
+<span style="color: var(--color-red)">-hood</span>（<span style="color: var(--color-yellow)">表示时期、身份或群体</span>） child<span style="background-color: rgba(0, 176, 255, 0.25);">hood</span> n. 童年； ｜ neighbor<span style="background-color: rgba(0, 176, 255, 0.25);">hood</span> n. 街区  
+<span style="color: var(--color-red)">-ism</span>（<span style="color: var(--color-yellow)">表示思想、制度或某种现象</span>） capital<span style="background-color: rgba(0, 176, 255, 0.25);">ism</span> n. 资本主义； ｜ tour<span style="background-color: rgba(0, 176, 255, 0.25);">ism</span> n. 旅游业  
 <span style="color: var(--color-red)">-ary/-ery/-ory</span>（<span style="color: var(--color-yellow)">名词中可表示场所、相关事物或集合；-ary、-ory也可构成形容词，表示“与……有关的”</span>） fact<span style="background-color: rgba(0, 176, 255, 0.25);">ory</span>（工厂） ｜ diction<span style="background-color: rgba(0, 176, 255, 0.25);">ary</span>（词典） ｜ bak<span style="background-color: rgba(0, 176, 255, 0.25);">ery</span>（面包店）  
 <span style="color: var(--color-red)">-um/-ium</span>（<span style="color: var(--color-yellow)">拉丁语来源词中常见的名词词尾；-ium也常用于化学元素名称，不宜统一解释为某一种具体事物</span>） muse<span style="background-color: rgba(0, 176, 255, 0.25);">um</span>（博物馆） ｜ auditor<span style="background-color: rgba(0, 176, 255, 0.25);">ium</span>（礼堂；观众厅） ｜ millenn<span style="background-color: rgba(0, 176, 255, 0.25);">ium</span>（一千年；千禧年） ｜ alumin<span style="background-color: rgba(0, 176, 255, 0.25);">um</span>（铝）  
-<span style="color: var(--color-red)">-ness</span>（<span style="color: var(--color-yellow)">表示性质、状态</span>） aware<span style="background-color: rgba(0, 176, 255, 0.25);">ness</span> n. 意识； ｜ weak<span style="background-color: rgba(0, 176, 255, 0.25);">ness</span> n. 弱点  
-<span style="color: var(--color-red)">-ism</span>（<span style="color: var(--color-yellow)">表示思想、制度或某种现象</span>） capital<span style="background-color: rgba(0, 176, 255, 0.25);">ism</span> n. 资本主义； ｜ tour<span style="background-color: rgba(0, 176, 255, 0.25);">ism</span> n. 旅游业  
-<span style="color: var(--color-red)">-hood</span>（<span style="color: var(--color-yellow)">表示时期、身份或群体</span>） child<span style="background-color: rgba(0, 176, 255, 0.25);">hood</span> n. 童年； ｜ neighbor<span style="background-color: rgba(0, 176, 255, 0.25);">hood</span> n. 街区  
-<span style="color: var(--color-red)">-ee</span>（<span style="color: var(--color-yellow)">常表示动作的承受者，也可表示处于某种状态的人</span>） <span style="background-color: rgba(0, 230, 118, 0.25);">em</span>ploy<span style="background-color: rgba(0, 176, 255, 0.25);">ee</span> n. 雇员； ｜ train<span style="background-color: rgba(0, 176, 255, 0.25);">ee</span> n. 受训者  
 **形容词后缀**  
 <span style="color: var(--color-red)">-able/-ible</span>（<span style="color: var(--color-yellow)">形容词后缀：可……的；能够被……的；有时表示具有某种性质</span>） reason<span style="background-color: rgba(0, 176, 255, 0.25);">able</span>（合理的） ｜ <span style="background-color: rgba(0, 230, 118, 0.25);">ac</span>cept<span style="background-color: rgba(0, 176, 255, 0.25);">able</span>（可接受的） ｜ <span style="background-color: rgba(0, 230, 118, 0.25);">in</span>cred<span style="background-color: rgba(0, 176, 255, 0.25);">ible</span>（难以置信的） ｜ quantifi<span style="background-color: rgba(0, 176, 255, 0.25);">able</span>（可量化的）  
 <span style="color: var(--color-red)">-ive</span>（<span style="color: var(--color-yellow)">形容词后缀：具有……性质、倾向或作用的</span>） creat<span style="background-color: rgba(0, 176, 255, 0.25);">ive</span>（有创造力的） ｜ <span style="background-color: rgba(0, 230, 118, 0.25);">im</span>press<span style="background-color: rgba(0, 176, 255, 0.25);">ive</span>（令人印象深刻的） ｜ mass<span style="background-color: rgba(0, 176, 255, 0.25);">ive</span>（巨大的；大量的）  
