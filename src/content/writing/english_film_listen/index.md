@@ -14,7 +14,7 @@ locale: zh-cn
 publishedAt: 2026-09-03
 
 # 更新时间：以后修改这篇笔记时，可以同步改这个日期。
-updatedAt: 2026-10-27
+updatedAt: 2026-10-31
 
 # 作者：可以保留柏涵。
 author: "柏涵"
@@ -1451,3 +1451,209 @@ Wee one 小孩，production of ...
     - 含义与用法：表示“乐观的、欢快的”，可形容人、态度和音乐。常说remain upbeat或be upbeat about sth。
     - 例句：She remained upbeat about the future. 她依然对未来持乐观态度。
     - 记忆：把up联想成情绪向上，beat联想成轻快的节拍。
+
+##### 第七十六天 改方式 26/10/30
+
+
+学习方式
+
+
+<img src="./英语听说/76_1.png" alt="第76天笔记图片1" loading="lazy" />
+
+
+流程
+
+
+<img src="./英语听说/76_2.png" alt="第76天笔记图片2" loading="lazy" />
+
+
+单词
+
+
+<img src="./英语听说/76_3.png" alt="第76天笔记图片3" loading="lazy" />
+
+
+**词汇补充**
+
+1. **virginity / virgin**
+    - 含义与用法：virginity指“尚无性经历的状态”，常见搭配lose one's virginity。virgin可指没有性经历的人，也可作形容词表示未经使用或处理的；不要把virginity直接当作所有场合的“第一次”。
+    - 例句：The novel explores the pressure surrounding virginity. 这部小说探讨了围绕性经历的社会压力。
+    - 记忆：virgin表示人或特征，-ity把它变成表示状态的名词。
+2. **rage**
+    - 含义与用法：名词表示“暴怒、盛怒”，程度比一般的anger更强；作动词表示怒斥或猛烈持续。常见fly into a rage“勃然大怒”和rage at/against...。
+    - 例句：He flew into a rage when he heard the news. 听到消息后，他勃然大怒。
+    - 记忆：把anger想成生气，把rage想成怒火爆发；常见搭配in a rage。
+3. **stew**
+    - 含义与用法：名词表示“炖菜、炖肉”，如beef stew；动词表示小火慢炖。stew over/about sth还可表示反复烦恼、闷闷不乐。
+    - 例句：We had beef stew for dinner. 我们晚餐吃了炖牛肉。Don't stew over that mistake. 别一直为那个错误烦恼。
+    - 记忆：锅里的菜慢慢炖，心里的烦恼反复煎熬，两种画面一起记。
+4. **entertainment**
+    - 含义与用法：通常是不可数名词，表示“娱乐、娱乐活动或表演”，如live entertainment和the entertainment industry。entertain是动词，entertaining表示有趣、令人愉快的。
+    - 例句：The hotel offers live entertainment every evening. 酒店每天晚上都有现场文娱表演。
+    - 记忆：entertain表示使人愉快，加-ment形成名词；说some entertainment。
+5. **skirt**
+    - 含义与用法：名词表示“裙子”，可以是短裙也可以是长裙，如a short skirt和a long skirt；dress通常指连衣裙。作动词时还可表示绕过或回避。
+    - 例句：She wore a long skirt and a white shirt. 她穿着长裙和白衬衫。
+    - 记忆：skirt是单独的下装，dress通常把上身和裙身连在一起；skirt本身不限定长度。
+6. **geologist / geology**
+    - 含义与用法：geologist表示“地质学家”，geology是“地质学”。注意区分研究领域和从事研究的人。
+    - 例句：The geologist studies rocks and how they formed. 这位地质学家研究岩石及其形成过程。
+    - 记忆：geo-与地球有关，-logy表示学科，-logist表示研究这门学科的人。
+7. **eavesdrop**
+    - 含义与用法：表示“偷听”，强调有意听别人不打算让自己听到的谈话。常用eavesdrop on a conversation；过去式eavesdropped，现在分词eavesdropping，都双写p。overhear通常侧重无意中听到。
+    - 例句：I didn't mean to eavesdrop on your conversation. 我不是有意偷听你们谈话的。
+    - 记忆：先记eavesdrop on；想象站在门外悄悄听，再与偶然听见overhear作对比。
+8. **naive**
+    - 含义与用法：表示“天真的、缺乏经验而轻信的”，往往带有批评意味，不完全等于可爱的或纯真的。常见be naive about sth和It is naive to think...。
+    - 例句：It was naive of me to trust him so quickly. 我这么快就相信他，实在太天真了。
+    - 记忆：把naive和缺少经验联系起来；重音在后面的音节，不要按英语常见字母组合硬读。
+9. **cocky**
+    - 含义与用法：非正式形容词，表示“自大、过分自信的”，带贬义。Don't get cocky表示“别得意忘形”；confident通常是中性或褒义。
+    - 例句：He got cocky after winning one game. 他赢了一场比赛就得意起来了。
+    - 记忆：想象一只昂首挺胸、十分得意的公鸡，把画面与cocky联系起来。
+10. **slut**
+    - 含义与用法：带有强烈侮辱和性羞辱意味的词，通常用于贬损女性，并不是描述某人性经历的中性词。理解影视人物的语气即可，不建议用来称呼他人。
+    - 例句：The character uses the word 'slut' as an insult. 角色用slut这个词辱骂别人。
+    - 记忆：把它记成需要识别语气的冒犯性台词；不要将词典释义当作可以直接称呼人的表达。
+11. **fortunately**
+    - 含义与用法：副词，表示“幸运的是、幸好”，常放在句首评论整件事情。fortunate是形容词，unfortunately表示“不幸的是”。
+    - 例句：Fortunately, we caught the last train. 幸好，我们赶上了末班火车。
+    - 记忆：fortune有运气、财富的意思；fortunate是幸运的，fortunately是幸运地。
+12. **karate**
+    - 含义与用法：表示“空手道”，通常不可数。常说do/practice karate、learn karate或take karate lessons。
+    - 例句：She has been practicing karate for two years. 她练空手道已经两年了。
+    - 记忆：它源于日语“空手”，与柔道judo成对区分；练习时用do或practice。
+13. **sexuality**
+    - 含义与用法：泛指人的性特征、性欲、性表达及性取向等方面，具体含义看语境。question someone's sexuality在图片语境中指怀疑某人的性取向；只想明确说性取向时可用sexual orientation。
+    - 例句：The article discusses sexuality and identity. 文章讨论了性与身份认同。
+    - 记忆：sexual加-ity形成抽象名词；先判断是在谈性欲、性表达还是性取向。
+14. **kangaroo**
+    - 含义与用法：表示“袋鼠”，复数是kangaroos。与Australia一起记，幼崽叫joey，育儿袋叫pouch。
+    - 例句：The kangaroo carried a joey in its pouch. 袋鼠的育儿袋里装着一只幼崽。
+    - 记忆：联想澳大利亚、跳跃和育儿袋三个画面；复数直接加-s。
+15. **stroller / baby stroller**
+    - 含义与用法：美式英语中指“婴儿推车”，英式常用pushchair或buggy。stroll是悠闲散步；stroller在其他语境也可能指散步的人。
+    - 例句：She pushed the stroller through the park. 她推着婴儿车穿过公园。
+    - 记忆：stroll表示散步，推着宝宝散步的车就是baby stroller。
+
+场景
+
+
+<img src="./英语听说/76_4.png" alt="第76天笔记图片4" loading="lazy" />
+
+
+<img src="./英语听说/76_5.png" alt="第76天笔记图片5" loading="lazy" />
+
+
+<img src="./英语听说/76_6.png" alt="第76天笔记图片6" loading="lazy" />
+
+
+<img src="./英语听说/76_7.png" alt="第76天笔记图片7" loading="lazy" />
+
+
+填空
+
+
+<img src="./英语听说/76_8.png" alt="第76天笔记图片8" loading="lazy" class="note-image-wide" />
+
+
+##### 第七十七天  26/10/31
+
+
+训练流程
+
+
+<img src="./英语听说/77_1.png" alt="第77天笔记图片1" loading="lazy" />
+
+
+新单词
+
+
+<img src="./英语听说/77_2.png" alt="第77天笔记图片2" loading="lazy" />
+
+
+**词汇补充**
+
+1. **crow**
+    - 含义与用法：名词表示“乌鸦”，是可数名词；作动词也可指公鸡啼叫或得意地夸耀。as the crow flies表示两地之间的直线距离。
+    - 例句：A crow landed on the fence. 一只乌鸦落在围栏上。
+    - 记忆：把crow与乌鸦的叫声、黑色羽毛联系起来；crow作动词时也要留意语境。
+2. **leaf / leaves**
+    - 含义与用法：leaf表示“一片树叶”，复数是leaves，末尾/f/也变成/v/。turn over a new leaf表示“改过自新、重新开始”。leaves还可能是动词leave的第三人称单数形式。
+    - 例句：The leaves turn yellow in autumn. 树叶在秋天变黄。
+    - 记忆：leaf变复数时把f换成ves；看到leaves，结合句子判断是树叶还是“离开”。
+3. **palm**
+    - 含义与用法：表示“手掌、棕榈树”。字母l通常不发音。the palm of your hand表示手掌，a palm tree表示棕榈树。
+    - 例句：She held the coin in the palm of her hand. 她把硬币握在手掌里。
+    - 记忆：想象展开的手掌像棕榈树叶；读音里把l藏起来。
+4. **gain**
+    - 含义与用法：作动词表示“获得、增加”，如gain experience、gain confidence和gain weight；作名词表示收益或增加。强调逐渐得到经验、自信等时常用gain。
+    - 例句：She gained confidence through practice. 她通过练习逐渐建立了自信。
+    - 记忆：把gain想成一点一点积累起来；经验、自信和体重都能gain。
+5. **rejection**
+    - 含义与用法：名词，表示“拒绝、否决、不录用”等；动词是reject。常见fear of rejection“害怕被拒绝”和a rejection letter“拒绝信”。
+    - 例句：He received a rejection letter but kept applying for jobs. 他收到拒绝信后仍继续找工作。
+    - 记忆：reject是拒绝这个动作，加-ion变成名词；把reject和rejection一起记。
+6. **item**
+    - 含义与用法：可数名词，表示清单中的“一项”、一件物品或一则消息，如an item on the list、an item of clothing。be an item还可在非正式语境中表示两个人在交往。
+    - 例句：There are five items on my shopping list. 我的购物清单上有五项。
+    - 记忆：把清单上的每一行看作一个item，具体是什么要看清单内容。
+7. **poetry / poem**
+    - 含义与用法：poetry泛指“诗歌”这一文学形式或诗歌作品的总称，通常不可数；poem是一首具体的诗，是可数名词。写诗可说write poetry或write a poem。
+    - 例句：She enjoys reading poetry and writes a poem every week. 她喜欢读诗，每周还会写一首诗。
+    - 记忆：poetry是一整类，poem是其中一首；说a poem，不说a poetry。
+8. **floss**
+    - 含义与用法：作名词通常指“牙线”，完整说法是dental floss；作动词表示“用牙线清洁牙缝”。floss your teeth是常见搭配。
+    - 例句：He flosses his teeth before bed. 他睡前用牙线清洁牙缝。
+    - 记忆：把细细的牙线穿过牙缝的画面和floss联系起来；名词与动词同形。
+9. **criminal**
+    - 含义与用法：名词表示“罪犯”，是可数名词；作形容词表示“犯罪的、刑事的”，如criminal law和a criminal record。crime是“罪行、犯罪”。
+    - 例句：The police arrested the criminal. 警察逮捕了那名罪犯。
+    - 记忆：把crime、criminal和criminal law连在一起记：犯罪、罪犯、刑法。
+10. **ought to**
+    - 含义与用法：表示“应该、按理应当”，通常与should意思接近，后接动词原形。否定是ought not to，也可缩写成oughtn't to。ought to have done表示过去本应该做某事，常暗示没有做。
+    - 例句：You ought to tell her the truth. 你应该告诉她真相。
+    - 记忆：把ought to当作整体记，后面接动词原形；to不要漏掉。
+11. **meanwhile**
+    - 含义与用法：副词，表示“与此同时”，用于切换到同时发生的另一件事。in the meanwhile也可表示“在此期间”，但更常见的表达是in the meantime。
+    - 例句：I'll cook dinner. Meanwhile, you can set the table. 我来做晚饭，同时你可以摆好餐具。
+    - 记忆：meanwhile像镜头切换：这边在做一件事，另一边同时发生另一件事。
+12. **warning / warn**
+    - 含义与用法：warning作名词表示“警告、提醒”，如a warning sign；也可以是warn的-ing形式。常见warn sb about/of sth、warn sb not to do sth和without warning。
+    - 例句：They warned us not to swim there. 他们警告我们不要在那里游泳。
+    - 记忆：warn是发出警告，warning可以是收到的一次警告；记住warn someone not to do。
+13. **tenant**
+    - 含义与用法：可数名词，表示租房、租办公室等的“租客、承租人”。landlord表示房东，rent表示租金或租赁；tenancy指租赁关系或租期。
+    - 例句：The tenant pays rent at the beginning of each month. 租客在每月月初交租金。
+    - 记忆：把tenant、landlord、rent放进同一个租房场景：租客给房东付租金。
+14. **chuckle**
+    - 含义与用法：作动词或名词，表示轻轻地笑、低声发笑，通常不是放声大笑。常说chuckle at sth或give a chuckle；giggle更常指咯咯笑，可能带害羞或紧张。
+    - 例句：He chuckled at the joke. 他听到笑话后轻声笑了起来。
+    - 记忆：想象嘴角上扬，喉咙里轻轻笑出声；用音量区分chuckle和大笑。
+15. **frog**
+    - 含义与用法：可数名词，表示“青蛙”。have a frog in your throat是习语，表示嗓音沙哑或喉咙不舒服，说话不清楚。
+    - 例句：Sorry, I have a frog in my throat. 抱歉，我嗓子有点哑。
+    - 记忆：把青蛙的叫声与沙哑的嗓音联系起来，顺便记住这个习语。
+
+场景
+
+
+<img src="./英语听说/77_3.png" alt="第77天笔记图片3" loading="lazy" />
+
+
+<img src="./英语听说/77_4.png" alt="第77天笔记图片4" loading="lazy" />
+
+
+<img src="./英语听说/77_5.png" alt="第77天笔记图片5" loading="lazy" />
+
+
+<img src="./英语听说/77_6.png" alt="第77天笔记图片6" loading="lazy" />
+
+
+<img src="./英语听说/77_7.png" alt="第77天笔记图片7" loading="lazy" />
+
+
+填空
+
+
+<img src="./英语听说/77_8.png" alt="第77天笔记图片8" loading="lazy" class="note-image-wide" />
