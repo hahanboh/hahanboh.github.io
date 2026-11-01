@@ -14,7 +14,7 @@ locale: zh-cn
 publishedAt: 2026-09-03
 
 # 更新时间：以后修改这篇笔记时，可以同步改这个日期。
-updatedAt: 2026-10-31
+updatedAt: 2026-11-01
 
 # 作者：可以保留柏涵。
 author: "柏涵"
@@ -1556,7 +1556,6 @@ Wee one 小孩，production of ...
 
 <img src="./英语听说/76_8.png" alt="第76天笔记图片8" loading="lazy" class="note-image-wide" />
 
-
 ##### 第七十七天  26/10/31
 
 
@@ -1657,3 +1656,108 @@ Wee one 小孩，production of ...
 
 
 <img src="./英语听说/77_8.png" alt="第77天笔记图片8" loading="lazy" class="note-image-wide" />
+
+
+答案
+
+
+<img src="./英语听说/77_9.png" alt="第77天笔记图片9" loading="lazy" class="note-image-wide" />
+
+
+##### 第七十八天  26/11/1
+
+
+新单词
+
+
+<img src="./英语听说/78_1.png" alt="第78天笔记图片1" loading="lazy" />
+
+
+**词汇补充**
+
+1. **doctorate**
+    - 含义与用法：可数名词，表示“博士学位”。常说earn/hold a doctorate in某学科；PhD是博士学位的一种，doctor也可作为博士的称谓，并不只指医生。
+    - 例句：She earned a doctorate in physics. 她获得了物理学博士学位。
+    - 记忆：把doctor联想到博士头衔，doctorate联想到拿到的学位。
+2. **rely on**
+    - 含义与用法：表示“依靠、信赖”，常用rely on sb/sth和rely on sb to do sth。不能直接说rely someone。reliable是“可靠的”。
+    - 例句：You can rely on me to keep the secret. 你可以相信我会保守秘密。
+    - 记忆：把on想成支撑点，rely on就是靠在一个可靠的支撑上。
+3. **forest**
+    - 含义与用法：可数名词，表示“森林”。a forest是一片森林，woods也可表示林地。can't see the forest for the trees比喻只见细节、不见全局，英式也常用wood。
+    - 例句：We walked through the forest. 我们步行穿过森林。
+    - 记忆：把tree、woods和forest连成画面：一棵树、一片树林、一片森林。
+4. **housekeeper**
+    - 含义与用法：表示负责住宅清洁、整理等事务的人，也可指酒店客房工作人员或相关管理人员；具体职责看语境。housekeeping是家务或客房服务，不能一律理解成私人管家。
+    - 例句：The housekeeper changed the bed linen. 客房工作人员更换了床上用品。
+    - 记忆：house加keeper，联想负责打理房屋的人。
+5. **former / the former**
+    - 含义与用法：former作形容词表示“以前的、前任的”，如a former teacher；the former表示刚提到的两个事物中的“前者”，the latter表示“后者”。
+    - 例句：I enjoy tea and coffee, but I prefer the former. 我喜欢茶和咖啡，不过更喜欢前者。
+    - 记忆：former与在前面联系起来；指两者中的前一个时别漏掉the。
+6. **convert**
+    - 含义与用法：动词表示“转换、改造”，常用convert A into B；单位或货币转换常用convert A to/into B。作动词时重音在后；名词convert可指改信某宗教或转而接受某种观点的人，重音通常在前。
+    - 例句：They converted the garage into a bedroom. 他们把车库改成了一间卧室。
+    - 记忆：记住A经过改变，进入into另一种形式B。
+7. **mental**
+    - 含义与用法：形容词，表示“心理的、精神的、脑力的”，如mental health、mental effort和mental arithmetic“心算”。不要把mental直接当作中性的“聪明”。
+    - 例句：This task requires a lot of mental effort. 这项任务需要耗费很多脑力。
+    - 记忆：mental对应头脑活动，physical对应身体活动，两者成对记忆。
+8. **chilly**
+    - 含义与用法：表示“凉飕飕的、冷得让人不舒服的”，也可形容态度冷淡。chili/chilli是辣椒，读音相近但含义不同。
+    - 例句：It's a bit chilly outside. 外面有点凉。
+    - 记忆：联想冷风让人打寒战；把形容天气的chilly与辣椒chili分开。
+9. **slightly**
+    - 含义与用法：副词，表示“稍微、略微”，常修饰形容词、比较级或动词，如slightly different、slightly better。slight是形容词，表示轻微的。
+    - 例句：This room is slightly larger than mine. 这个房间比我的略大一点。
+    - 记忆：把slight记成很小的程度，slightly就是变化只多一点点。
+10. **intimate**
+    - 含义与用法：作形容词表示“亲密的、私人的”，也可表示了解深入，如intimate knowledge。an intimate relationship可能含恋爱或性关系意味。形容词词尾读/ət/；作动词表示“暗示”时词尾读/eɪt/。
+    - 例句：They shared an intimate conversation. 他们进行了一次私密而深入的交谈。
+    - 记忆：联想只与亲近的人分享的事；不是所有普通朋友都适合称intimate friends。
+11. **subway**
+    - 含义与用法：美式英语通常表示“地铁”；英式英语中也常表示地下人行通道，地铁常说the Underground或the Tube等。具体含义需结合地区。
+    - 例句：We took the subway to the museum. 我们乘地铁去了博物馆。
+    - 记忆：sub-表示在下面，way是道路，联想地下的通道或交通。
+12. **linen**
+    - 含义与用法：可指“亚麻布”，也可统称床单、枕套、桌布等家用织物，如bed linen；后一个意思不要求材料一定是亚麻。美式也常用复数linens指这些用品。
+    - 例句：Please put the clean bed linen in the cupboard. 请把干净的床上用品放进柜子。
+    - 记忆：先记材料亚麻，再扩展到传统上用这种材料做的家用织物。
+13. **overly**
+    - 含义与用法：副词，表示“过于、过度地”，常修饰形容词，如overly cautious、overly optimistic。一般带有超过合适程度的意思。
+    - 例句：Don't be overly critical of yourself. 别对自己过于苛刻。
+    - 记忆：over表示超出，加-ly成为副词，联想越过了合适的界线。
+14. **devil**
+    - 含义与用法：可数名词，表示“魔鬼”；the Devil通常指宗教中的魔王。play devil's advocate表示为了检验观点而故意提出反对意见，不一定真的反对。
+    - 例句：Let me play devil's advocate for a moment. 让我暂时从反方角度提出一点意见。
+    - 记忆：把devil与反方角色联系起来，连同devil's advocate一起记。
+15. **Vietnamese**
+    - 含义与用法：首字母应大写，可表示“越南的、越南人的、越南语的”，也可作名词指越南语或越南人。指一个人可说a Vietnamese person；the Vietnamese可统称越南人。
+    - 例句：She speaks Vietnamese fluently. 她越南语说得很流利。
+    - 记忆：Vietnam是国家名，加-ese联想到相关的人、语言和形容词；注意大写V。
+
+场景
+
+
+<img src="./英语听说/78_2.png" alt="第78天笔记图片2" loading="lazy" />
+
+
+<img src="./英语听说/78_3.png" alt="第78天笔记图片3" loading="lazy" />
+
+
+<img src="./英语听说/78_4.png" alt="第78天笔记图片4" loading="lazy" />
+
+
+<img src="./英语听说/78_5.png" alt="第78天笔记图片5" loading="lazy" />
+
+
+填空
+
+
+<img src="./英语听说/78_6.png" alt="第78天笔记图片6" loading="lazy" class="note-image-wide" />
+
+
+答案
+
+
+<img src="./英语听说/78_7.png" alt="第78天笔记图片7" loading="lazy" class="note-image-wide" />
