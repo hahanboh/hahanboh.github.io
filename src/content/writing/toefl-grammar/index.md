@@ -29,7 +29,7 @@ collapsibleSections: true
 I am a student study economics. (x)
 I am a student <span style="color: var(--color-yellow)">studying economics</span> (√)
 ### 修饰成分
-非谓语动词 
+非谓语动词
 	现在分词 doing 主动
 	过去分词 done 被动
 	不定式 to do 目的
@@ -76,16 +76,16 @@ I am a student <span style="color: var(--color-yellow)">studying economics</span
 (3) <span style="color: var(--color-yellow)">Using high-speed photography</span>, scientists have determined that there are two steps to the occurrence of lightning from a cloud to the ground. (TR18)
 #### 3.同位语：解释说明之前的名词(标志性的标点符号:逗号，破折号，冒号)
 同位语不一定有逗号：my friend <span style="color: var(--color-yellow)">Tom</span>中，Tom进一步说明friend是谁。
-例: Reykjavik, <span style="color: var(--color-yellow)">the capital of Iceland</span>, is entirely heated by geothermal energy <span style="color: var(--color-yellow)">derived from volcanic heat</span>. 
+例: Reykjavik, <span style="color: var(--color-yellow)">the capital of Iceland</span>, is entirely heated by geothermal energy <span style="color: var(--color-yellow)">derived from volcanic heat</span>.
 练习
-(1) Competition <span style="color: var(--color-yellow)">among individuals of the same species</span>, <span style="color: var(--color-yellow)">one of the major mechanisms of natural selection</span>, is the concern <span style="color: var(--color-yellow)">of evolutionary biology</span>. 
+(1) Competition <span style="color: var(--color-yellow)">among individuals of the same species</span>, <span style="color: var(--color-yellow)">one of the major mechanisms of natural selection</span>, is the concern <span style="color: var(--color-yellow)">of evolutionary biology</span>.
 (2) Continued sedimentation--- <span style="color: var(--color-yellow)">the process of deposits' settling on the sea bottom</span>--- buries the organic matter and subjects it to higher temperatures and pressures, <span style="color: var(--color-yellow)">which convert the organic matter to oil and gas</span>. (TR4)
 #### 插入语：插入句子的成分，用来补充说明
 例: Such techniques, <span style="color: var(--color-yellow)">however</span>, have limitations. (TR13)
 常见成分:副词，介词短语，不定式短语，分词短语，主谓结构，从句
 练习
 (1) The areas <span style="color: var(--color-yellow)">that are now desert</span> were, <span style="color: var(--color-yellow)">like all arid regions</span>, very susceptible to cycles of higher and lower levels of rainfall.
-(2) Teachers, <span style="color: var(--color-yellow)">I think</span>, benefit from the practice of reflection. 
+(2) Teachers, <span style="color: var(--color-yellow)">I think</span>, benefit from the practice of reflection.
 ## 第二讲 并列句
 ### 一、并列句构成
   1. 结构:简单句1+并列连词+简单句2
