@@ -3,7 +3,7 @@ title: "TOEFL 语法笔记：句型、从句与时态"
 description: "整理简单句、并列句、复合句、特殊句型、长难句分析与时态，附例句说明和完整课件。"
 locale: zh-cn
 publishedAt: 2026-11-04
-updatedAt: 2026-11-04
+updatedAt: 2026-11-09
 author: "柏涵"
 tags: ["英语", "学习笔记", "TOEFL", "语法"]
 featured: false
@@ -30,9 +30,9 @@ I am a student study economics. (x)
 I am a student <span style="color: var(--color-yellow)">studying economics</span> (√)
 ### 修饰成分
 非谓语动词
-	现在分词 doing 主动
-	过去分词 done 被动
-	不定式 to do 目的
+现在分词 doing 主动
+过去分词 done 被动
+不定式 to do 目的
 #### 1.定语：修饰名词
 （1）a <span style="color: var(--color-yellow)">foolish</span> man (2)jolin <span style="color: var(--color-yellow)">in the house</span>后置定语
 结构： 前置定语+名词+后置定语【<mark class="colorez-highlight" style="--hl-color: var(--color-red);">左二右六</mark>】
@@ -86,7 +86,7 @@ I am a student <span style="color: var(--color-yellow)">studying economics</span
 练习
 (1) The areas <span style="color: var(--color-yellow)">that are now desert</span> were, <span style="color: var(--color-yellow)">like all arid regions</span>, very susceptible to cycles of higher and lower levels of rainfall.
 (2) Teachers, <span style="color: var(--color-yellow)">I think</span>, benefit from the practice of reflection.
-## 第二讲 并列句
+##  第二讲 并列句
 ### 一、并列句构成
   1. 结构:简单句1+并列连词+简单句2
   例: <span style="color: var(--color-cyan, #40e0d0)">Ice sheets</span> <span style="color: var(--color-yellow)">retreated</span> <span style="color: var(--color-yellow)">and</span> <span style="color: var(--color-cyan, #40e0d0)">sea levels</span> <span style="color: var(--color-yellow)">rose</span>.(TR20)
@@ -104,8 +104,7 @@ I am a student <span style="color: var(--color-yellow)">studying economics</span
 ### 二、并列句的省略
 1. 省略条件：并列句中，<span style="color: var(--color-yellow)">相同的并列成分</span>，可省略。
 例：<span style="color: var(--color-cyan, #40e0d0)">The engine</span> <span style="color: var(--color-yellow)">helped</span> solve the problem of draining coal mines of groundwater <span style="color: var(--color-yellow)">and increased</span> the production of coal. (TR26)
-
-## 第三讲 复合句
+##  第三讲 复合句
 ### 复合句的分类
 
 | 从句类别 | 相当于的词性 | 细分 |
@@ -320,7 +319,6 @@ This is my girl friend<span style="color: var(--color-yellow)">,</span> who is w
 | as soon as | 一……就…… |
 | anytime | 在任何时候 |
 | until | 直到……为止 |
-
 #### ① when / while / as
 托福实战演练
 例1：Children feel validated in their choice of a product <span style="color: var(--color-cyan, #40e0d0)">when</span> <span style="color: var(--color-yellow)">a celebrity endorses that product</span>. (TR14) → when 表示“当……时”：名人代言时，孩子觉得自己的选择得到认可。
@@ -382,8 +380,7 @@ This is my girl friend<span style="color: var(--color-yellow)">,</span> who is w
 | in case | 如果……；以免…… |
 | <span style="color: var(--color-red)">so that</span> | 为了……；以致于…… |
 | as | 当……时；因为；和……一样；如同 |
-
-## 第四讲 特殊句型
+##  第四讲 特殊句型
 ### 一、强调句
 #### 1. 结构
 <span style="color: var(--color-yellow)">It is / was</span> + <span style="color: var(--color-cyan, #40e0d0)">被强调部分</span> + <span style="color: var(--color-yellow)">that / who</span> + 句子其余部分。
@@ -435,12 +432,11 @@ This is my girl friend<span style="color: var(--color-yellow)">,</span> who is w
 #### （一）if 条件句的虚拟
 1. 结构：“<span style="color: var(--color-yellow)">后退一步</span>”。
 
-| 时间 | if 从句 | 主句 |
-| --- | --- | --- |
-| 与现在相反 | did / were | 主语 + would / should / could / might + <span style="color: var(--color-red)">do</span> |
-| 与过去相反 | had done | 主语 + would / should / could / might + <span style="color: var(--color-red)">have done</span> |
-| 与将来相反 | did / were；were to do；should do | 主语 + would / should / could / might + <span style="color: var(--color-red)">do</span> |
-
+| 时间    | if 从句                           | 主句                                                                                           |
+| ----- | ------------------------------- | -------------------------------------------------------------------------------------------- |
+| 与现在相反 | did / were                      | 主语 + would / should / could / might + <span style="color: var(--color-red)">do</span>        |
+| 与过去相反 | had done                        | 主语 + would / should / could / might + <span style="color: var(--color-red)">have done</span> |
+| 与将来相反 | did / were；were to do；should do | 主语 + would / should / could / might + <span style="color: var(--color-red)">do</span>        |
 2. 托福实战演练
 例1：If I <span style="color: var(--color-yellow)">were</span> you, I <span style="color: var(--color-yellow)">would be</span> upset too. (TL8) → 与现在相反：假如我是你，我也会难过。
 例2：If element 43 ever <span style="color: var(--color-yellow)">had been</span> present on Earth, it <span style="color: var(--color-yellow)">would have decayed</span> ages ago. (TL8) → 对过去的假设：如果43号元素曾存在于地球上，它早已衰变。
@@ -458,72 +454,135 @@ He said <span style="color: var(--color-cyan, #40e0d0)">that</span> that “that
 - 五个 that 依次是：宾语从句引导词、指示词“那个”、被当作词语讨论的“that”、定语从句关系词、指示词“那个”。
 - that that man used 修饰被讨论的“that”。→ 他说，那个人使用的那个“that”是错的。
 ### 二、“3拆2看”原则
-#### 1. 三拆
+ 1. 三拆
 ① <span style="color: var(--color-cyan, #40e0d0)">介词</span>：of、with、in、for、to 等，划出介词短语。
 ② <span style="color: var(--color-cyan, #40e0d0)">引导词</span>：that、whether、which、what 等，划出从句。
 ③ <span style="color: var(--color-cyan, #40e0d0)">非谓语动词</span>：<span style="color: var(--color-yellow)">to do</span>、doing、<span style="color: var(--color-yellow)">done（被动）</span>，划出非谓语短语。
-#### 2. 两看
+2. 两看
 ① <span style="color: var(--color-yellow)">主句</span>：重点，先找主干。
 ② <span style="color: var(--color-cyan, #40e0d0)">从句</span>：辅助，再看从句与主句的关系。
 - 名词性从句：主语、宾语、表语、同位语从句。
 - 定语从句。
 - 状语从句。
 ### 三、示范分析
-Last year, <span style="color: var(--color-yellow)">the influential trade show</span> Designers & Agents <span style="color: var(--color-yellow)">stopped</span> charging its participation fee for young green entrepreneurs <span style="color: var(--color-cyan, #40e0d0)">who</span> attend its two springtime shows in Los Angeles and New York, <span style="color: var(--color-yellow)">and gave special recognition</span> to designers <span style="color: var(--color-cyan, #40e0d0)">whose</span> collections are at least 25% sustainable.
+原句
+Last year, the influential trade show Designers & Agents stopped charging its participation fee for young green entrepreneurs who attend its two springtime shows in Los Angeles and New York, and gave special recognition to designers whose collections are at least 25% sustainable.
+#### ① 找介词
+Last year, the influential trade show Designers & Agents stopped charging its participation fee <span style="color: var(--color-cyan, #40e0d0)">for</span> young green entrepreneurs who attend its two springtime shows <span style="color: var(--color-cyan, #40e0d0)">in</span> Los Angeles and New York, and gave special recognition <span style="color: var(--color-cyan, #40e0d0)">to</span> designers whose collections are at least 25% sustainable.
+- <span style="color: var(--color-cyan, #40e0d0)">for young green entrepreneurs</span>：说明向哪些人收取参展费。
+- <span style="color: var(--color-cyan, #40e0d0)">in Los Angeles and New York</span>：说明展会举办地点。
+- <span style="color: var(--color-cyan, #40e0d0)">to designers</span>：说明给予哪些人特别认可。
+#### ② 找非谓语
+Last year, the influential trade show Designers & Agents stopped <span style="color: var(--color-cyan, #40e0d0)">charging</span> its participation fee <span style="color: #536b0a">for young green entrepreneurs</span> who attend its two springtime shows <span style="color: #536b0a">in Los Angeles and New York</span>, and gave special recognition <span style="color: #536b0a">to designers</span> whose collections are at least 25% sustainable.
+- <span style="color: var(--color-cyan, #40e0d0)">charging its participation fee ...</span> 作 stopped 的宾语。
+- stop doing：停止做某事；这里是“停止收取参展费”。
+#### ③ 找引导词
+Last year, the influential trade show Designers & Agents <span style="color: var(--color-yellow)">stopped</span> <span style="color: #536b0a">charging its participation fee for young green entrepreneurs</span> <span style="color: var(--color-cyan, #40e0d0)">who</span> <span style="color: var(--color-yellow)">attend</span> its two springtime shows <span style="color: #536b0a">in Los Angeles and New York</span>, and <span style="color: var(--color-yellow)">gave</span> special recognition <span style="color: #536b0a">to designers</span> <span style="color: var(--color-cyan, #40e0d0)">whose</span> collections <span style="color: var(--color-yellow)">are</span> at least 25% sustainable.
+- <span style="color: var(--color-cyan, #40e0d0)">who attend its two springtime shows in Los Angeles and New York</span>：定语从句，修饰 young green entrepreneurs。
+- <span style="color: var(--color-cyan, #40e0d0)">whose collections are at least 25% sustainable</span>：定语从句，修饰 designers；whose 表示“这些设计师的”。
+#### ④ 确定主干
+Last year, <span style="color: var(--color-yellow)">the influential trade show</span> Designers & Agents <span style="color: var(--color-yellow)">stopped</span> <span style="color: #536b0a">charging its participation fee for young green entrepreneurs</span> (<span style="color: var(--color-cyan, #40e0d0)">who attend</span> its two springtime shows) <span style="color: #536b0a">in Los Angeles and New York</span>, <span style="color: var(--color-yellow)">and gave special recognition</span> <span style="color: #536b0a">to designers</span> (<span style="color: var(--color-cyan, #40e0d0)">whose</span> collections <span style="color: var(--color-cyan, #40e0d0)">are</span> at least 25% sustainable).
+- 主语：the influential trade show；Designers & Agents 是展会名称。
+- 并列谓语：<span style="color: var(--color-yellow)">stopped</span> 和 <span style="color: var(--color-yellow)">gave</span>，由 and 连接。
 - 主干：<span style="color: var(--color-yellow)">The trade show stopped charging its participation fee and gave special recognition to designers.</span> → 展会停止收取参展费，并给予设计师特别认可。
-- who attend ... 修饰 young green entrepreneurs；whose collections ... 修饰 designers。
-- charging ... 作 stopped 的宾语；Last year 表示时间，in Los Angeles and New York 表示展会举办地点。
+- Last year 表示时间。
 ### 四、托福实战演练
 #### 例1
+Totally without light and subjected to intense pressures hundreds of times greater than at the Earth’s surface,  the deep-ocean bottom is a hostile environment to humans, in some ways as forbidding and remote as the void of outer space.
+##### 分析
 Totally <span style="color: var(--color-cyan, #40e0d0)">without</span> light and <span style="color: var(--color-cyan, #40e0d0)">subjected</span> to intense pressures hundreds of times greater <span style="color: var(--color-cyan, #40e0d0)">than</span> at the Earth’s surface,  <span style="color: var(--color-yellow)">the deep-ocean bottom is a hostile environment</span> to humans, in some ways <span style="color: var(--color-cyan, #40e0d0)">as</span> forbidding and remote <span style="color: var(--color-cyan, #40e0d0)">as</span> the void of outer space.
 - 主干：The deep-ocean bottom is a hostile environment to humans. → 深海海底对人类来说环境恶劣。
 - 拆分：句首 without light 和 subjected to ... 说明海底无光、承受高压；hundreds of times greater than ... 修饰 pressures。
 - 比较：as forbidding and remote as ... 将深海海底与外太空相比。
+- 翻译顺序：先读“海底是恶劣环境”，再把句首的环境描述放到前面；as ... as ... 译为“和……一样……”。
+整句翻译：深海海底完全没有光照，承受的巨大压力比地球表面的压力高出数百倍，因此对人类而言是一个恶劣的环境；在某些方面，它像外太空的虚空一样令人望而生畏、遥不可及。
 #### 例2
-<span style="color: var(--color-yellow)">Basic</span> <span style="color: var(--color-cyan, #40e0d0)">to</span> any understanding of Canada <span style="color: var(--color-cyan, #40e0d0)">in</span> the 20 years <span style="color: var(--color-cyan, #40e0d0)">after</span> the Second World War <span style="color: var(--color-yellow)">is</span> <span style="color: var(--color-yellow)">the country's impressive population growth</span>.
+Basic to any understanding of Canada in the 20 years after the Second World War is the country's impressive population growth.
+##### 分析
+<span style="color: var(--color-yellow)">Basic</span> <span style="color: var(--color-cyan, #40e0d0)">to</span> any understanding <span style="color: var(--color-cyan, #40e0d0)">of</span> Canada <span style="color: var(--color-cyan, #40e0d0)">in</span> the 20 years <span style="color: var(--color-cyan, #40e0d0)">after</span> the Second World War <span style="color: var(--color-yellow)">is</span> <span style="color: var(--color-yellow)">the country's impressive population growth</span>.
 - 正常语序：The country's impressive population growth is basic to any understanding of Canada in the 20 years after the Second World War.
 - 拆分：表语 Basic ... 提前，形成“表—系—主”倒装；真正主语是 population growth。→ 人口增长是理解战后20年加拿大情况的基础。
+- 翻译方法：先还原“主语 + is + basic to ...”；be basic to ... 意为“是……的基础”，可顺译为“要理解……，首先需要认识……”。不要把 Basic 当作主语。
+整句翻译：要理解第二次世界大战结束后20年间加拿大的情况，首先需要认识到该国显著的人口增长。
 #### 例3
+As a result, claims that eating a diet consisting entirely of organically grown foods prevents or cures disease or provides other benefits to health have become widely publicized and form the basis for folklore.
+##### 分析
 As a result, <span style="color: var(--color-yellow)">claims</span> <span style="color: var(--color-cyan, #40e0d0)">that</span> eating a diet <span style="color: var(--color-cyan, #40e0d0)">consisting</span> entirely of organically grown foods prevents or cures disease or provides other benefits to health <span style="color: var(--color-yellow)">have become widely publicized and form the basis for folklore</span>.
 - 主干：Claims have become widely publicized and form the basis for folklore. → 这些说法被广泛传播，并成为民间观念的基础。
 - 拆分：that ... health 是同位语从句，说明 claims 的内容；从句主语是 eating a diet ...，谓语是 prevents or cures ... or provides ...。
 - 修饰：consisting entirely of organically grown foods 修饰 diet，表示完全由有机食品组成的饮食。
+- 翻译方法：先确定“这些说法被传播”，再将 that 从句译成“关于……的说法”；eating ... 整体是从句主语，不能把 foods 当作主语。
+整句翻译：因此，关于完全食用有机种植食品能够预防或治疗疾病，或给健康带来其他好处的说法，已经被广泛传播，并成为民间观念的基础。
+
 #### 例4
+There are numerous unsubstantiated reports that natural vitamins are superior to synthetic ones, that fertilized eggs are nutritionally superior to unfertilized eggs, that untreated grains are better than fumigated grains and the like.
+##### 分析
 <span style="color: var(--color-yellow)">There are numerous unsubstantiated reports</span> <span style="color: var(--color-cyan, #40e0d0)">that</span> natural vitamins are superior to synthetic ones, <span style="color: var(--color-cyan, #40e0d0)">that</span> fertilized eggs are nutritionally superior to unfertilized eggs, <span style="color: var(--color-cyan, #40e0d0)">that</span> untreated grains are better than fumigated grains and the like.
 - 主干：There are numerous unsubstantiated reports. → 有大量未经证实的说法。
 - 拆分：三个 that 引导并列的同位语从句，分别说明 reports 的内容：天然维生素、受精卵和未经处理的谷物更好。
+- 翻译方法：三个 that 均不单独译出，用“说法，例如……”领起并列内容；unsubstantiated 表示“未经证实”，修饰所有这些说法。
+整句翻译：有大量未经证实的说法，例如天然维生素优于合成维生素、受精卵的营养价值高于未受精卵、未经处理的谷物比经过熏蒸处理的谷物更好，等等。
+
 #### 例5
+Large wind farms might also interfere with the flight patterns of migratory birds in certain areas, and they have killed large birds of prey (especially hawks, falcons, and eagles) that prefer to hunt along the same ridge lines that are ideal for wind turbines.
+##### 分析
 <span style="color: var(--color-yellow)">Large wind farms might also interfere with the flight patterns</span> of migratory birds in certain areas, <span style="color: var(--color-yellow)">and they have killed large birds</span> of prey (especially hawks, falcons, and eagles) <span style="color: var(--color-cyan, #40e0d0)">that</span> prefer to hunt along the same ridge lines <span style="color: var(--color-cyan, #40e0d0)">that</span> are ideal for wind turbines.
 - 主干：Large wind farms might interfere with the flight patterns, and they have killed large birds of prey. → 风电场可能干扰候鸟飞行，也曾造成猛禽死亡。
 - 拆分：第一个 that 从句修饰 birds of prey；第二个 that 从句修饰 ridge lines，定语从句中又包含定语从句。
 - 括号：especially hawks, falcons, and eagles 举例说明猛禽种类。
+- 翻译方法：两个定语从句较长，拆成“这些猛禽……；而这些山脊线……”；they 指 wind farms。
+整句翻译：大型风电场还可能干扰某些地区候鸟的飞行模式，而且已经造成一些大型猛禽（尤其是鹰、隼和雕）死亡；这些猛禽喜欢沿着山脊线捕猎，而这些山脊线也正是安装风力涡轮机的理想地点。
+
 #### 例6
+Amid rumors that there were prehistoric mammoths wandering around the unknown region and that somewhere in its wilds was a mountain of rock salt 80 by 45 miles in extent, the two captains set out.
+##### 分析
 <span style="color: var(--color-cyan, #40e0d0)">Amid</span> rumors <span style="color: var(--color-cyan, #40e0d0)">that</span> there were prehistoric mammoths <span style="color: var(--color-cyan, #40e0d0)">wandering</span> around the unknown region and <span style="color: var(--color-cyan, #40e0d0)">that</span> somewhere in its wilds was a mountain of rock salt 80 by 45 miles in extent, <span style="color: var(--color-yellow)">the two captains set out</span>.
 - 主干：The two captains set out. → 两位船长出发了。
 - 拆分：Amid rumors ... 是句首状语；两个 that 从句并列，说明 rumors 的内容。
 - 内部结构：wandering ... 修饰 mammoths；somewhere in its wilds was a mountain ... 是倒装，主语是 a mountain of rock salt。
+- 倒装还原：A mountain of rock salt ... was somewhere in its wilds. → 岩盐山位于荒野中的某处。先译传言内容，最后落到主句“两位船长出发”。
+整句翻译：当时有传言说，那片未知地区有史前猛犸象游荡，而且其荒野中的某处有一座长80英里、宽45英里的岩盐山；在这些传言流传之际，两位船长出发了。
+
 #### 例7
+In the seventeenth century the organ, the clavichord and the harpsichord became the chief instruments of the keyboard group, a supremacy they maintained until the piano supplanted them at the end of the eighteenth century.
+##### 分析
 In the seventeenth century <span style="color: var(--color-yellow)">the organ, the clavichord and the harpsichord became the chief instruments</span> of the keyboard group, a supremacy they maintained <span style="color: var(--color-cyan, #40e0d0)">until</span> the piano supplanted them at the end of the eighteenth century.
 - 主干：The organ, the clavichord and the harpsichord became the chief instruments of the keyboard group. → 三种乐器成为主要键盘乐器。
 - 拆分：a supremacy ... 补充说明前面的主导地位；they maintained ... 是修饰 supremacy 的定语从句，省略了关系代词。
 - 时间：until ... 表示这种地位一直持续到18世纪末被钢琴取代。
+- 翻译方法：a supremacy 承接前面整件事，译成“这种主导地位”，另起分句；they 指三种乐器，them 也指三种乐器。
+整句翻译：17世纪，管风琴、击弦古钢琴和拨弦古钢琴成为键盘乐器中的主要乐器；它们一直保持着这种主导地位，直到18世纪末被钢琴取代。
+
 #### 例8
+If the pores are large, the water in them will exist as drops too heavy for surface tension to hold, and it will drain away; but if the pores are small enough, the water in them will exist as thin films, too light to overcome the force of surface tension holding them in place.
+##### 分析
 <span style="color: var(--color-cyan, #40e0d0)">If</span> the pores are large, <span style="color: var(--color-yellow)">the water</span> in them <span style="color: var(--color-yellow)">will exist</span> as drops <span style="color: var(--color-cyan, #40e0d0)">too</span> heavy for surface tension to hold, <span style="color: var(--color-yellow)">and it will drain away</span>; <span style="color: var(--color-yellow)">but</span> <span style="color: var(--color-cyan, #40e0d0)">if</span> the pores are small enough, <span style="color: var(--color-yellow)">the water</span> in them <span style="color: var(--color-yellow)">will exist</span> as thin films, <span style="color: var(--color-cyan, #40e0d0)">too</span> light to overcome the force of surface tension <span style="color: var(--color-cyan, #40e0d0)">holding</span> them in place.
 - 主干：两组 if 条件句由 but 连接，对比孔隙大、小两种情况：大孔隙中水形成水滴并流走，小孔隙中水形成薄膜。
 - 拆分：too heavy for surface tension to hold 表示水滴太重，表面张力无法托住；too light to overcome ... 表示薄膜太轻，无法克服表面张力。
 - 修饰：holding them in place 修饰 surface tension，说明表面张力把薄膜固定在原处。
+- 翻译方法：先按 but 分成两种情况；too ... to ... 译成“太……而不能……”，不要译成“为了”。
+整句翻译：如果孔隙较大，其中的水就会以水滴的形式存在；水滴太重，表面张力无法托住，因此水会流走。但如果孔隙足够小，其中的水就会以薄膜的形式存在；这些水膜太轻，无法克服将它们固定在原处的表面张力。
+
 #### 例9
+In a countercurrent exchange system, the blood vessels carrying cooled blood from the flippers run close enough to the blood vessels carrying warm blood from the body to pick up some heat from the warmer blood vessels.
+##### 分析
 In a countercurrent exchange system, <span style="color: var(--color-yellow)">the blood vessels</span> <span style="color: var(--color-cyan, #40e0d0)">carrying</span> cooled blood from the flippers <span style="color: var(--color-yellow)">run</span> close enough to <span style="color: var(--color-yellow)">the blood vessels</span> <span style="color: var(--color-cyan, #40e0d0)">carrying</span> warm blood from the body <span style="color: var(--color-cyan, #40e0d0)">to pick up</span> some heat from the warmer blood vessels.
 - 主干：The blood vessels run close enough to the blood vessels to pick up some heat. → 两组血管距离足够近，可以交换热量。
 - 拆分：两处 carrying ... 分别修饰两组 blood vessels，说明它们输送冷血和温血。
 - 结构：close enough ... to pick up ... 表示靠得足够近，从而能从较暖的血管吸收热量。
+- 翻译方法：先区分输送冷血和温血的两组血管，再译“靠得足够近，从而能吸热”；run 在这里描述血管的走向，不是“跑”。
+整句翻译：在逆流交换系统中，输送来自鳍肢的冷却血液的血管，与输送来自身体的温暖血液的血管靠得足够近，从而能从较暖的血管中吸收一些热量。
+
 #### 例10
+For example, some early societies ceased to consider certain rites essential to their well-being and abandoned them, nevertheless, they retained as parts of their oral tradition the myths that had grown up around the rites and admired them for their artistic qualities rather than for their religious usefulness.
+##### 分析
 For example, <span style="color: var(--color-yellow)">some early societies ceased</span> to consider certain rites essential to their well-being <span style="color: var(--color-yellow)">and abandoned them</span>, <span style="color: var(--color-cyan, #40e0d0)">nevertheless</span>, <span style="color: var(--color-yellow)">they retained</span> as parts of their oral tradition <span style="color: var(--color-yellow)">the myths</span> <span style="color: var(--color-cyan, #40e0d0)">that</span> had grown up around the rites <span style="color: var(--color-yellow)">and admired them</span> for their artistic qualities <span style="color: var(--color-cyan, #40e0d0)">rather than</span> for their religious usefulness.
 - 主干：Some early societies ceased to consider certain rites essential and abandoned them; nevertheless, they retained the myths and admired them. → 一些社会放弃仪式，但保留并欣赏相关神话。
 - 拆分：consider certain rites essential 是“认为某些仪式很重要”；essential 作宾语补足语。
 - 修饰：that had grown up around the rites 修饰 myths；as parts of their oral tradition 说明以口头传统的形式保留神话。
 - 对比：rather than ... 表示欣赏的是艺术价值，而非宗教用途。
-
+- 翻译方法：先按 nevertheless 分成“放弃仪式”和“保留神话”；retained 的宾语 the myths 被 as ... 短语隔开，后半句 them 指 myths。
+整句翻译：例如，一些早期社会不再认为某些仪式对自身的福祉至关重要，因而放弃了这些仪式；不过，它们仍把围绕这些仪式形成的神话作为口头传统的一部分保留下来，并因其艺术价值而欣赏这些神话，而非看重其宗教用途。
 ## 第六讲 时态
 ### 一、先看懂动词形式
 do：原形；does：第三人称单数；did：过去式；done：过去分词；doing：现在分词。这里用它们代表各种动词的形式。
@@ -543,7 +602,6 @@ do：原形；does：第三人称单数；did：过去式；done：过去分词�
 | 现在完成 | have / has done | 过去与现在有联系：结果、经历或持续 |
 | 过去完成 | had done | 到过去某时已经发生，即“过去的过去” |
 | 现在完成进行 | have / has been doing | 从过去持续到现在或刚结束，强调过程 |
-
 #### ① 一般现在、一般过去、一般将来
 - Water <span style="color: var(--color-yellow)">expands</span> when it freezes. → 科学事实，用一般现在。
 - The species <span style="color: var(--color-yellow)">disappeared</span> thousands of years ago. → 过去发生的事，用一般过去。
@@ -582,7 +640,6 @@ yesterday、last year、in 1997 等已结束的过去时间，通常搭配一般
 | 将来完成 | will have done | 到将来某时已经完成 |
 | 将来完成进行 | will have been doing | 到将来某时，已持续做了多久 |
 | 过去将来 | would do / was going to do | 从过去的角度看将来 |
-
 例：He said he <span style="color: var(--color-yellow)">would return</span>. → “返回”在“说”之后；would 在这里表示过去将来，不是虚拟语气。
 ### 五、被动语态：和时态一起认
 结构：<span style="color: var(--color-cyan, #40e0d0)">be + done</span>；时态由前面的助动词形式体现，done 不随时态改变。
